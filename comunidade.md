@@ -8,9 +8,9 @@ O objetivo por traz desse experimento não é criar uma DAO, muito menos uma emp
 
 ### Para Quem é Destinado?
 
-Esse programa é desinado para qualquer pessoa, embiora a comunidade web3dev seja destinada para pessoas de tecnologia, você não precisa ser e nem querer ser programador.
+Esse programa é destinado para qualquer pessoa, embora a comunidade web3dev seja destinada para pessoas de tecnologia, você não precisa ser e nem querer ser programador.
 
-Na verade, você não precisa entender nada de nada. Se seguir o tutorial, vai conseguir aprender.
+Na verdade, você não precisa entender nada de nada. Se seguir o tutorial, vai conseguir aprender.
 
 O foco é para que você aprenda a ser um **usuário de web3**.
 
