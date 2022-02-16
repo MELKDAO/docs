@@ -4,14 +4,14 @@ description: Configurar uma nova rede e um novo token na carteira.
 
 # Missão 2
 
-Nesta missão vamos entender o que são as diferentes redes e vamos aprender como visualizar na metamask a quantia de tokens que temos em nossa carteira. Este é o primeiro passo para você começar a gerenciar o saldo em tokens que você tem a disposição para usar.
+Nesta missão vamos entender o que são as diferentes redes e vamos aprender como visualizar na Metamask a quantia de tokens que temos em nossa carteira. Este é o primeiro passo para você começar a gerenciar o saldo em tokens que você tem à disposição para usar.
 
-Para seguir com essa missão você precisa ter realizado a [Missão 1](missao-1/) então estou considerando que você já instalou a metamask e, já recebeu a sua recompensa.
+Para seguir com essa missão você precisa ter realizado a [Missão 1](missao-1/) então estou considerando que você já instalou a Metamask e já recebeu sua recompensa.
 
 Então vamos lá!
 
 {% hint style="info" %}
-As telas dessa missão foram tiradas da Metamask do cumputador, caso você use o celular as telas não serão idênticas, mas a interface é muito similar e você conseguirá executar todas as ações sem problema.
+As telas dessa missão foram tiradas da Metamask do computador, caso você use o celular as telas não serão idênticas, mas a interface é muito similar e você conseguirá executar todas as ações sem problema.
 {% endhint %}
 
 O mundo cripto funciona com uma tecnologia chamada blockchain. O blockchain é uma base de dados que possui a informação de todas as transações que já foram realizadas até o momento. O blockchain não está em um servidor (computador) em algum lugar único. Ele é distribuído em milhares de computadores, que através de mecanismos de consenso garantem a integridade das operações.
@@ -32,7 +32,7 @@ Na minha tela as vezes aparece Account 1 ou Account 2, mas na sua vai aparecer s
 
 Bem no topo tem escrito **Mainnet do Ethereum** e isso mostra em qual blockchain ela está conectada no momento. Como a Metamask foi feita para o Ethereum, é esse blockchain que aparece por padrão. Mainnet siginifica que é a rede principal. Isso porque também existem as chamadas Testnets que existem apenas para os desenvolvedores fazerem testes antes de colocar seus sistemas para rodar na rede principal.
 
-No centro você vê 0 ETH que representa o saldo em ETH que você tem nessa carteita. Como nada foi feito até agora, o seu saldo vai estar zerado. Como o ETH é a moeda padrão da Ethereum, é essa moeda que aparece no meio.
+No centro você vê 0 ETH que representa o saldo em ETH que você tem nessa carteira. Como nada foi feito até agora, o seu saldo vai estar zerado. Como o ETH é a moeda padrão da Ethereum, é essa moeda que aparece no meio.
 
 Mais abaixo ele mostra a listagem de tokens que você tem nesta carteira. Como ainda não tem nada, ele mostra somente o ETH que já vem configurado por ser a moeda padrão e o saldo zerado, porque você não recebeu nada ainda.
 
@@ -40,11 +40,11 @@ Pois bem! Se você já recebeu os seus $MELKs de recompensa, por que eles não a
 
 Existem dois motivos para que você não consiga ver os seus tokens MELK ainda. O primeiro motivo é que o token MELK não é um token da rede Ethereum e o segundo motivo é que você ainda não incluiu o token na listagem para ele aparecer ali.
 
-Os tokens que você recebe não ficam no software da metamask. Uma transferência de tokens é uma transação que ocorre na base de dados do blockchain e que resulta em um saldo na sua carteira. Toda a informação de transações e saldo ficam registradas no blockchain e não no seu computador.
+Os tokens que você recebe não ficam no software da Metamask. Uma transferência de tokens é uma transação que ocorre na base de dados do blockchain e que resulta em um saldo na sua carteira. Toda a informação de transações e saldo ficam registradas no blockchain e não no seu computador.
 
 Em outras palavras, quando transfiro um token para você, eu não mando nenhum arquivo para o seu computador. Por isso, se você formatar o computador, você não perde os seus tokens, desde que você tenha salvo as palavras sementes.
 
-Você perde os seus tokens se um dia você perder a sua palavra semente. Porque a palavra sementer é a chave para que você consiga enviar uma transação para o blockchain que manipule os tokens da sua carteira.
+Você perde os seus tokens se um dia você perder suas palavras sementes. Porque as palavras sementes são a chave para que você consiga enviar uma transação para o blockchain que manipule os tokens da sua carteira.
 
 Se ficar confuso e você tiver alguma dúvida sobre esse mecanismo, pergunte lá no [canal de ajuda da comunidade web3dev](https://discord.gg/w8smrfEpN4).
 
@@ -98,7 +98,7 @@ Perceba também que na listagem de tokens só aparece o token MATIC com o saldo 
 
 Como a rede Polygon foi derivada da rede Ethereum o mesmo endereço público da sua carteira e a mesma chave privada, com as mesmas palavras sementes funcionam para ambas as redes.
 
-Se você olhar o endereço logo abaixo do nome  sua conta, perceberá que permanece o mesmo endereço público que estava presente na rede Ethereum.
+Se você olhar o endereço logo abaixo do nome da sua conta, perceberá que permanece o mesmo endereço público que estava presente na rede Ethereum.
 
 A qualquer momento você pode mudar de rede clicando na rede atual lá em cima da tela.
 
@@ -106,7 +106,7 @@ A qualquer momento você pode mudar de rede clicando na rede atual lá em cima d
 
 Agora vamos incluir o token MELK para conseguir visualizar o saldo que você tem. Dado que você já recebeu a recompensa da missão anterior, a sua carteira terá um saldo deste token.
 
-Como falei antes, o token não fica no seu computador como um arquivo, ele é resultante das transações que acontecem lá no blockchain. A sua metamask não sabe o que aconteceu por lá, você precisa informá-la que quer consultar um determinado token para ver o quanto deste token a sua carteira tem de saldo. Para fazer isso siga os passos abaixo.
+Como falei antes, o token não fica no seu computador como um arquivo, ele é resultante das transações que acontecem lá no blockchain. A sua Metamask não sabe o que aconteceu por lá, você precisa informá-la que quer consultar um determinado token para ver o quanto deste token a sua carteira tem de saldo. Para fazer isso siga os passos abaixo.
 
 #### 2.1. Clique em Import tokens
 
@@ -138,7 +138,7 @@ Depois de clicar em **Add Custom Token** você já vai ver o seu saldo de MELK!
 
 ![](../.gitbook/assets/Screenshot\_29\_01\_22\_17\_05.png)
 
-Após importar o token, a metamask mostrará a tela do token com o seu saldo bem no meio. Você pode então clicar na setinha para voltar para a conta que verá a tela inicial já com o token importado.
+Após importar o token, a Metamask mostrará a tela do token com o seu saldo bem no meio. Você pode então clicar na setinha para voltar para a conta que verá a tela inicial já com o token importado.
 
 ![](../.gitbook/assets/Screenshot\_29\_01\_22\_17\_08.png)![](../.gitbook/assets/Screenshot\_29\_01\_22\_17\_07.png)
 
@@ -146,17 +146,19 @@ Após importar o token, a metamask mostrará a tela do token com o seu saldo bem
 
 Prontinho, você agora pode acompanhar o seu saldo de MELK. Como você pode ver, eu recebi 1.003 token MELK por ter realizado a missão 1.
 
-Mas espera aí. A recompensa da missão 1 não era de 1 token? Sim, é verdade, mas, na realidade eu passei um pouquinho mais, justamente para que nós pudéssemos validar essa missão 2 :)
+Mas espera aí. A recompensa da missão 1 não era de 1 token? Sim, é verdade! Mas na realidade eu passei um pouquinho mais, justamente para que nós pudéssemos validar essa missão 2 :)
 
 ### 3. Manda lá no discord o seu saldo em MELK para receber a recompensa dessa missão
 
-Vá até o [canal da Missão 2 do Experimento MELK no discord](https://discord.gg/uDyHmwBw6E) e mande uma mensagem com o valor exato que você recebeu de recompensa pela missão anterior. Escreva exatamente como aparece na mestamask, ou seja, o valor com 3 casas decimais e usando ponto como delimitador. No meu caso a mensagem que eu teria que enviar seria essa:
+Vá até o [canal da Missão 2 do Experimento MELK no discord](https://discord.gg/uDyHmwBw6E) e mande uma mensagem com o valor exato que você recebeu de recompensa pela missão anterior. Escreva exatamente como aparece na Metamask, ou seja, o valor com 3 casas decimais e usando ponto como delimitador. No meu caso a mensagem que eu teria que enviar seria essa:
 
 > 1.003
 
 Qualquer dúvida, fique a vontade para falar no canal de ajuda.
 
 {% hint style="info" %}
-Nesta missão tivemos 2 aprendizados. O primeiro foi sobre as diferentes redes e como configurar uma rede nova na Metamask e o segundo foi sobre como configurar um novo token na Metamask.
+Nesta missão tivemos 2 aprendizados: 
+1. O primeiro foi sobre as diferentes redes e como configurar uma rede nova na Metamask e; 
+2. O segundo foi sobre como configurar um novo token na Metamask.
 {% endhint %}
 
