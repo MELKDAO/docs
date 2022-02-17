@@ -25,6 +25,6 @@ Contrato: [https://polygonscan.com/address/0x9fd41f6f67d4438f0e3dc3951eae0ad2093
 
 ### Código Fonte
 
-O código fonte do smart contract do token está publico no Github
+O código fonte do smart contract do token está público no Github
 
 [https://github.com/web3melk/melk-token](https://github.com/web3melk/melk-token)
