@@ -84,7 +84,7 @@ Para copiá-lo por completo, clique em cima dele. Isso te levará até outra pá
 
 A partir daí, só copie para o teclado clicando no botão sinalizado acima e mande no [discord!](https://discord.com/invite/uDyHmwBw6E)
 
-Qualquer dúvida, sinta-se livre para mandar mensagens no [canal de ajuda.](https://discordapp.com/channels/898706705779687435/923219845301030932)
+Qualquer dúvida, sinta-se livre para mandar mensagens no canal de [bate papo no discord](https://discord.com/channels/898706705779687435/932249635496525834).
 
 {% hint style="info" %}
 Nesta missão tivemos 2 aprendizados. Aprendemos como visualizar as nossas transações utilizando o site de scan da rede Polygon.
