@@ -38,9 +38,7 @@ Você se lembra da missão 1, em que copiamos o nosso endereço público (simila
 
 Abra a extensão do Metamask, na parte superior direita do seu navegador. Depois copie o seu endereço público como mostrado na imagem:
 
-//TODO imagem do endereço da carteira
-
-
+![](<../.gitbook/assets/image (11).png>)
 
 Depois de copiar o endereço, cole no campo de busca do Polygonscan e clique no ícone de pesquisa.
 
