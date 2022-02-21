@@ -4,7 +4,7 @@ description: Visualizando transações na blockchain
 
 # Missão 3
 
-Estamos evoluindo. Nas últimas duas missões nós configuramos nossa carteira na Metamask e incluimos a rede Polygon e o token Melk para visualização. A Metamask é apenas uma forma de visualizar uma parte do que está na blockchain. A Metamask é mais focada para gerenciar o seu saldo em cada token.
+Estamos evoluindo. Nas últimas duas missões nós configuramos nossa carteira na Metamask e incluímos a rede Polygon e o token Melk para visualização. A Metamask é apenas uma forma de visualizar uma parte do que está na blockchain. A Metamask é mais focada para gerenciar o seu saldo em cada token.
 
 Existem outras formas de visualizar a sua carteira e as transações que aconteceram na blockchain, que são os sites de scan. E nessa missão vamos aprender a utilizá-los.
 
@@ -16,11 +16,11 @@ Só pra recapitular, ao confirmar a missão 1, você recebeu 1 ponto alguma cois
 
 Vamos então aprender a ver essas transações.
 
-Cada blockchain tem um ou mais sites que podem ser usados para visualizar as transações mas cada um tem um site "oficial" que é mais usado pela maioria das pessoas.
+Cada blockchain tem um ou mais sites que podem ser usados para visualizar as transações, mas cada um tem um site "oficial" que é mais usado pela maioria das pessoas.
 
 No caso do Ethereum, o site mais famoso é o Etherscan que pode ser acessado pelo endereço [https://etherscan.io/](https://etherscan.io)
 
-Existe também o [https://ethplorer.io/](https://ethplorer.io) o [https://ethblockexplorer.org/](https://ethblockexplorer.org) e o [https://explorer.bitquery.io/ethereum](https://explorer.bitquery.io/ethereum) . Fique a vontade para explorá-los depois só por curiosidade. A diferença entre eles é a forma que mostram as informações, as facilidades de salvar os endereços e monitoramento com envio de notificação por e-mail para determinadas transações.
+Existe também o [https://ethplorer.io/](https://ethplorer.io), o [https://ethblockexplorer.org/](https://ethblockexplorer.org) e o [https://explorer.bitquery.io/ethereum](https://explorer.bitquery.io/ethereum). Fique à vontade para explorá-los depois só por curiosidade. A diferença entre eles é a forma que mostram as informações, as facilidades de salvar os endereços e monitoramento com envio de notificação por e-mail para determinadas transações.
 
 Como estamos usando a rede Polygon vamos usar o Polygon Scan para o nosso exercício.
 
@@ -34,13 +34,13 @@ Você verá uma página conforme a imagem abaixo.
 
 ### 2. Copie e cole o seu endereço no campo de busca.
 
-Você se lembra da missão 1, em que copiamos o nosso endereço público (similar a uma chave pix, número da conta do banco) da Metamask? Para esta missão, vamos ter que copiar novamente.&#x20;
+Você se lembra da missão 1, em que copiamos o nosso endereço público (similar a uma chave PIX, número da conta do banco) da Metamask? Para esta missão, vamos ter que copiar novamente.&#x20;
 
 Abra a extensão do Metamask, na parte superior direita do seu navegador. Depois copie o seu endereço público como mostrado na imagem:
 
 ![](<../.gitbook/assets/image (11).png>)
 
-Depois de copiar o endereço, cole no campo de busca do Polygonscan e clique no ícone de pesquisa.
+Depois de copiar o endereço, cole no campo de busca do Polygon Scan e clique no ícone de pesquisa.
 
 ![](../.gitbook/assets/image.png)
 
@@ -64,15 +64,15 @@ Aí está! Agora estamos visualizando as transações de recompensa do nosso tok
 
 ### 4. Entendendo as transações
 
-Explicando de maneira simples, quando uma transação é requisitada e autenticada, um bloco representando essa transação é criado. Depois, esse bloco é enviado para uma fila de espera chamada pool. Quando sair da file de espera, os nodes validadores da rede (que irão validar a transação e colocá-la na blockchain atual) validam a transação e recebem a recompensa por terem validado (um exemplo são os mineradores de Bitcoin, que na verdade são validadores). Depois, o bloco é adicionado à blockchain existente, e essa atualização é distribuída por toda a rede. Após finalizar esse processo, a transação está completa.
+Explicando de maneira simples, quando uma transação é requisitada e autenticada, um bloco representando essa transação é criado. Depois, esse bloco é enviado para uma fila de espera chamada pool. Quando sair da fila de espera, os nodes validadores da rede (que irão validar a transação e colocá-la na blockchain atual) validam a transação e recebem a recompensa por terem validado (um exemplo são os mineradores de Bitcoin, que na verdade são validadores). Depois, o bloco é adicionado à blockchain existente, e essa atualização é distribuída por toda a rede. Após finalizar esse processo, a transação está completa.
 
 Aqui está um resumo do processo:
 
 ![](<../.gitbook/assets/image (12).png>)
 
-### 5. Manda no discord o Txn Hash da primeira transação para receber a recompensa dessa missão
+### 5. Manda no Discord o Txn Hash da primeira transação para receber a recompensa dessa missão
 
-Parabéns por chegar até aqui! Vá até o [canal da missão 3 do experimento melk no discord](https://discord.com/invite/uDyHmwBw6E) e mande uma mensagem com o hash da transação com o valor de 1 MELK token que vimos no site do Polygon Scan. No meu caso, mandaria esse valor:
+Parabéns por chegar até aqui! Vá até o [canal da missão 3 do experimento Melk no Discord](https://discord.com/invite/uDyHmwBw6E) e mande uma mensagem com o hash da transação com o valor de 1 MELK token que vimos no site do Polygon Scan. No meu caso, mandaria esse valor:
 
 ![](<../.gitbook/assets/image (20).png>)
 
@@ -80,25 +80,10 @@ Para copiá-lo por completo, clique em cima dele. Isso te levará até outra pá
 
 ![](<../.gitbook/assets/image (13).png>)
 
-A partir daí, só copie para o teclado clicando no botão sinalizado acima e mande no [discord!](https://discord.com/invite/uDyHmwBw6E)
+A partir daí, só copie no botão sinalizado acima e mande no [Discord!](https://discord.com/invite/uDyHmwBw6E)
 
-Qualquer dúvida, sinta-se livre para mandar mensagens no canal de [bate papo no discord](https://discord.com/channels/898706705779687435/932249635496525834).
+Qualquer dúvida, sinta-se livre para mandar mensagens no canal de [bate papo no Discord](https://discord.com/channels/898706705779687435/932249635496525834).
 
 {% hint style="info" %}
-Nesta missão tivemos 2 aprendizados. Aprendemos como visualizar as nossas transações utilizando o site de scan da rede Polygon.
+Nesta missão tivemos 2 aprendizados: Aprendemos como as transações funcionam e aprendemos a visualizar as nossas transações utilizando o site de Scan da rede Polygon.
 {% endhint %}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
