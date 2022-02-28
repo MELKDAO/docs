@@ -4,7 +4,7 @@ description: $MELK é o primeiro token Learn-to-Earn (aprenda para ganhar) do Br
 
 # MELK - Primeiro token Learn-to-earn do Brasil
 
-$MELK nasce de um experimento baseado na [ideia original do token $ELIOT](https://eliotc.substack.com/p/hello-eliot-a-community-driven-education). O experimento de $MELK tem por objetivo trazer milhares de pessoas para o novo mundo web3.
+O experimento de $MELK tem por objetivo trazer milhares de pessoas para o novo mundo web3.
 
 Já ficou claro pra mim, que as tecnologias da web3 irão revolucionar a maneira com que interagimos socialmente, trabalhamos, estudamos e nos divertimos. Uma nova infraestrutura tecnológica e econômica está sendo criada e aos poucos vamos vivenciar uma disrupção dos modelos tradicionais de trabalho e educação.
 
