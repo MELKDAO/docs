@@ -12,4 +12,5 @@
   * [Instalar uma carteira no Celular](missoes/missao-1/instalar-uma-carteira-no-celular.md)
   * [Instalar uma carteira no Computador](missoes/missao-1/instalar-uma-carteira-no-computador.md)
 * [Missão 2](missoes/missao-2.md)
+* [Missão 4](missoes/missao-4.md)
 * [Missão 3](missoes/missao-3.md)
