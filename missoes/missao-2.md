@@ -69,7 +69,7 @@ A Metamask vai abrir um formulário para você preencher os dados da rede Polygo
 |                    |                                                                                  |
 | ------------------ | -------------------------------------------------------------------------------- |
 | Network Name       | Mainnet da Polygon                                                               |
-| New RPC URL        | [https://rpc-mainnet.matic.quiknode.pro](https://rpc-mainnet.matic.quiknode.pro) |
+| New RPC URL        | [https://polygon-rpc.com](https://polygon-rpc.com) |
 | Chain ID           | 137                                                                              |
 | Currency Symbol    | MATIC                                                                            |
 | Block Explorer URL | [https://polygonscan.com](https://polygonscan.com)                               |
