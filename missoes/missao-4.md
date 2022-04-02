@@ -172,7 +172,7 @@ Esse valor (também em Gwei) representa quanto da transação será direcionada 
 
 ### 3.17 Burnt Fees
 
-Esse campo mostra a quantidade em valor da taxa que foi queimada (burnt), explicado no [EIP-559](missao-4.md#3.10-txn-type) referenciado acima.
+Esse campo mostra a quantidade em valor da taxa que foi queimada (burnt), explicado no [EIP-1559](missao-4.md#3.10-txn-type) referenciado acima.
 
 ### 3.18 Txn Savings
 
