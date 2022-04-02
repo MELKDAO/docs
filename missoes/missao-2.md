@@ -112,7 +112,7 @@ Como falei antes, o token não fica no seu computador como um arquivo, ele é re
 
 ![](<../.gitbook/assets/Screenshot\_29\_01\_22\_16\_49 (2).png>)
 
-2.2. Preencha os dados do token
+#### 2.2. Preencha os dados do token
 
 Todo token é um smart contract, ou seja, um software, um código de programação que está na blockchain. Cada contrato possui um endereço que é um código similar ao seu endereço público da carteira. Para importar um token você precisa saber qual é o endereço do token.
 
