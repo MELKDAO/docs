@@ -38,7 +38,7 @@ Você se lembra da missão 1, em que copiamos o nosso endereço público (simila
 
 Abra a extensão do Metamask, na parte superior direita do seu navegador. Depois copie o seu endereço público como mostrado na imagem:
 
-![](<../.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/image (11) (1).png>)
 
 Depois de copiar o endereço, cole no campo de busca do Polygon Scan e clique no ícone de pesquisa.
 
@@ -46,7 +46,7 @@ Depois de copiar o endereço, cole no campo de busca do Polygon Scan e clique no
 
 O resultado deve ser parecido com esse. Vamos encontrar nossas transações!
 
-![](<../.gitbook/assets/image (22).png>)
+![](<../.gitbook/assets/image (22) (1).png>)
 
 ### 3. Encontrando as transações
 
@@ -78,7 +78,7 @@ Parabéns por chegar até aqui! Vá até o [canal da missão 3 do experimento Me
 
 Para copiá-lo por completo, clique em cima dele. Isso te levará até outra página, como essa, que veremos nas próximas aulas:
 
-![](<../.gitbook/assets/image (13).png>)
+![](<../.gitbook/assets/image (13) (1).png>)
 
 A partir daí, só copie no botão sinalizado acima e mande no [Discord!](https://discord.com/invite/uDyHmwBw6E)
 

@@ -13,4 +13,5 @@
   * [Instalar uma carteira no Computador](missoes/missao-1/instalar-uma-carteira-no-computador.md)
 * [Missão 2](missoes/missao-2.md)
 * [Missão 3](missoes/missao-3.md)
+* [Missão 5](missoes/missao-5.md)
 * [Missão 4](missoes/missao-4.md)
