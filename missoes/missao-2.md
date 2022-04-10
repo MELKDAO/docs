@@ -66,13 +66,13 @@ Vamos agora seguir os passos para configurar a rede da Polygon na Metamask.
 
 A Metamask vai abrir um formulário para você preencher os dados da rede Polygon. Abaixo estão os dados que você precisa preencher no formulário:
 
-|                    |                                                                                  |
-| ------------------ | -------------------------------------------------------------------------------- |
-| Network Name       | Mainnet da Polygon                                                               |
-| New RPC URL        | [https://rpc-mainnet.matic.quiknode.pro](https://rpc-mainnet.matic.quiknode.pro) |
-| Chain ID           | 137                                                                              |
-| Currency Symbol    | MATIC                                                                            |
-| Block Explorer URL | [https://polygonscan.com](https://polygonscan.com)                               |
+|                    |                                                             |
+| ------------------ | ----------------------------------------------------------- |
+| Network Name       | Mainnet da Polygon                                          |
+| New RPC URL        | [https://polygonscan-rpc.com/](https://polygonscan-rpc.com) |
+| Chain ID           | 137                                                         |
+| Currency Symbol    | MATIC                                                       |
+| Block Explorer URL | [https://polygonscan.com](https://polygonscan.com)          |
 
 {% hint style="warning" %}
 Um provedor de rede mal-intencionado pode mentir sobre o estado do blockchain e gravar a atividade da sua rede. Adicione somente as redes em que você confia.
@@ -140,7 +140,7 @@ Depois de clicar em **Add Custom Token** você já vai ver o seu saldo de MELK!
 
 Após importar o token, a Metamask mostrará a tela do token com o seu saldo bem no meio. Você pode então clicar na setinha para voltar para a conta que verá a tela inicial já com o token importado.
 
-![](../.gitbook/assets/Screenshot\_29\_01\_22\_17\_08.png)![](../.gitbook/assets/Screenshot\_29\_01\_22\_17\_07.png)
+![](../.gitbook/assets/Screenshot\_29\_01\_22\_17\_08.png) ![](../.gitbook/assets/Screenshot\_29\_01\_22\_17\_07.png)
 
 #### 2.4. Parabéns! Você importou o token MELK!
 
@@ -157,8 +157,8 @@ Vá até o [canal da Missão 2 do Experimento MELK no discord](https://discord.g
 Qualquer dúvida, fique a vontade para falar no canal de ajuda.
 
 {% hint style="info" %}
-Nesta missão tivemos 2 aprendizados: 
-1. O primeiro foi sobre as diferentes redes e como configurar uma rede nova na Metamask e; 
+Nesta missão tivemos 2 aprendizados:
+
+1. O primeiro foi sobre as diferentes redes e como configurar uma rede nova na Metamask e;
 2. O segundo foi sobre como configurar um novo token na Metamask.
 {% endhint %}
-
