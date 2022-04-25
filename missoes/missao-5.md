@@ -90,7 +90,7 @@ O site agora possui o _hash_ da assinatura que você realizou, e tendo conhecime
 
 Isso garante que só você e mais ninguém consegue gerar esse hash de assinatura. Esse processo comprova a sua identidade. É um sistema de login simples, efetivo e seguro.
 
-Normalmente o hahs da assinatura não aparece na tela e não precisa ser manipulado por você, mas no nosso caso nós mostramos para que você possa usá-lo como prova da missão.
+Normalmente o hash da assinatura não aparece na tela e não precisa ser manipulado por você, mas no nosso caso nós mostramos para que você possa usá-lo como prova da missão.
 
 ### 5. Pronto! Agora manda lá no Discord o hash da assinatura
 
