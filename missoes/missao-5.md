@@ -16,7 +16,7 @@ Entretanto, existe um tipo de operação que se encaixa no conceito de _gas free
 
 Assinaturas são usadas desde muito tempo atrás na nossa sociedade, e servem como um mecanismo de autenticação, provando sua identidade através de uma assinatura. No mundo da web3, também temos esse processo de assinaturas, que são amplamente utilizadas em sistemas de login. Para isso, temos uma imagem comum do paradigma de login nas diferentes fases da web:
 
-![paradigma de login](<../.gitbook/assets/image (13).png>)
+![paradigma de login](<../.gitbook/assets/image (13) (1).png>)
 
 As assinaturas servem para comprovar que você é dono da carteira, ou seja, que você possui a chave privada, sendo muito usada para fazer login em sistemas, como mostrado no paradigma acima.
 
