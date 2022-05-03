@@ -70,7 +70,9 @@ A título do nosso exercício, utilizaremos o [RampBR](https://rampbr.com) para 
 
 No final dessa missão é importante que você tenha pelo menos 2 MATIC no saldo da sua carteira.&#x20;
 
-Se você já sabe como comprar MATIC de outra forma, fique a vontade para pular esta parte.
+{% hint style="info" %}
+Essa missão faz a checagem de recompensa por meio do seu saldo de Matic. Portanto, se você já possui MATIC (mais que 2) na conta ou sabe comprar de outra forma, fique a vontade para pular essa parte.
+{% endhint %}
 
 Se você nunca comprou criptomoeda, siga os passos abaixo:
 
