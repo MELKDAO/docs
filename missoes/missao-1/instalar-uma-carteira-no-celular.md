@@ -16,7 +16,7 @@ Se você tiver no Android, acesse [https://metamask.app.link/bxwkE8oF99](https:/
 **Atenção!** É muito importate você confiar na fonte de onde você está fazendo a instalação. Se você instalar de uma fonte insegura, você pode instalar uma versão do app que poderá ser hackeado e seus fundos serão perdidos.
 {% endhint %}
 
-Se você quiser conferir os links, vá até o [site oficial da Metamask](https://metamask.io) e clique em Download.
+Se você quiser conferir os links, vá até o [site oficial da Metamask](https://metamask.io/) e clique em Download.
 
 Você também precisa se certificar que o link do site oficial está correto. Eu te digo, o site da metamask oficial é **metamask.io**
 

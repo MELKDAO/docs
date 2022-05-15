@@ -18,7 +18,7 @@ Essa missão vai ensinar algumas coisas que vão parecer muito técnicas, mas s�
 
 ## 1. Abrindo o Polygonscan
 
-Para analisar mais a fundo as nossas transações, vamos precisar entrar novamente no Polygonscan, como na missão passada. Pode acessá-lo [aqui](https://polygonscan.com). A tela deve se parecer com a minha.
+Para analisar mais a fundo as nossas transações, vamos precisar entrar novamente no Polygonscan, como na missão passada. Pode acessá-lo [aqui](https://polygonscan.com/). A tela deve se parecer com a minha.
 
 ![polygon scan initial screen](<../.gitbook/assets/Screenshot 2022-03-10 at 18-10-05  Polygon (MATIC) Blockchain Explorer (1).png>)
 

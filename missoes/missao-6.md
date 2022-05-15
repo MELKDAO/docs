@@ -6,7 +6,7 @@ description: Aprendendo a comprar MATIC.
 
 Estamos evoluindo. Na missão anterior, compreendemos o funcionamento e importância do mecanismo de assinaturas no mundo da web3, além de experienciar uma assinatura real integrada com a Metamask.
 
-Na missão de hoje aprenderemos a realizar a compra do token oficial da rede Polygon, o MATIC, utilizando o serviço da [RampBR](https://rampbr.com).&#x20;
+Na missão de hoje aprenderemos a realizar a compra do token oficial da rede Polygon, o MATIC, utilizando o serviço da [RampBR](https://rampbr.com/).&#x20;
 
 Como aprendemos nas missões anteriores, o token MATIC é o token padrão da rede Polygon, usado para transações na blockchain e pagamento de _gas_ em transações de tokens não nativos. Antes de realizar a compra, vamos entender como ela pode ser realizada, introduzindo o conceito de _Exchanges_ (corretoras).
 
@@ -14,9 +14,9 @@ Como aprendemos nas missões anteriores, o token MATIC é o token padrão da red
 
 As Exchanges centralizadas - apesar do objetivo de descentralização da web3 - ainda são muito utilizadas no mundo cripto. Isso acontece principalmente para a compra de criptomoedas a partir de moeda fiduciária, o dinheiro que estamos acostumados a usa como real, dólar, etc. Nas corretoras centralizadas você também pode realizar a troca de tokens que estão listados. Cada corretora tem uma lista de criptos listadas, algumas criptos mais novas não podem ser compradas em corretoras centralizadas porque ainda não foram listadas.
 
-As principais corretoras brasileiras são: [Mercado Bitcoin](https://www.mercadobitcoin.com.br) e [Foxbit](https://foxbit.com.br). As corretoras estrangeiras que funcionam no Brasil mais famosas são [Binance](https://www.binance.com/pt-BR) e [FTX](https://ftx.com).
+As principais corretoras brasileiras são: [Mercado Bitcoin](https://www.mercadobitcoin.com.br/) e [Foxbit](https://foxbit.com.br/). As corretoras estrangeiras que funcionam no Brasil mais famosas são [Binance](https://www.binance.com/pt-BR) e [FTX](https://ftx.com/).
 
-Além das Exchanges, temos serviços como o [RampBR](https://rampbr.com), que permite a compra de criptomoedas de maneira rápida e prática, fazendo o pagamento com Pix, por exemplo.
+Além das Exchanges, temos serviços como o [RampBR](https://rampbr.com/), que permite a compra de criptomoedas de maneira rápida e prática, fazendo o pagamento com Pix, por exemplo.
 
 ### 2. O token MATIC e as transações
 
@@ -32,17 +32,17 @@ Em resumo é importante saber que o token é um ativo e representa um investimen
 
 Para entender um pouco mais sobre o MATIC, vamos entrar no site da [CoinGecko](https://www.coingecko.com/pt) e analisar algumas características do token. Se quiser acompanhar, entre no link acima.
 
-![](<../.gitbook/assets/image (13).png>)
+![](<../.gitbook/assets/image (18).png>)
 
 A tela inicial se parece com essa, uma listagem de moedas ordenada por capitalização de mercado de caa atibo. Capitalização de mercado é o valor de mercado, ou seja, quanto em dólar está comprado nessa moeda. Esse valor é o resultado da multiplicação do preço unitário e o número de moedas em circulação. No dia em que essa missão está sendo escrita, a rede Polygon (onde mora nosso token MATIC) está em #19 lugar com uma capitalização de mercado de um pouco mais de 10 bilhões de dólares.
 
-![](<../.gitbook/assets/image (12).png>)
+![](<../.gitbook/assets/image (16).png>)
 
 Vamos entender um pouco desses valores destacados. Primeiro temos o preço do token em dólar, no dia de hoje. Nas próximas três colunas temos a porcentagem de oscilação de preço respectivamente nas últimas 1 hora, 24 horas e 7 dias. Na próxima coluna temos o volume em 24h. O volume representa, em dólar, a quantidade de dinheiro que transacionou na rede nas últimas 24h. Depois, temos a capitalização de mercado, introduzida anteriormente. Por último, temos o gráfico de preço dos últimos 7 dias, indicando a variação de preço da moeda.
 
 Agora, vamos clicar na Polygon. Sua tela deve se parecer com essa:
 
-![](<../.gitbook/assets/image (21).png>)
+![](<../.gitbook/assets/image (27).png>)
 
 Temos muita informação aqui. Mas vamos falar mais especificamente da parte destacada da imagem acima.
 
@@ -64,7 +64,7 @@ O fornecimento máximo é o número máximo de moedas codificadas para existir n
 
 No caso da Polygon, o fornecimento total é igual ao fornecimento máximo, o que significa que novas moedas não serão criadas.
 
-A título do nosso exercício, utilizaremos o [RampBR](https://rampbr.com) para comprar MATIC, devido a sua praticidade.
+A título do nosso exercício, utilizaremos o [RampBR](https://rampbr.com/) para comprar MATIC, devido a sua praticidade.
 
 ### 4. Comprando MATIC
 
@@ -76,17 +76,17 @@ Essa missão faz a checagem de recompensa por meio do seu saldo de Matic. Portan
 
 Se você nunca comprou criptomoeda, siga os passos abaixo:
 
-Primeiro, entre nesse link: [https://rampbr.com/](https://rampbr.com)
+Primeiro, entre nesse link: [https://rampbr.com/](https://rampbr.com/)
 
 Sua tela deve ser parecida com essa:
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (7).png>)
 
 Para começar, vamos explicar alguns elementos da tela. Primeiro, temos o valor do Pix (em reais) que será feito para trocar o nosso dinheiro por criptomoedas.&#x20;
 
 Clique em Selecionar Token e escolha o token MATIC, da rede Polygon:
 
-![](<../.gitbook/assets/image (15).png>)
+![](<../.gitbook/assets/image (20).png>)
 
 Depois, digite o valor (em reais) que será comprado. Para essa missão, **o valor é escolhido pelo usuário, contanto que a compra resulte em 2 MATIC ou mais**. Para demonstrar, utilizaremos o valor de R$30,00 (que no dia que escrevi esse tutorial, resultaram em 4.1 MATIC aproximadamente).
 

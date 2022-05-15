@@ -66,13 +66,13 @@ Vamos agora seguir os passos para configurar a rede da Polygon na Metamask.
 
 A Metamask vai abrir um formulário para você preencher os dados da rede Polygon. Abaixo estão os dados que você precisa preencher no formulário:
 
-|                    |                                                              |
-| ------------------ | ------------------------------------------------------------ |
-| Network Name       | Mainnet da Polygon                                           |
-| New RPC URL        | [https://polygonscan-rpc.com/](https://polygonscan-rpc.com)  |
-| Chain ID           | 137                                                          |
-| Currency Symbol    | MATIC                                                        |
-| Block Explorer URL | [https://polygonscan.com](https://polygonscan.com)           |
+|                    |                                                               |
+| ------------------ | ------------------------------------------------------------- |
+| Network Name       | Mainnet da Polygon                                            |
+| New RPC URL        | [https://polygonscan-rpc.com/](https://polygonscan-rpc.com/)  |
+| Chain ID           | 137                                                           |
+| Currency Symbol    | MATIC                                                         |
+| Block Explorer URL | [https://polygonscan.com](https://polygonscan.com)            |
 
 {% hint style="info" %}
 O RPC URL pode dar erro na hora da importação da rede Polygon. Por esse motivo, disponibilizamos aqui alguns RPC URLs alternativos para resolver esse problema. Esses links foram retirados diretamente da [Documentação da rede Polygon.](https://docs.polygon.technology/docs/develop/network-details/network/)

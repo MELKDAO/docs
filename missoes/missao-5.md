@@ -32,11 +32,11 @@ Lembre-se: tenha cuidado com os locais nos quais você conecta sua carteira para
 
 Para essa missão, construímos um site especial para interagir com a Metamask e assinar uma mensagem.
 
-Para acessar o site, visite: [https://melk.vercel.app/](https://melk.vercel.app)
+Para acessar o site, visite: [https://melk.vercel.app/](https://melk.vercel.app/)
 
 Sua tela deve ser parecida com essa:&#x20;
 
-![](<../.gitbook/assets/image (22).png>)
+![](<../.gitbook/assets/image (22) (1).png>)
 
 Primeiramente, leia as observações pra missão 5. Especificamos alguns detalhes importantes sobre como essa missão vai funcionar e o que nós teremos acesso.
 
@@ -68,7 +68,7 @@ Clique em Connect para prosseguir.
 
 A tela seguinte é a solicitação da assinatura e será parecida com essa imagem:
 
-![](<../.gitbook/assets/image (24).png>)
+![](<../.gitbook/assets/image (24) (1).png>)
 
 É importante observar o título da janela que diz "Solicitação de assinatura".&#x20;
 

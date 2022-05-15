@@ -46,7 +46,7 @@ Depois de copiar o endereço, cole no campo de busca do Polygon Scan e clique no
 
 O resultado deve ser parecido com esse. Vamos encontrar nossas transações!
 
-![](<../.gitbook/assets/image (22) (1).png>)
+![](<../.gitbook/assets/image (22) (1) (1).png>)
 
 ### 3. Encontrando as transações
 
