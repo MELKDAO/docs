@@ -32,7 +32,7 @@ Em resumo é importante saber que o token é um ativo e representa um investimen
 
 Para entender um pouco mais sobre o MATIC, vamos entrar no site da [CoinGecko](https://www.coingecko.com/pt) e analisar algumas características do token. Se quiser acompanhar, entre no link acima.
 
-![](<../.gitbook/assets/image (18).png>)
+![](<../.gitbook/assets/image (18) (1).png>)
 
 A tela inicial se parece com essa, uma listagem de moedas ordenada por capitalização de mercado de caa atibo. Capitalização de mercado é o valor de mercado, ou seja, quanto em dólar está comprado nessa moeda. Esse valor é o resultado da multiplicação do preço unitário e o número de moedas em circulação. No dia em que essa missão está sendo escrita, a rede Polygon (onde mora nosso token MATIC) está em #19 lugar com uma capitalização de mercado de um pouco mais de 10 bilhões de dólares.
 
@@ -86,7 +86,7 @@ Para começar, vamos explicar alguns elementos da tela. Primeiro, temos o valor 
 
 Clique em Selecionar Token e escolha o token MATIC, da rede Polygon:
 
-![](<../.gitbook/assets/image (20).png>)
+![](<../.gitbook/assets/image (20) (1).png>)
 
 Depois, digite o valor (em reais) que será comprado. Para essa missão, **o valor é escolhido pelo usuário, contanto que a compra resulte em 2 MATIC ou mais**. Para demonstrar, utilizaremos o valor de R$30,00 (que no dia que escrevi esse tutorial, resultaram em 4.1 MATIC aproximadamente).
 

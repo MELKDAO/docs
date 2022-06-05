@@ -68,7 +68,7 @@ Clique em Connect para prosseguir.
 
 A tela seguinte é a solicitação da assinatura e será parecida com essa imagem:
 
-![](<../.gitbook/assets/image (24) (1).png>)
+![](<../.gitbook/assets/image (24) (2).png>)
 
 É importante observar o título da janela que diz "Solicitação de assinatura".&#x20;
 
@@ -78,7 +78,7 @@ O botão também é bem direto e diz "Assinar". Quando você se deparar com uma 
 
 Clique em Assinar, e sua tela será atualizada.
 
-![](<../.gitbook/assets/image (10).png>)
+![](<../.gitbook/assets/image (10) (1).png>)
 
 Para copiar o hash da assinatura, clique em cima dela:
 

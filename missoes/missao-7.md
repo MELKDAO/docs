@@ -44,7 +44,7 @@ A interface é bem simples. Temos dois botões onde selecionaremos os tokens a s
 
 Como a Uniswap é multi-chain, ela suporta várias redes. Lá no canto direito no topo, você vai ver uma lista de seleção com o Ethereum selecionado. Vamos mudar para a Polygon que é a rede que queremos usar.
 
-![](<../.gitbook/assets/image (31).png>)
+![](<../.gitbook/assets/image (31) (1).png>)
 
 Veja que a cor do fundo mudou :)
 
@@ -62,7 +62,7 @@ A tela do site ficará assim e a extensão da Metamask abrirá na sua tela. A te
 
 Escolha a conta que está sendo usada para o experimento e clique em seguinte:
 
-![](<../.gitbook/assets/image (14).png>)
+![](<../.gitbook/assets/image (14) (1).png>)
 
 Aqui terão as permissões que você estará dando para o site, parecidas com as da missão 5. Permissões básicas de leitura, saldo e atividade, além de iniciar uma transação (com a sua confirmação).
 
@@ -74,7 +74,7 @@ Podemos ver várias coisas nessa interface. O token a ser trocado, nosso saldo d
 
 
 
-![](<../.gitbook/assets/image (35).png>)
+![](<../.gitbook/assets/image (35) (1).png>)
 
 Agora, vamos escolher qual token iremos converter nossos MATIC. Para a missão de hoje, utilizaremos o USDC. O USDC é uma _stablecoin_.
 
@@ -130,7 +130,7 @@ A taxa de gas já é estimada pela Metamask, mas pode ser alterada por você se 
 
 Clique em confirmar para finalizar a transação:
 
-![](<../.gitbook/assets/image (24).png>)
+![](<../.gitbook/assets/image (24) (1).png>)
 
 A operação foi finalizada!&#x20;
 
@@ -140,7 +140,7 @@ Não saia desta tela antes de finalizar a transação. É importante clicar em V
 
 Clique em visualizar no explorer para ver a transação:
 
-![](<../.gitbook/assets/image (36).png>)
+![](<../.gitbook/assets/image (36) (1).png>)
 
 Boa! Conseguimos fazer o swap de MATIC para USDC com sucesso!
 

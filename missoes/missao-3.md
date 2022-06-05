@@ -30,7 +30,7 @@ Abra o seu navegador e acesse o endereço [https://polygonscan.com/](https://pol
 
 Você verá uma página conforme a imagem abaixo.
 
-![](<../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/image (9) (1).png>)
 
 ### 2. Copie e cole o seu endereço no campo de busca.
 
@@ -74,7 +74,7 @@ Aqui está um resumo do processo:
 
 Parabéns por chegar até aqui! Vá até o [canal da missão 3 do experimento Melk no Discord](https://discord.com/invite/uDyHmwBw6E) e mande uma mensagem com o hash da transação com o valor de 1 MELK token que vimos no site do Polygon Scan. No meu caso, mandaria esse valor:
 
-![](<../.gitbook/assets/image (20) (1).png>)
+![](<../.gitbook/assets/image (20) (2).png>)
 
 Para copiá-lo por completo, clique em cima dele. Isso te levará até outra página, como essa, que veremos nas próximas aulas:
 
