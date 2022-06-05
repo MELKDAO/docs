@@ -16,13 +16,13 @@ Essa missão vai ensinar algumas coisas que vão parecer muito técnicas, mas s�
 
 
 
-## 1. Abrindo o Polygonscan
+### 1. Abrindo o Polygonscan
 
 Para analisar mais a fundo as nossas transações, vamos precisar entrar novamente no Polygonscan, como na missão passada. Pode acessá-lo [aqui](https://polygonscan.com/). A tela deve se parecer com a minha.
 
 ![polygon scan initial screen](<../.gitbook/assets/Screenshot 2022-03-10 at 18-10-05  Polygon (MATIC) Blockchain Explorer (1).png>)
 
-## 2. Procurando nossas transações
+### 2. Procurando nossas transações
 
 Como ensinado na aula passada, vamos agora acessar as nossas transações. Para isso, repita o processo da missão anterior: copie o seu endereço da carteira MetaMask e cole na barra de pesquisa do Polygonscan. O resultado deve ser parecido com o meu, mas com o seu endereço:
 
@@ -74,7 +74,7 @@ Agora vamos voltar para a tela anterior (com a busca do nosso endereço feita) e
 
 
 
-## 3. Analisando as transações
+### 3. Analisando as transações
 
 Agora, como anteriormente, vamos encontrar nossa transação no padrão ERC-20 Token Txs, ao lado de Transactions. O resultado deve ser parecido com esse:
 
@@ -200,7 +200,7 @@ São os dados binários que representam as informações que foram passadas para
 
 
 
-## 4. Manda lá no discord o valor total da recompensa da primeira missão para receber a recompensa!
+### 4. Manda lá no discord o valor total da recompensa da primeira missão para receber a recompensa!
 
 Vá até o canal da Missão 4 do Experimento MELK no discord e mande uma mensagem com o valor total que você recebeu de recompensa na missão 1, mencionado da seção Tokens Transferred. Escreva o valor cheio, com todos os pontos decimais e usando ponto como delimitador. No meu caso, a mensagem a ser enviada seria essa:
 

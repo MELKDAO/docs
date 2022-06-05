@@ -6,13 +6,13 @@ description: Aprendendo a fazer Swap de tokens!
 
 Na última missão aprendemos a comprar MATIC. Hoje vamos aprender a fazer swap de tokens numa corretora descentralizada.
 
-## 1. O que é Swap?
+### 1. O que é Swap?
 
 Hoje vamos introduzir o conceito de _swap_, que basicamente é trocar um token por outro. Por exemplo, se eu tenho 10 MATIC e eu quero trocar por ETH, eu faria swap dos meus 10 MATIC para a moeda ETH.
 
 Esse processo pode ser feito em uma corretora centralizada, usando um livro de ordens, onde as pessoas colocam o seu preço de venda e preço de compra e a corretora se encarrega de processas as transações de compra e venda,  ou pode ser feito através de Smart Contracts, que é o caso das corretoras descentralizadas, que são protocolos, ou seja programas de computador que se encarregam de realizar a operação com segurança. Na aula de hoje, vamos focar nas corretoras descentralizadas e utilizar a [Uniswap.](https://app.uniswap.org/#/swap?chain=mainnet)&#x20;
 
-## 2. Uniswap
+### 2. Uniswap
 
 A Uniswap é a corretora mais conhecida e um das mais utilizadas porque ela foi uma das primeiras. O seu protocolo foi implementado na rede Ethereum que foi a primeira rede que viabilizou os Smart Contracts.
 
@@ -22,7 +22,7 @@ A Uniswap se transformou em um ecossistema de vários aplicativos descentralizad
 
 Para saber mais sobre o ecossistema, entre [nesse link](https://uniswap.org/).
 
-## 3. Fazendo Swap de MATIC
+### 3. Fazendo Swap de MATIC
 
 {% hint style="info" %}
 **Importante**! Realize as missões com os mesmos valores descritos neste tutorial e nas capturas de tela, pois a validação também ocorre nos valores da transação.
@@ -144,7 +144,7 @@ Clique em visualizar no explorer para ver a transação:
 
 Boa! Conseguimos fazer o swap de MATIC para USDC com sucesso!
 
-## 4. Importando o token USDC
+### 4. Importando o token USDC
 
 Agora vamos importar o token USDC para a nossa carteira, para conseguirmos ver o nosso saldo.
 
@@ -160,7 +160,7 @@ Os outros campos preencherão-se automaticamente. Em seguida, clique em _Add Cus
 
 Confirme a importação do USDC, e note que o saldo já aparecerá. Esse saldo será o valor de swap que fizemos na missão anterior (aproximadamente 1 USDC na cotação atual).
 
-## 5. Pronto! Agora manda lá no discord o hash da transação!
+### 5. Pronto! Agora manda lá no discord o hash da transação!
 
 Parabéns por completar a missão!
 
