@@ -8,6 +8,10 @@ Estamos evoluindo. Na missão anterior, compreendemos o funcionamento e importâ
 
 Na missão de hoje aprenderemos a realizar a compra do token oficial da rede Polygon, o MATIC, utilizando o serviço da [RampBR](https://rampbr.com/).&#x20;
 
+{% hint style="info" %}
+Para completar essa missão, seu saldo de MATIC no final dela deve ser maior ou igual a 2 MATIC. Caso esse valor não seja atingido, a prova não será validada.
+{% endhint %}
+
 Como aprendemos nas missões anteriores, o token MATIC é o token padrão da rede Polygon, usado para transações na blockchain e pagamento de _gas_ em transações de tokens não nativos. Antes de realizar a compra, vamos entender como ela pode ser realizada, introduzindo o conceito de _Exchanges_ (corretoras).
 
 ### 1. Corretoras centralizadas&#x20;
@@ -77,6 +81,14 @@ Essa missão faz a checagem de recompensa por meio do seu saldo de Matic. Portan
 Se você nunca comprou criptomoeda, siga os passos abaixo:
 
 Primeiro, entre nesse link: [https://rampbr.com/](https://rampbr.com/)
+
+{% hint style="danger" %}
+Aplicativos e/ou corretoras alternativas ao site indicado acima:
+
+* Foxbit ([https://foxbit.com.br/](https://foxbit.com.br/)) - Corretora&#x20;
+* Binance ([https://www.binance.com/pt-BR](https://www.binance.com/pt-BR)) - Corretora
+* Loopipay ([https://loopipay.com/](https://loopipay.com/)) - Pague com PIX
+{% endhint %}
 
 Sua tela deve ser parecida com essa:
 
