@@ -38,7 +38,7 @@ Para entender um pouco mais sobre o MATIC, vamos entrar no site da [CoinGecko](h
 
 ![](<../.gitbook/assets/image (18) (1).png>)
 
-A tela inicial se parece com essa, uma listagem de moedas ordenada por capitalização de mercado de caa atibo. Capitalização de mercado é o valor de mercado, ou seja, quanto em dólar está comprado nessa moeda. Esse valor é o resultado da multiplicação do preço unitário e o número de moedas em circulação. No dia em que essa missão está sendo escrita, a rede Polygon (onde mora nosso token MATIC) está em #19 lugar com uma capitalização de mercado de um pouco mais de 10 bilhões de dólares.
+A tela inicial se parece com essa, uma listagem de moedas ordenada por capitalização de mercado de cada ativo. Capitalização de mercado é o valor de mercado, ou seja, quanto em dólar está comprado nessa moeda. Esse valor é o resultado da multiplicação do preço unitário e o número de moedas em circulação. No dia em que essa missão está sendo escrita, a rede Polygon (onde mora nosso token MATIC) está em #19 lugar com uma capitalização de mercado de um pouco mais de 10 bilhões de dólares.
 
 ![](<../.gitbook/assets/image (16).png>)
 
@@ -144,7 +144,7 @@ Após carregar, o site mostrará um código QR para um Pix do valor selecionado.
 
 ![](<../.gitbook/assets/FireShot Capture 011 - RampBR - rampbr.com.png>)
 
-Depois de pagar o Pix, não feche o site. Apó alguns instantes, sua tela deve mudar para essa:
+Depois de pagar o Pix, não feche o site. Após alguns instantes, sua tela deve mudar para essa:
 
 ![](<../.gitbook/assets/FireShot Capture 012 - RampBR - rampbr.com.png>)
 
