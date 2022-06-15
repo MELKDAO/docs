@@ -64,7 +64,7 @@ Aí está! Agora estamos visualizando as transações de recompensa do nosso tok
 
 ### 4. Entendendo as transações
 
-Explicando de maneira simples, quando uma transação é requisitada e autenticada, ela é colocada em um bloco, que vai representar as transações que estão dentro dele. É importante entender que um bloco contém várias transações. No Ethereum, por exemplo, um bloco pode armazenar um número próximo a 70 transações. Depois, esse bloco é enviado para uma fila de espera chamada pool. Quando sair da file de espera, os nodes validadores da rede (que irão validar a transação e colocá-la na blockchain atual) validam a transação e recebem a recompensa por terem validado (um exemplo são os mineradores de Bitcoin, que na verdade são validadores). Depois, o bloco é adicionado à blockchain existente, e essa atualização é distribuída por toda a rede. Após finalizar esse processo, a transação está completa.
+Explicando de maneira simples, quando uma transação é requisitada e autenticada, ela é colocada em um bloco, que vai representar as transações que estão dentro dele. É importante entender que um bloco contém várias transações. No Ethereum, por exemplo, um bloco pode armazenar um número próximo a 70 transações. Depois, esse bloco é enviado para uma fila de espera chamada pool. Quando sair da fila de espera, os nodes validadores da rede (que irão validar a transação e colocá-la na blockchain atual) validam a transação e recebem a recompensa por terem validado (um exemplo são os mineradores de Bitcoin, que na verdade são validadores). Depois, o bloco é adicionado à blockchain existente, e essa atualização é distribuída por toda a rede. Após finalizar esse processo, a transação está completa.
 
 Aqui está um resumo do processo:
 
