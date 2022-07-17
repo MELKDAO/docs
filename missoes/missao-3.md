@@ -30,7 +30,7 @@ Abra o seu navegador e acesse o endereço [https://polygonscan.com/](https://pol
 
 Você verá uma página conforme a imagem abaixo.
 
-![](<../.gitbook/assets/image (9) (1).png>)
+![](<../.gitbook/assets/image (9) (2).png>)
 
 ### 2. Copie e cole o seu endereço no campo de busca.
 
@@ -68,7 +68,7 @@ Explicando de maneira simples, quando uma transação é requisitada e autentica
 
 Aqui está um resumo do processo:
 
-![](<../.gitbook/assets/image (12) (1).png>)
+![](<../.gitbook/assets/image (12) (2).png>)
 
 ### 5. Manda no Discord o Txn Hash da primeira transação para receber a recompensa dessa missão
 

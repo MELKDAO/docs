@@ -18,3 +18,4 @@
 * [Missão 6](missoes/missao-6.md)
 * [Missão 7](missoes/missao-7.md)
 * [Missão 8](missoes/missao-8.md)
+* [Missão 9](missoes/missao-9.md)

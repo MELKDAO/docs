@@ -14,13 +14,11 @@ Recapitulando, na missão 1 você recebeu 1 ponto alguma coisa de token MELK. Te
 Essa missão vai ensinar algumas coisas que vão parecer muito técnicas, mas são bem importantes para você ter um entendimento geral das transações, das taxas cobradas e evitar que você perca dinheiro à toa quando for fazer as suas transações reais.
 {% endhint %}
 
-
-
 ### 1. Abrindo o Polygonscan
 
 Para analisar mais a fundo as nossas transações, vamos precisar entrar novamente no Polygonscan, como na missão passada. Pode acessá-lo [aqui](https://polygonscan.com/). A tela deve se parecer com a minha.
 
-![polygon scan initial screen](<../.gitbook/assets/Screenshot 2022-03-10 at 18-10-05  Polygon (MATIC) Blockchain Explorer (1).png>)
+![polygon scan initial screen](<../.gitbook/assets/Screenshot 2022-03-10 at 18-10-05  Polygon (MATIC) Blockchain Explorer.png>)
 
 ### 2. Procurando nossas transações
 
@@ -72,8 +70,6 @@ Essa página apresenta várias informações do contrato do token MELK. Note que
 
 Agora vamos voltar para a tela anterior (com a busca do nosso endereço feita) e aprender mais sobre nossas transações.
 
-
-
 ### 3. Analisando as transações
 
 Agora, como anteriormente, vamos encontrar nossa transação no padrão ERC-20 Token Txs, ao lado de Transactions. O resultado deve ser parecido com esse:
@@ -102,7 +98,7 @@ O status da transação basicamente indica o que aconteceu com ela, se a chamada
 
 O termo blockchain é a junção das palavras block (bloco) + chain (cadeia), ou seja cadeia de blocos. Conforme explicamos na Missão 1, ele é composto por uma cadeia de blocos, e cada bloco possue inúmeras transações, é a forma que os dados são armazenados.
 
-O block nesta tela é o número do bloco em que a nossa transação foi gravada. Logo ao lado, é possível ver um registro de _Block Confirmations_, que representa quantos blocos já foram adicionados depois da confirmação da transação.&#x20;
+O block nesta tela é o número do bloco em que a nossa transação foi gravada. Logo ao lado, é possível ver um registro de _Block Confirmations_, que representa quantos blocos já foram adicionados depois da confirmação da transação.
 
 ### 3.4 Timestamp
 
@@ -118,13 +114,13 @@ Esse campo representa com quem ou o quê a transação interagiu, e nesse caso e
 
 ### 3.7 Tokens Transferred
 
-Apresenta três partes:&#x20;
+Apresenta três partes:
 
 * From: representa o endereço que enviou os tokens
 * To: o endereço que recebeu os tokens
 * For: a quantidade de tokens transferida na transação e o nome do token
 
-É importante notar que na sua carteria MetaMask o valor da transação da recompensa da missão 1 não aparecerá com todas as casas decimais. Entretanto, o valor real total da transação está retratado nesse campo. O MetaMask omite tantas casas decimais para melhor experiência de usuário.&#x20;
+É importante notar que na sua carteria MetaMask o valor da transação da recompensa da missão 1 não aparecerá com todas as casas decimais. Entretanto, o valor real total da transação está retratado nesse campo. O MetaMask omite tantas casas decimais para melhor experiência de usuário.
 
 ### 3.8 Value
 
@@ -188,7 +184,7 @@ e representa o valor da taxa que foi salvo na transação.
 
 ### 3.20 Nonce / Position
 
-É um número sequencial e escalar que representa o número de transações processadas por aquele endereço (da sua carteira por exemplo). Se o Nonce de uma transação for 4, por exemplo, seria a quinta transação mandada por aquele endereço.&#x20;
+É um número sequencial e escalar que representa o número de transações processadas por aquele endereço (da sua carteira por exemplo). Se o Nonce de uma transação for 4, por exemplo, seria a quinta transação mandada por aquele endereço.
 
 A primeira transação que você realiza na sua carteira entra com o nonce zero e a próxima precisa ser enviada com o nonce igual a 1.
 
@@ -197,8 +193,6 @@ Já o Position é o índice da posição da transação no bloco em que ela se e
 ### 3.21 Input data
 
 São os dados binários que representam as informações que foram passadas para a transação, o _input_ dela, seja para o caso de uma chamada de mensagem ou interação com _smart contract_, ou até mesmo a criação de um _smart contract_.
-
-
 
 ### 4. Manda lá no discord o valor total da recompensa da primeira missão para receber a recompensa!
 
@@ -214,4 +208,3 @@ Nessa missão, aprendemos muita coisa.
 * Aprendemos a interpretar a tela simplificada das transações e a encontrar transações de outros tokens.
 * Analisar e entender cada campo de uma transação completa, compreendendo os valores com os quais a rede trabalha.
 {% endhint %}
-

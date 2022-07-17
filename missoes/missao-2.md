@@ -60,19 +60,19 @@ Vamos agora seguir os passos para configurar a rede da Polygon na Metamask.
 
 1.2. Clique em Adicionar Rede
 
-![](<../.gitbook/assets/Screenshot\_29\_01\_22\_16\_34 (1).png>)
+![](../.gitbook/assets/Screenshot\_29\_01\_22\_16\_34.png)
 
 #### 1.3. Preencha os dados da rede Polygon
 
 A Metamask vai abrir um formulário para você preencher os dados da rede Polygon. Abaixo estão os dados que você precisa preencher no formulário:
 
-|                    |                                                               |
-| ------------------ | ------------------------------------------------------------- |
-| Network Name       | Mainnet da Polygon                                            |
-| New RPC URL        | [https://polygonscan-rpc.com/](https://polygonscan-rpc.com/)  |
-| Chain ID           | 137                                                           |
-| Currency Symbol    | MATIC                                                         |
-| Block Explorer URL | [https://polygonscan.com](https://polygonscan.com)            |
+|                    |                                                              |
+| ------------------ | ------------------------------------------------------------ |
+| Network Name       | Mainnet da Polygon                                           |
+| New RPC URL        | [https://polygonscan-rpc.com/](https://polygonscan-rpc.com/) |
+| Chain ID           | 137                                                          |
+| Currency Symbol    | MATIC                                                        |
+| Block Explorer URL | [https://polygonscan.com](https://polygonscan.com)           |
 
 {% hint style="info" %}
 O RPC URL pode dar erro na hora da importação da rede Polygon. Por esse motivo, disponibilizamos aqui alguns RPC URLs alternativos para resolver esse problema. Esses links foram retirados diretamente da [Documentação da rede Polygon.](https://docs.polygon.technology/docs/develop/network-details/network/)
@@ -83,7 +83,7 @@ O RPC URL pode dar erro na hora da importação da rede Polygon. Por esse motivo
 
 [https://rpc-mainnet.maticvigil.com](https://rpc-mainnet.maticvigil.com)
 
-[https://rpc-mainnet.matic.quiknode.pro ](https://rpc-mainnet.matic.quiknode.pro)
+[https://rpc-mainnet.matic.quiknode.pro](https://rpc-mainnet.matic.quiknode.pro)
 {% endhint %}
 
 {% hint style="warning" %}

@@ -42,13 +42,13 @@ Para começar, abra a extensão do Chrome da Metamask.
 
 Seu saldo de MATIC estará aparecendo no meio da tela, como o meu acima, e o de USDC logo abaixo, em Ativos. Clique no USDC:
 
-![](<../.gitbook/assets/image (34).png>)
+![](<../.gitbook/assets/image (34) (1).png>)
 
 Sua tela deve ser parecida com essa, com saldo de aproximadamente 2 USDC (que conseguimos na missão anterior).
 
 Logo abaixo do saldo temos dois botões: Enviar e Trocar (Send / Swap). Clique no botão Enviar, e sua tela ficará parecida com essa:
 
-![](<../.gitbook/assets/image (24).png>)
+![](<../.gitbook/assets/image (24) (1).png>)
 
 Sua tela deve ser parecida com essa, tirando a parte dos recentes.
 
@@ -74,17 +74,17 @@ Depois de inserir a quantia, clique em Next (próximo).
 
 Aqui podemos ler mais detalhes sobre a transação. Depois de ler e confirmar os valores, clique em Confirmar.
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (6) (1).png>)
 
 A transação pode demorar um pouco pra ser minerada dependendo do congestionamento da rede, mas depois de criada ela aparecerá assim na sua carteira.
 
-![](<../.gitbook/assets/image (25).png>)
+![](<../.gitbook/assets/image (25) (1).png>)
 
 ![](<../.gitbook/assets/image (10).png>)
 
 Clique nela para ver mais detalhes. No Pop-up aberto, clique em View on Block Explorer para abrir no Polygonscan:
 
-![](<../.gitbook/assets/image (36).png>)
+![](<../.gitbook/assets/image (36) (1).png>)
 
 Essa tela já é familiar para você, conforme visto na Missão 3. No exemplo dessa captura a nossa transação de transferência foi confirmada com sucesso!
 

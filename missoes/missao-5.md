@@ -4,7 +4,7 @@ description: Aprendendo a assinar transações com MetaMask
 
 # Missão 5
 
-Estamos aprendendo muitas coisas novas. Na última missão, entendemos o explorer da Polygon, o Polygonscan, e aprendemos a visualizar nossas transações detalhadamente, compreendendo todos os campos e o que eles significam.&#x20;
+Estamos aprendendo muitas coisas novas. Na última missão, entendemos o explorer da Polygon, o Polygonscan, e aprendemos a visualizar nossas transações detalhadamente, compreendendo todos os campos e o que eles significam.
 
 Hoje vamos introduzir um novo conceito, o de assinar transações utilizando a MetaMask, que criamos na missão 1.
 
@@ -16,7 +16,7 @@ Entretanto, existe um tipo de operação que se encaixa no conceito de _gas free
 
 Assinaturas são usadas desde muito tempo atrás na nossa sociedade, e servem como um mecanismo de autenticação, provando sua identidade através de uma assinatura. No mundo da web3, também temos esse processo de assinaturas, que são amplamente utilizadas em sistemas de login. Para isso, temos uma imagem comum do paradigma de login nas diferentes fases da web:
 
-![paradigma de login](<../.gitbook/assets/image (13) (1).png>)
+![paradigma de login](<../.gitbook/assets/image (13) (3).png>)
 
 As assinaturas servem para comprovar que você é dono da carteira, ou seja, que você possui a chave privada, sendo muito usada para fazer login em sistemas, como mostrado no paradigma acima.
 
@@ -34,7 +34,7 @@ Para essa missão, construímos um site especial para interagir com a Metamask e
 
 Para acessar o site, visite: [https://melk.vercel.app/](https://melk.vercel.app/)
 
-Sua tela deve ser parecida com essa:&#x20;
+Sua tela deve ser parecida com essa:
 
 ![](<../.gitbook/assets/image (22) (1).png>)
 
@@ -52,7 +52,7 @@ Caso a sua metamask não esteja liberada ainda, a sua tela será parecida com es
 
 Vamos entender o que está acontecendo aqui.
 
-A metamask está pedindo a senha de desbloqueio da carteira, a qual **nós não temos acesso,**  e serve somente para você entrar na conta da carteira.
+A metamask está pedindo a senha de desbloqueio da carteira, a qual **nós não temos acesso,** e serve somente para você entrar na conta da carteira.
 
 Caso você já esteja logado na Metamask essa tela não irá aparecer.
 
@@ -68,9 +68,9 @@ Clique em Connect para prosseguir.
 
 A tela seguinte é a solicitação da assinatura e será parecida com essa imagem:
 
-![](<../.gitbook/assets/image (24) (2).png>)
+![](<../.gitbook/assets/image (24) (3).png>)
 
-É importante observar o título da janela que diz "Solicitação de assinatura".&#x20;
+É importante observar o título da janela que diz "Solicitação de assinatura".
 
 Note também que nessa tela aparece a mensagem que você está assinando, neste caso "Experimento MELK".
 
@@ -82,7 +82,7 @@ Clique em Assinar, e sua tela será atualizada.
 
 Para copiar o hash da assinatura, clique em cima dela:
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (1).png>)
 
 Parabéns! você realizou sua primiera assinatura com sua carteira. Nenhuma informação foi registrada na Blockchain e por isso não houve necessidade de pagamento de taxas e gas.
 

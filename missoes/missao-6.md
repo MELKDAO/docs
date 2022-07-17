@@ -6,7 +6,7 @@ description: Aprendendo a comprar MATIC.
 
 Estamos evoluindo. Na missão anterior, compreendemos o funcionamento e importância do mecanismo de assinaturas no mundo da web3, além de experienciar uma assinatura real integrada com a Metamask.
 
-Na missão de hoje aprenderemos a realizar a compra do token oficial da rede Polygon, o MATIC, utilizando o serviço da [RampBR](https://rampbr.com/).&#x20;
+Na missão de hoje aprenderemos a realizar a compra do token oficial da rede Polygon, o MATIC, utilizando o serviço da [RampBR](https://rampbr.com/).
 
 {% hint style="info" %}
 Para completar essa missão, seu saldo de MATIC no final dela deve ser maior ou igual a 2 MATIC. Caso esse valor não seja atingido, a prova não será validada.
@@ -14,7 +14,7 @@ Para completar essa missão, seu saldo de MATIC no final dela deve ser maior ou 
 
 Como aprendemos nas missões anteriores, o token MATIC é o token padrão da rede Polygon, usado para transações na blockchain e pagamento de _gas_ em transações de tokens não nativos. Antes de realizar a compra, vamos entender como ela pode ser realizada, introduzindo o conceito de _Exchanges_ (corretoras).
 
-### 1. Corretoras centralizadas&#x20;
+### 1. Corretoras centralizadas
 
 As Exchanges centralizadas - apesar do objetivo de descentralização da web3 - ainda são muito utilizadas no mundo cripto. Isso acontece principalmente para a compra de criptomoedas a partir de moeda fiduciária, o dinheiro que estamos acostumados a usa como real, dólar, etc. Nas corretoras centralizadas você também pode realizar a troca de tokens que estão listados. Cada corretora tem uma lista de criptos listadas, algumas criptos mais novas não podem ser compradas em corretoras centralizadas porque ainda não foram listadas.
 
@@ -36,17 +36,17 @@ Em resumo é importante saber que o token é um ativo e representa um investimen
 
 Para entender um pouco mais sobre o MATIC, vamos entrar no site da [CoinGecko](https://www.coingecko.com/pt) e analisar algumas características do token. Se quiser acompanhar, entre no link acima.
 
-![](<../.gitbook/assets/image (18) (1).png>)
+![](<../.gitbook/assets/image (13) (2).png>)
 
 A tela inicial se parece com essa, uma listagem de moedas ordenada por capitalização de mercado de cada ativo. Capitalização de mercado é o valor de mercado, ou seja, quanto em dólar está comprado nessa moeda. Esse valor é o resultado da multiplicação do preço unitário e o número de moedas em circulação. No dia em que essa missão está sendo escrita, a rede Polygon (onde mora nosso token MATIC) está em #19 lugar com uma capitalização de mercado de um pouco mais de 10 bilhões de dólares.
 
-![](<../.gitbook/assets/image (16).png>)
+![](<../.gitbook/assets/image (12) (1).png>)
 
 Vamos entender um pouco desses valores destacados. Primeiro temos o preço do token em dólar, no dia de hoje. Nas próximas três colunas temos a porcentagem de oscilação de preço respectivamente nas últimas 1 hora, 24 horas e 7 dias. Na próxima coluna temos o volume em 24h. O volume representa, em dólar, a quantidade de dinheiro que transacionou na rede nas últimas 24h. Depois, temos a capitalização de mercado, introduzida anteriormente. Por último, temos o gráfico de preço dos últimos 7 dias, indicando a variação de preço da moeda.
 
 Agora, vamos clicar na Polygon. Sua tela deve se parecer com essa:
 
-![](<../.gitbook/assets/image (27).png>)
+![](<../.gitbook/assets/image (21) (1).png>)
 
 Temos muita informação aqui. Mas vamos falar mais especificamente da parte destacada da imagem acima.
 
@@ -56,7 +56,7 @@ Agora sim, temos um conceito novo, a Avaliação Totalmente Diluída. Esse valor
 
 Logo depois, temos o Valor Total Bloqueado, que é o capital depositado em Contratos Inteligentes sob a forma de garantia de empréstimo ou de negociação de liquidez. É um valor que não está nas carteiras pessoas das pessoas, mais sim nos endereços dos Contratos Inteligentes que são sistemas que guardam a moeda para determinados propósitos. Todo o mercado DEFI (FInanças Decentralizadas) roda por meio de Contratos Inteligentes.
 
-Após, temos a relação de avaliação totalmente diluída (FDV) sobre o valor total bloqueado (TVL) deste ativo. Uma relação superior a 1.0 refere-se ao fato de a FDV ser superior ao seu TVL. Basicamente dividimos a avaliação totalmente diluída pelo valor total bloqueado do ativo.&#x20;
+Após, temos a relação de avaliação totalmente diluída (FDV) sobre o valor total bloqueado (TVL) deste ativo. Uma relação superior a 1.0 refere-se ao fato de a FDV ser superior ao seu TVL. Basicamente dividimos a avaliação totalmente diluída pelo valor total bloqueado do ativo.
 
 Também temos a relação de capitalização de mercado sobre o valor total bloqueado deste ativo. Uma relação superior a 1.0 refere-se ao fato de a sua capitalização de mercado ser superior ao seu valor total bloqueado. Essa relação é utilizado para aproximar um valor de mercado e o montante de ativos acumulados/bloqueados.
 
@@ -72,7 +72,7 @@ A título do nosso exercício, utilizaremos o [RampBR](https://rampbr.com/) para
 
 ### 4. Comprando MATIC
 
-No final dessa missão é importante que você tenha pelo menos 2 MATIC no saldo da sua carteira.&#x20;
+No final dessa missão é importante que você tenha pelo menos 2 MATIC no saldo da sua carteira.
 
 {% hint style="info" %}
 Essa missão faz a checagem de recompensa por meio do seu saldo de Matic. Portanto, se você já possui MATIC (mais que 2) na conta ou sabe comprar de outra forma, fique a vontade para pular essa parte.
@@ -85,26 +85,26 @@ Primeiro, entre nesse link: [https://rampbr.com/](https://rampbr.com/)
 {% hint style="danger" %}
 Aplicativos e/ou corretoras alternativas ao site indicado acima:
 
-* Foxbit ([https://foxbit.com.br/](https://foxbit.com.br/)) - Corretora&#x20;
+* Foxbit ([https://foxbit.com.br/](https://foxbit.com.br/)) - Corretora
 * Binance ([https://www.binance.com/pt-BR](https://www.binance.com/pt-BR)) - Corretora
 * Loopipay ([https://loopipay.com/](https://loopipay.com/)) - Pague com PIX
 {% endhint %}
 
 Sua tela deve ser parecida com essa:
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (6) (3).png>)
 
-Para começar, vamos explicar alguns elementos da tela. Primeiro, temos o valor do Pix (em reais) que será feito para trocar o nosso dinheiro por criptomoedas.&#x20;
+Para começar, vamos explicar alguns elementos da tela. Primeiro, temos o valor do Pix (em reais) que será feito para trocar o nosso dinheiro por criptomoedas.
 
 Clique em Selecionar Token e escolha o token MATIC, da rede Polygon:
 
-![](<../.gitbook/assets/image (20) (1).png>)
+![](<../.gitbook/assets/image (15) (1).png>)
 
 Depois, digite o valor (em reais) que será comprado. Para essa missão, **o valor é escolhido pelo usuário, contanto que a compra resulte em 2 MATIC ou mais**. Para demonstrar, utilizaremos o valor de R$30,00 (que no dia que escrevi esse tutorial, resultaram em 4.1 MATIC aproximadamente).
 
 ![](<../.gitbook/assets/FireShot Capture 003 - RampBR - rampbr.com.png>)
 
-Perceba que o valor do token é atualizado constantemente.&#x20;
+Perceba que o valor do token é atualizado constantemente.
 
 Clique no botão comprar:
 
