@@ -87,7 +87,7 @@ Aplicativos e/ou corretoras alternativas ao site indicado acima:
 
 * Foxbit ([https://foxbit.com.br/](https://foxbit.com.br/)) - Corretora
 * Binance ([https://www.binance.com/pt-BR](https://www.binance.com/pt-BR)) - Corretora
-* Loopipay ([https://loopipay.com/](https://loopipay.com/)) - Pague com PIX
+* Loopipay ([https://link.loopipay.com/bankless](https://link.loopipay.com/bankless)) - Pague com PIX utilizando o link da Bankless, contribuindo com o crescimento da DAO.
 {% endhint %}
 
 Sua tela deve ser parecida com essa:
