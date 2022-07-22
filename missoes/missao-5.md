@@ -78,7 +78,7 @@ O botão também é bem direto e diz "Assinar". Quando você se deparar com uma 
 
 Clique em Assinar, e sua tela será atualizada.
 
-![](<../.gitbook/assets/image (10) (1).png>)
+![](<../.gitbook/assets/image (10) (1) (1).png>)
 
 Para copiar o hash da assinatura, clique em cima dela:
 

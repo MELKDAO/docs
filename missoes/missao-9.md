@@ -110,21 +110,19 @@ Note que agora, ao invés de Join, aparece Joined, o que significa que você con
 
 Para visualizar o espaço, clique no ícone na parte esquerda da tela, sinalizado na imagem acima:
 
-![](<../.gitbook/assets/image (29).png>)
+![](<../.gitbook/assets/image (15).png>)
 
 Aqui é a página inicial do espaço da nossa DAO no snapshot. Podemos visualizar propostas ativas, criar novas propostas, encontrar o github e o site do projeto melk e visualizar quantos membros fazem parte do nosso espaço.
 
-Por exemplo, vamos ver a proposta da criação de um módulo de missões de DeFi, que está ativa.
+Por exemplo, vamos visualizar uma das propostas que algum usuário fez para essa missão, na testnet do snapshot.
 
 {% hint style="info" %}
 Pode ser que essa votação não esteja mais ativa no momento que você estiver realizando essa missão.
 {% endhint %}
 
-&#x20;Para visualizar, clique na caixa da proposta, e sua tela deverá se parecer com essa:
+![](<../.gitbook/assets/image (9).png>)
 
 ![](<../.gitbook/assets/image (16).png>)
-
-![](<../.gitbook/assets/image (28).png>)
 
 Aqui podemos ver várias informações do projeto, como a proposta em si, informações sobre o tipo de votação, os resultados, e por fim, a opção de votar.
 

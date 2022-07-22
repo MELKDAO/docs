@@ -98,7 +98,7 @@ Para começar, vamos explicar alguns elementos da tela. Primeiro, temos o valor 
 
 Clique em Selecionar Token e escolha o token MATIC, da rede Polygon:
 
-![](<../.gitbook/assets/image (15) (1).png>)
+![](<../.gitbook/assets/image (15) (1) (1).png>)
 
 Depois, digite o valor (em reais) que será comprado. Para essa missão, **o valor é escolhido pelo usuário, contanto que a compra resulte em 2 MATIC ou mais**. Para demonstrar, utilizaremos o valor de R$30,00 (que no dia que escrevi esse tutorial, resultaram em 4.1 MATIC aproximadamente).
 

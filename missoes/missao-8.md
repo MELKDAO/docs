@@ -6,7 +6,7 @@ description: Aprendendo a realizar transferências
 
 Nas últimas missões aprendemos a fazer várias coisas novas, e cada vez mais estamos dominando conceitos básicos da web3. Na missão de hoje, vamos aprender a criar uma transação de transferência de USDC utilizando o saldo resultante do swap da missão passada.
 
-### 1. Aspectos de uma transferência
+## 1. Aspectos de uma transferência
 
 As transferências, da mesma maneira que as recompensas de cada missão, são irreversíveis, ou seja, após a confirmação e registro na blockchain não é possível voltar atrás com a transação. Por isso, é muito importante checar mais de uma vez se o endereço de envio e o valor estão corretos antes de realizar transferências.&#x20;
 
@@ -16,7 +16,7 @@ As transferências envolvem custos de gas, taxas que são pagas para os nós min
 
 Geralmente as taxas de gas para realizar uma transação na Polygon são insignificantes. No momento de escrita, a taxa para transferir 1 MATIC é de **0.000674MATIC** isso equivale a aproximadamente R$ 0,004 (0,4 centavos de Reais, lê-se menos de um centavo de real).
 
-### 2. Doação e prosperidade do projeto
+## 2. Doação e prosperidade do projeto
 
 Para a missão de hoje, faremos uma transação de pelo menos 1 USDC que conseguimos na missão anterior fazendo swap na Uniswap. Esse valor é aproximadamente R$ 5 pela cotação da época que a missão foi publicada. Essa transferência será realizada para a wallet do BOT aqui do projeto a título de doação.
 
@@ -34,7 +34,7 @@ Achamos essa maneira de conseguir dar a oportunidade para que cada um possa retr
 Ao finalizar essa missão específica, você estará não somente aprendendo, mas efetivamente ajudando outras pessoas nessa corrente do bem que foi estruturada usando a blockchain e os smart contracts.
 {% endhint %}
 
-## 2. Enviando o USDC
+## 3. Enviando o USDC
 
 Para começar, abra a extensão do Chrome da Metamask.
 
@@ -80,7 +80,7 @@ A transação pode demorar um pouco pra ser minerada dependendo do congestioname
 
 ![](<../.gitbook/assets/image (25) (1).png>)
 
-![](<../.gitbook/assets/image (10).png>)
+![](<../.gitbook/assets/image (10) (1).png>)
 
 Clique nela para ver mais detalhes. No Pop-up aberto, clique em View on Block Explorer para abrir no Polygonscan:
 
@@ -94,7 +94,7 @@ Para essa missão, mande o hash da transação lá no discord, para receber sua 
 Lembre-se a recompensa dos MELKs vai ser muito importante para você realizar a última missão e ganhar o seu NFT de comprovação de aprendizado.
 {% endhint %}
 
-## 3. Pronto! Agora manda lá no discord o Hash da transação!
+## 4. Pronto! Agora manda lá no discord o Hash da transação!
 
 Vá até o canal da missão 8 do Experimento MELK no discord e mande o hash da transação para ganhar 10 MELK.
 
