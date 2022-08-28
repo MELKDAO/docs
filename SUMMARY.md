@@ -1,10 +1,10 @@
 # Table of contents
 
-* [MELK - Primeiro token Learn-to-earn do Brasil](README.md)
-* [Aprender e Ganhar?](aprender-e-ganhar.md)
-* [Comunidade](comunidade.md)
-* [Token MELK](token-melk.md)
-* [Inspiração](inspiracao.md)
+* [👋 Escola WEB3 - MELK DAO](README.md)
+* [🤓 Aprender e Ganhar?](aprender-e-ganhar.md)
+* [🌐 Comunidade](comunidade.md)
+* [💰 Token MELK](token-melk.md)
+* [💫 Inspiração](inspiracao.md)
 
 ## Missões
 
