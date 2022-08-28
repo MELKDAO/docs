@@ -36,17 +36,17 @@ Em resumo é importante saber que o token é um ativo e representa um investimen
 
 Para entender um pouco mais sobre o MATIC, vamos entrar no site da [CoinGecko](https://www.coingecko.com/pt) e analisar algumas características do token. Se quiser acompanhar, entre no link acima.
 
-![](<../.gitbook/assets/image (13) (2).png>)
+![](<../.gitbook/assets/image (5).png>)
 
 A tela inicial se parece com essa, uma listagem de moedas ordenada por capitalização de mercado de cada ativo. Capitalização de mercado é o valor de mercado, ou seja, quanto em dólar está comprado nessa moeda. Esse valor é o resultado da multiplicação do preço unitário e o número de moedas em circulação. No dia em que essa missão está sendo escrita, a rede Polygon (onde mora nosso token MATIC) está em #19 lugar com uma capitalização de mercado de um pouco mais de 10 bilhões de dólares.
 
-![](<../.gitbook/assets/image (12) (1).png>)
+![](<../.gitbook/assets/image (47).png>)
 
 Vamos entender um pouco desses valores destacados. Primeiro temos o preço do token em dólar, no dia de hoje. Nas próximas três colunas temos a porcentagem de oscilação de preço respectivamente nas últimas 1 hora, 24 horas e 7 dias. Na próxima coluna temos o volume em 24h. O volume representa, em dólar, a quantidade de dinheiro que transacionou na rede nas últimas 24h. Depois, temos a capitalização de mercado, introduzida anteriormente. Por último, temos o gráfico de preço dos últimos 7 dias, indicando a variação de preço da moeda.
 
 Agora, vamos clicar na Polygon. Sua tela deve se parecer com essa:
 
-![](<../.gitbook/assets/image (21) (1).png>)
+![](<../.gitbook/assets/image (108).png>)
 
 Temos muita informação aqui. Mas vamos falar mais especificamente da parte destacada da imagem acima.
 
@@ -92,13 +92,13 @@ Aplicativos e/ou corretoras alternativas ao site indicado acima:
 
 Sua tela deve ser parecida com essa:
 
-![](<../.gitbook/assets/image (6) (3).png>)
+![](<../.gitbook/assets/image (13).png>)
 
 Para começar, vamos explicar alguns elementos da tela. Primeiro, temos o valor do Pix (em reais) que será feito para trocar o nosso dinheiro por criptomoedas.
 
 Clique em Selecionar Token e escolha o token MATIC, da rede Polygon:
 
-![](<../.gitbook/assets/image (15) (1) (1).png>)
+![](<../.gitbook/assets/image (24).png>)
 
 Depois, digite o valor (em reais) que será comprado. Para essa missão, **o valor é escolhido pelo usuário, contanto que a compra resulte em 2 MATIC ou mais**. Para demonstrar, utilizaremos o valor de R$30,00 (que no dia que escrevi esse tutorial, resultaram em 4.1 MATIC aproximadamente).
 

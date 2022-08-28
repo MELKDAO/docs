@@ -16,7 +16,7 @@ Entretanto, existe um tipo de operação que se encaixa no conceito de _gas free
 
 Assinaturas são usadas desde muito tempo atrás na nossa sociedade, e servem como um mecanismo de autenticação, provando sua identidade através de uma assinatura. No mundo da web3, também temos esse processo de assinaturas, que são amplamente utilizadas em sistemas de login. Para isso, temos uma imagem comum do paradigma de login nas diferentes fases da web:
 
-![paradigma de login](<../.gitbook/assets/image (13) (3).png>)
+![paradigma de login](<../.gitbook/assets/image (78).png>)
 
 As assinaturas servem para comprovar que você é dono da carteira, ou seja, que você possui a chave privada, sendo muito usada para fazer login em sistemas, como mostrado no paradigma acima.
 
@@ -36,7 +36,7 @@ Para acessar o site, visite: [https://melk.vercel.app/](https://melk.vercel.app/
 
 Sua tela deve ser parecida com essa:
 
-![](<../.gitbook/assets/image (22) (1).png>)
+![](<../.gitbook/assets/image (8).png>)
 
 Primeiramente, leia as observações pra missão 5. Especificamos alguns detalhes importantes sobre como essa missão vai funcionar e o que nós teremos acesso.
 
@@ -48,7 +48,7 @@ Clique nesse botão. Na sua tela, deve aparecer um pop-up da Metamask. Caso não
 
 Caso a sua metamask não esteja liberada ainda, a sua tela será parecida com essa:
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (53).png>)
 
 Vamos entender o que está acontecendo aqui.
 
@@ -68,7 +68,7 @@ Clique em Connect para prosseguir.
 
 A tela seguinte é a solicitação da assinatura e será parecida com essa imagem:
 
-![](<../.gitbook/assets/image (24) (3).png>)
+![](<../.gitbook/assets/image (62).png>)
 
 É importante observar o título da janela que diz "Solicitação de assinatura".
 
@@ -78,11 +78,11 @@ O botão também é bem direto e diz "Assinar". Quando você se deparar com uma 
 
 Clique em Assinar, e sua tela será atualizada.
 
-![](<../.gitbook/assets/image (10) (1) (1).png>)
+![](<../.gitbook/assets/image (43).png>)
 
 Para copiar o hash da assinatura, clique em cima dela:
 
-![](<../.gitbook/assets/image (5) (1).png>)
+![](<../.gitbook/assets/image (33).png>)
 
 Parabéns! você realizou sua primiera assinatura com sua carteira. Nenhuma informação foi registrada na Blockchain e por isso não houve necessidade de pagamento de taxas e gas.
 

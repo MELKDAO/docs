@@ -10,7 +10,7 @@ Na última missão aprendemos a comprar MATIC. Hoje vamos aprender a fazer swap 
 
 Hoje vamos introduzir o conceito de _swap_, que basicamente é trocar um token por outro. Por exemplo, se eu tenho 10 MATIC e eu quero trocar por ETH, eu faria swap dos meus 10 MATIC para a moeda ETH.
 
-Esse processo pode ser feito em uma corretora centralizada, usando um livro de ordens, onde as pessoas colocam o seu preço de venda e preço de compra e a corretora se encarrega de processas as transações de compra e venda,  ou pode ser feito através de Smart Contracts, que é o caso das corretoras descentralizadas, que são protocolos, ou seja programas de computador que se encarregam de realizar a operação com segurança. Na aula de hoje, vamos focar nas corretoras descentralizadas e utilizar a [Uniswap.](https://app.uniswap.org/#/swap?chain=mainnet)&#x20;
+Esse processo pode ser feito em uma corretora centralizada, usando um livro de ordens, onde as pessoas colocam o seu preço de venda e preço de compra e a corretora se encarrega de processas as transações de compra e venda, ou pode ser feito através de Smart Contracts, que é o caso das corretoras descentralizadas, que são protocolos, ou seja programas de computador que se encarregam de realizar a operação com segurança. Na aula de hoje, vamos focar nas corretoras descentralizadas e utilizar a [Uniswap.](https://app.uniswap.org/#/swap?chain=mainnet)
 
 ### 2. Uniswap
 
@@ -27,7 +27,7 @@ Para saber mais sobre o ecossistema, entre [nesse link](https://uniswap.org/).
 {% hint style="info" %}
 **Importante**! Realize as missões com os mesmos valores descritos neste tutorial e nas capturas de tela, pois a validação também ocorre nos valores da transação.
 
-Neste caso o swap precisa resultar em PELO MENOS 1 USDC. Escolha um valor de MATIC que, após o swap, tenha o valor de pelo menos 1 dólar.&#x20;
+Neste caso o swap precisa resultar em PELO MENOS 1 USDC. Escolha um valor de MATIC que, após o swap, tenha o valor de pelo menos 1 dólar.
 
 Nas telas mostradas, o valor de 1.5 MATIC era convertido para 1 dólar, mas isso pode variar com o valor do MATIC, portanto confira a quantidade resultante de USDC antes de fazer o swap.
 {% endhint %}
@@ -36,47 +36,45 @@ Para a missão de hoje, vamos fazer Swap de uma parte do MATIC que sobrou em nos
 
 Entre no site da Uniswap que fica em [https://uniswap.org/](https://uniswap.org/)
 
-![](<../.gitbook/assets/image (32).png>)
+![](<../.gitbook/assets/image (6).png>)
 
 Clique no botão _Launch App_ no canto superior direito. Sua tela deve ser parecida com essa:
 
-![](<../.gitbook/assets/image (29) (1).png>)
+![](<../.gitbook/assets/image (21).png>)
 
 A interface é bem simples. Temos dois botões onde selecionaremos os tokens a serem trocados e um botão para conectar a carteira. Note que a moeda padrão de conversão é o Ethereum, mas para a missão de hoje nossa moeda será o MATIC que roda na rede Polygon, como vimos na missão 2.
 
 Como a Uniswap é multi-chain, ela suporta várias redes. Lá no canto direito no topo, você vai ver uma lista de seleção com o Ethereum selecionado. Vamos mudar para a Polygon que é a rede que queremos usar.
 
-![](<../.gitbook/assets/image (31) (1).png>)
+![](<../.gitbook/assets/image (4).png>)
 
 Veja que a cor do fundo mudou :)
 
 Vamos agora conectar a carteira. Clique no botão `Conectar-se à carteira`.
 
-![](<../.gitbook/assets/image (13) (1).png>)
+![](<../.gitbook/assets/image (2).png>)
 
-Aqui temos várias opções de carteira, mas como nas missões anteriores vamos utilizar a Metamask.&#x20;
+Aqui temos várias opções de carteira, mas como nas missões anteriores vamos utilizar a Metamask.
 
-![](<../.gitbook/assets/image (26) (1).png>)
+![](<../.gitbook/assets/image (45).png>)
 
 A tela do site ficará assim e a extensão da Metamask abrirá na sua tela. A tela da metamask se parecerá com essa:
 
-![](<../.gitbook/assets/image (8) (1).png>)
+![](<../.gitbook/assets/image (111).png>)
 
 Escolha a conta que está sendo usada para o experimento e clique em seguinte:
 
-![](<../.gitbook/assets/image (14) (1).png>)
+![](<../.gitbook/assets/image (18).png>)
 
 Aqui terão as permissões que você estará dando para o site, parecidas com as da missão 5. Permissões básicas de leitura, saldo e atividade, além de iniciar uma transação (com a sua confirmação).
 
 Depois de conectar a carteira, o site ficará assim:
 
-![](<../.gitbook/assets/image (17).png>)
+![](<../.gitbook/assets/image (79).png>)
 
 Podemos ver várias coisas nessa interface. O token a ser trocado, nosso saldo de MATIC, o endereço da nossa carteira e os valores de conversão. Seu saldo aparecerá embaixo do token MATIC, sinalizado abaixo. Agora, do lado esquerdo de MATIC, insira o valor de tokens a serem trocados. Para essa missão, o valor será de 1.5 MATIC.
 
-
-
-![](<../.gitbook/assets/image (35) (2).png>)
+![](<../.gitbook/assets/image (100).png>)
 
 Agora, vamos escolher qual token iremos converter nossos MATIC. Para a missão de hoje, utilizaremos o USDC. O USDC é uma _stablecoin_.
 
@@ -88,11 +86,11 @@ Existem várias stablecoins atreladas ao dólar, tais como USDT, BUSD, USDD, DAI
 
 Continuando, sCique em **Selecione um token** (em azul) e escolha o USDC:
 
-![](<../.gitbook/assets/image (11) (1).png>)
+![](<../.gitbook/assets/image (28).png>)
 
 Depois de escolher, sua tela deve se parecer com essa:
 
-![](<../.gitbook/assets/image (21).png>)
+![](<../.gitbook/assets/image (101).png>)
 
 Para que a gente consiga fazer essa troca é necessário que esse par MATIC vs USDC tenha liquidez na corretora. Como ambas as moedas são muito utilizadas não precisamos nos preocupar com a liquidez desse par. É certeza que a qualquer momento que você esteja fazendo esse exercício haverá liquidez pra você fazer a troca.
 
@@ -110,11 +108,11 @@ Como estamos aqui apenas aprendendo e não estamos preocupados com a valorizaç�
 Em outros casos você precisa estar bem seguro(a) do que está fazendo.
 {% endhint %}
 
-![](<../.gitbook/assets/image (30) (1).png>)
+![](<../.gitbook/assets/image (11).png>)
 
 Aqui temos os valores de taxa de serviço e da rede e alguns detalhes de conversão da moeda. É possível perceber que podemos ter uma pequena perda do token (pela mudança de preço enquanto a operação acontece + taxas). Mas a perda é mínima, de no máximo centavos nesse caso. Clique em confirmar a conversão:
 
-![](<../.gitbook/assets/image (33).png>)
+![](<../.gitbook/assets/image (42).png>)
 
 A tela ficará carregando e a Metamask irá abrir no seu navegador, porque a Uniswap precisa da sua confirmação para continuar com a operação. Sua tela ficará como essa:
 
@@ -132,9 +130,9 @@ A taxa de gas já é estimada pela Metamask, mas pode ser alterada por você se 
 
 Clique em confirmar para finalizar a transação:
 
-![](<../.gitbook/assets/image (24) (2).png>)
+![](<../.gitbook/assets/image (22).png>)
 
-A operação foi finalizada!&#x20;
+A operação foi finalizada!
 
 {% hint style="warning" %}
 Não saia desta tela antes de finalizar a transação. É importante clicar em Visualizar no Explorer para você poder copiar o hash da transação pois essa é a prova da tarefa que você enviará no Discord.
@@ -142,7 +140,7 @@ Não saia desta tela antes de finalizar a transação. É importante clicar em V
 
 Clique em visualizar no explorer para ver a transação:
 
-![](<../.gitbook/assets/image (36) (2).png>)
+![](<../.gitbook/assets/image (95).png>)
 
 Boa! Conseguimos fazer o swap de MATIC para USDC com sucesso!
 

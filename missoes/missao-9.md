@@ -8,7 +8,7 @@ Na última missão aprendemos a fazer transações reais utilizando o token USDC
 
 ## 1. Snapshot
 
-O Snapshot é um sistema de votação descentralizado. É um sistema utilizado pelas DAOs para fazer a gestão da governança. Muitos tokens têm a utilidade de governança e permitem que os detentores do token votem em determinados assuntos relevantes da DAO.&#x20;
+O Snapshot é um sistema de votação descentralizado. É um sistema utilizado pelas DAOs para fazer a gestão da governança. Muitos tokens têm a utilidade de governança e permitem que os detentores do token votem em determinados assuntos relevantes da DAO.
 
 Esse sistema de votação é extremamente importante e útil quando falamos de descentralização, por isso, se você quiser um dia participar de uma DAO, é imporante aprender a registrar o seu voto e participar da gestão da DAO ativamente.
 
@@ -36,13 +36,13 @@ O conceito de DAOs é muito novo no mundo, aqui no Brasil existem muito poucas D
 
 Depois dessa introdução ao conceito de DAO, você pode estar se perguntando: ok, mas como funciona trabalhar pra uma DAO?
 
-Para explicar esse fluxo de trabalho, vou usar como exemplo a Web3dev, a DAO que citei no parágrafo acima. A Web3dev é uma DAO focada em educação e trabalho nas tecnologias web3. A estrutura da DAO está dividida em Pods. Pods são grupos de trabalho, com estruturas definidas pela própria DAO, no caso da Web3dev, com 2 líderes. Esse grupo, o Pod, se junta para resolver um problema ou implementar algo específico.&#x20;
+Para explicar esse fluxo de trabalho, vou usar como exemplo a Web3dev, a DAO que citei no parágrafo acima. A Web3dev é uma DAO focada em educação e trabalho nas tecnologias web3. A estrutura da DAO está dividida em Pods. Pods são grupos de trabalho, com estruturas definidas pela própria DAO, no caso da Web3dev, com 2 líderes. Esse grupo, o Pod, se junta para resolver um problema ou implementar algo específico.
 
 Se você tiver interesse sobre essa estrutura, [leia sobre PODs no manual da comunidade](https://docs.web3dev.com.br/pods/introducao).
 
 Além disso, a DAO possui um orçamento financeiro que é usado para pagar os membros e líderes do POD. A gestão da atividade é feita pelos líderes do pod em conjunto com os membros, utilizando sistemas de votação descentralizado (Snapshot), de maneira que todos possam ajudar para construir uma DAO e serviço melhor. Na parte financeira, é importante destacar que cada DAO possui uma estrutura diferente, mas na Web3dev os líderes de Pod recebem 100USD e membros recebem 50USD. O valor dessa remuneração é algo que poderia ser proposto e votado usando o Snapshot.
 
-## 4. Governança&#x20;
+## 4. Governança
 
 A governança de uma DAO representa a maneira com que a DAO será governada, ou seja, como as propostas serão feitas e as ações executadas. De exemplo da Web3dev novamente, a DAO será governada por detentores do token W3D. A política é que a alocação de tesouraria (para financiamento, liquidez e investimento), mudanças de provedor de serviço e atualizações de tokenomics (governança, fornecimento, distribuição) só serão executadas após uma proposta e votação bem-sucedidas. No caso da web3dev, a governança está sendo implementada de forma gradual e em fases. No início da DAO, todas as decisões serão tomadas pelos fundadores da Web3dev, depois serão tratadas pela comunidade.
 
@@ -62,17 +62,17 @@ Para começar, vamos entrar no site do snapshot. Entre no link abaixo:
 
 Sua página deve se parecer com essa:
 
-![](<../.gitbook/assets/image (13).png>)
+![](<../.gitbook/assets/image (106).png>)
 
 Vamos entender a tela. Ela é bem simples, temos exemplos de vários "espaços". É assim que chamamos o espaço de votações do Snapshot. Cada espaço representa uma DAO. Também vemos um botão familiar, de conectar a carteira.
 
 Para entrar no espaço da Melk DAO, vamos primeiramente conectar nossa carteira:
 
-![](<../.gitbook/assets/image (37).png>)
+![](<../.gitbook/assets/image (90).png>)
 
 Ao clicar em _Connect wallet_, sua tela deve se parecer com essa:
 
-![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (57).png>)
 
 Clique no item onde está escrito MetaMask.
 
@@ -80,13 +80,13 @@ Ao clicar, um pop-up abrirá requisitando sua senha da Metamask e mostrando os t
 
 Depois de conectar a carteira, sua tela deve se parecer com isso:
 
-![](<../.gitbook/assets/image (30).png>)
+![](<../.gitbook/assets/image (52).png>)
 
 Note que agora, no canto direito superior, o seu endereço está aparecendo, o que significa que você está conectado ao snapshot! Boa!
 
 Agora, para encontrarmos o espaço da nossa DAO, do projeto MELK, vamos digitar melk na barra de pesquisa:
 
-![](<../.gitbook/assets/image (38).png>)
+![](<../.gitbook/assets/image (97).png>)
 
 Ao digitar melk, sua tela deve parecer com a tela acima, mostrando a nossa MELK DAO como resultado. Legal, encontramos a DAO do projeto!
 
@@ -94,23 +94,23 @@ Agora, vamos fazer parte dessa DAO. Dessa maneira, será possível acompanhar as
 
 Clique no botão Join, logo abaixo do nome da DAO:
 
-![](<../.gitbook/assets/image (40).png>)
+![](<../.gitbook/assets/image (64).png>)
 
 Ao clicar no botão, um Pop-up da Metamask deve aparecer na sua tela, como esse:
 
-![](<../.gitbook/assets/image (24).png>)
+![](<../.gitbook/assets/image (25).png>)
 
 Clique em Assinar para concordar com a sua entrada no espaço da MELK DAO!
 
 Ao clicar em assinar, sua tela deve se parecer assim:
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (92).png>)
 
 Note que agora, ao invés de Join, aparece Joined, o que significa que você conseguiu com sucesso entrar no espaço da DAO. Além disso, na parte esquerda do site é possível ver o ícone do projeto melk e um sinal de notificação.
 
 Para visualizar o espaço, clique no ícone na parte esquerda da tela, sinalizado na imagem acima:
 
-![](<../.gitbook/assets/image (15).png>)
+![](<../.gitbook/assets/image (35).png>)
 
 Aqui é a página inicial do espaço da nossa DAO no snapshot. Podemos visualizar propostas ativas, criar novas propostas, encontrar o github e o site do projeto melk e visualizar quantos membros fazem parte do nosso espaço.
 
@@ -120,9 +120,9 @@ Por exemplo, vamos visualizar uma das propostas que algum usuário fez para essa
 Pode ser que essa votação não esteja mais ativa no momento que você estiver realizando essa missão.
 {% endhint %}
 
-![](<../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/image (23).png>)
 
-![](<../.gitbook/assets/image (16).png>)
+![](<../.gitbook/assets/image (38).png>)
 
 Aqui podemos ver várias informações do projeto, como a proposta em si, informações sobre o tipo de votação, os resultados, e por fim, a opção de votar.
 
@@ -144,51 +144,48 @@ Por isso, entre no link abaixo, que é o snapshot só que em versão de teste:
 
 Sua tela deve se parecer com essa:
 
-![](<../.gitbook/assets/image (34).png>)
+![](<../.gitbook/assets/image (94).png>)
 
 Note que a interface é a mesma do Snapshot original. Conecte sua carteira da mesma maneira que fizemos antes e procure Melk, também da mesma forma feita anteriormente. Depois desses passos, sua tela deve se parecer com isso:
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (82).png>)
 
 Agora, clique no botão New Proposal, sinalizado acima.
 
-![](<../.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/image (59).png>)
 
 Agora, adicione o título e a descrição, como sinalizado acima. A ideia dessa proposta é que você possa dar um feedback sobre o projeto em geral, sobre a sua experiência, o funcionamento das missões, o mecanismo de recompensas, o suporte para erros, enfim, características que você acha interessante destacar e ou fazer críticas construtivas. Além disso, também pode-se fazer uma proposta de sugestões de melhorias e outras coisas que você achar relevante.
 
 Quando estiver pronto, clique em Continue, também sinalizado acima.
 
-![](<../.gitbook/assets/image (27).png>)
+![](<../.gitbook/assets/image (104).png>)
 
 Agora, digite duas opções de escolha quaisquer e clique em publicar. Não altere o sistema de votação. Um pop-up da Metamask vai aparecer na sua tela:
 
-![](<../.gitbook/assets/image (36).png>)
+![](<../.gitbook/assets/image (72).png>)
 
 Role ate o final e clique em assinar.
 
-![](<../.gitbook/assets/image (25).png>)
+![](<../.gitbook/assets/image (83).png>)
 
 Perceba que agora a sua proposta está pendente, e apenas em 24h ela será publicada e permitirá que outras pessoas votem. Mas, para a verificação da missão, não tem problema estar em período de publicação. Portanto, vamos copiar o link da proposta.
 
 Clique em Share, ou Compartilhar:
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (86).png>)
 
 E depois em copiar link ou copy link:
 
-![](<../.gitbook/assets/image (26).png>)
-
-
+![](<../.gitbook/assets/image (81).png>)
 
 ## 8. Pronto! Manda no Discord o link da sua proposta!
 
-Parabéns por completar a penúltima missão do projeto MELK!&#x20;
+Parabéns por completar a penúltima missão do projeto MELK!
 
-Estamos finalizando a nossa jornada. Aprendemos muita coisa, entendemos o que é o snapshot, pra que ele serve e aprendemos a interagir com a plataforma, conectando a nossa wallet e entrando no espaço do projeto Melk. Além disso, também aprendemos a criar nossa própria proposta!&#x20;
+Estamos finalizando a nossa jornada. Aprendemos muita coisa, entendemos o que é o snapshot, pra que ele serve e aprendemos a interagir com a plataforma, conectando a nossa wallet e entrando no espaço do projeto Melk. Além disso, também aprendemos a criar nossa própria proposta!
 
 Para receber sua recompensa, envie o link da sua nova proposta criada no nosso espaço do snapshot demo! O meu link, por exemplo, é:
 
 [https://demo.snapshot.org/#/melkdao.eth/proposal/0xd39d502fae8549f00ea08334e7db19e2bfbb52b35b7f8ebcad086c37a14c8357](https://demo.snapshot.org/#/melkdao.eth/proposal/0xd39d502fae8549f00ea08334e7db19e2bfbb52b35b7f8ebcad086c37a14c8357)
 
 Quando mandar a mensagem, não escreva nada além do link da sua proposta!
-

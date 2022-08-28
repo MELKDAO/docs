@@ -56,7 +56,7 @@ Neste passo você precisa escolher uma senha para acessar a sua carteira. Qualqu
 **Atenção!** Escolha uma senha com pelo menos uma minúscula, uma maiúscula, um número e um caracter especial. Não anote essa senha em um papel e muito menos em um arquivo no seu celular ou computador. Recomendo o uso do [1Password](https://1password.com/pt/) para anotar suas senhas.
 {% endhint %}
 
-![](<../../.gitbook/assets/MetaMask-6 (1).png>)
+![](../../.gitbook/assets/MetaMask-6.png)
 
 ### **6. Configuração da carteira**
 
@@ -68,7 +68,7 @@ A sua carteira é acessada por um código, chamado chave privada. Essa chave pri
 
 Se alguém tiver acesso a essas 12 palavras, poderá roubar todos os seus fundos.
 
-****![](../../.gitbook/assets/MetaMask-5.png)****
+![](../../.gitbook/assets/MetaMask-5.png)
 
 ### **7. Guarde as palavras sementes**
 
@@ -116,7 +116,7 @@ Para copiar o seu endereço público, clique nessa área com o código encurtado
 
 ### 10. Pronto! Agora manda lá no Discord seu endereço público
 
-Vá até o [canal da Missão 1 do Experimento MELK no discord](https://discord.gg/2SjfbXw6pd) e mande a sua carteira para ganhar 1 MELK. &#x20;
+Vá até o [canal da Missão 1 do Experimento MELK no discord](https://discord.gg/2SjfbXw6pd) e mande a sua carteira para ganhar 1 MELK.
 
 {% hint style="info" %}
 Lembrando! A suas palavras sementes são a segurança de todos os seus tokens. Não salve no celular nem no computador, anote apenas com caneta em um papel e nunca compartilhe com ninguém. Alguns sites de fraude irão te pedir essas palavras para recuperar a sua carteira, mas nunca informe as suas palavras sementes.

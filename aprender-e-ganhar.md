@@ -1,4 +1,4 @@
-# Aprender e Ganhar?
+# 🤓 Aprender e Ganhar?
 
 Sim, é isso mesmo. Com esse experimento você irá aprender e ganhar tokens ao mesmo tempo. O objetivo principal do token $MELK é tornar a web3 uma realidade no Brasil e para isso precisamos trazer o maior número de pessoas para esse mundo. Neste experimento vamos ensinar qualquer pessoa a participar do mundo web3, aprender o que é uma DAO e até aprender a ganhar dinheiro trabalhando remotamente, de forma livre para uma DAO.
 

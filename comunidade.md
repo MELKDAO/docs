@@ -1,4 +1,4 @@
-# Comunidade
+# 🌐 Comunidade
 
 ### Vamos criar uma comunidade juntos? <a href="#vamos-criar-uma-comunidade-juntos" id="vamos-criar-uma-comunidade-juntos"></a>
 
@@ -44,8 +44,7 @@ Para participar você precisa entrar em um servidor do Discord onde o projeto es
 | Bankless BR DAO | [https://discord.gg/hJ7qSyfvqF](https://discord.gg/hJ7qSyfvqF) |
 
 \
-Já dentro do servidor no Discord, busque a área `🎓 | Aprenda e Ganhe (Learn-to-Earn)` e vá no canal `👉・comece-aqui`\
-
+Já dentro do servidor no Discord, busque a área `🎓 | Aprenda e Ganhe (Learn-to-Earn)` e vá no canal `👉・comece-aqui`\\
 
 Neste canal você encontrará mais informações sobre o experimento e o caminho para realizar as missões. As missões exigirão que você envie informações para um determinado canal no Discord e todas elas farão a entrega dos seus tokens de forma automática.
 

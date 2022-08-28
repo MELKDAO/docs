@@ -8,7 +8,7 @@ Nas últimas missões aprendemos a fazer várias coisas novas, e cada vez mais e
 
 ## 1. Aspectos de uma transferência
 
-As transferências, da mesma maneira que as recompensas de cada missão, são irreversíveis, ou seja, após a confirmação e registro na blockchain não é possível voltar atrás com a transação. Por isso, é muito importante checar mais de uma vez se o endereço de envio e o valor estão corretos antes de realizar transferências.&#x20;
+As transferências, da mesma maneira que as recompensas de cada missão, são irreversíveis, ou seja, após a confirmação e registro na blockchain não é possível voltar atrás com a transação. Por isso, é muito importante checar mais de uma vez se o endereço de envio e o valor estão corretos antes de realizar transferências.
 
 Por exemplo, se um hacker malicioso invadir algum sistema e tiver acesso e o poder de fazer transferências para ele mesmo, será possível visualizar todas as transações maliciosas e localizar onde o dinheiro roubado está (em qual endereço de wallet). Entretanto, não se pode reverter a transação, pois o roubo já estará registrado na blockchain. Por isso, é muito importante checar que tipo de transação você está realizando.
 
@@ -42,13 +42,13 @@ Para começar, abra a extensão do Chrome da Metamask.
 
 Seu saldo de MATIC estará aparecendo no meio da tela, como o meu acima, e o de USDC logo abaixo, em Ativos. Clique no USDC:
 
-![](<../.gitbook/assets/image (34) (1).png>)
+![](<../.gitbook/assets/image (74).png>)
 
 Sua tela deve ser parecida com essa, com saldo de aproximadamente 2 USDC (que conseguimos na missão anterior).
 
 Logo abaixo do saldo temos dois botões: Enviar e Trocar (Send / Swap). Clique no botão Enviar, e sua tela ficará parecida com essa:
 
-![](<../.gitbook/assets/image (24) (1).png>)
+![](<../.gitbook/assets/image (30).png>)
 
 Sua tela deve ser parecida com essa, tirando a parte dos recentes.
 
@@ -60,7 +60,7 @@ Aqui é onde você vai inserir o endereço que vai receber o USDC. Para essa mis
 
 Esse endereço corresponde ao endereço da carteira do BOT que envia as recompensas do Experimento MELK. Conforme escrito lá em cima, O USDC recebido será convertido e utilizado para pagar as taxas de _gas_ em cada transação para os futuros usuários.
 
-![](<../.gitbook/assets/image (31).png>)
+![](<../.gitbook/assets/image (68).png>)
 
 Agora, insira a quantidade de USDC a ser enviada. Para essa transação, vamos enviar pelo meno 1 USDC.
 
@@ -70,21 +70,21 @@ Se você acha que o seu aprendizado até o momento vale mais que isso, fique a v
 
 Depois de inserir a quantia, clique em Next (próximo).
 
-![](<../.gitbook/assets/image (20).png>)
+![](<../.gitbook/assets/image (56).png>)
 
 Aqui podemos ler mais detalhes sobre a transação. Depois de ler e confirmar os valores, clique em Confirmar.
 
-![](<../.gitbook/assets/image (6) (1).png>)
+![](<../.gitbook/assets/image (12).png>)
 
 A transação pode demorar um pouco pra ser minerada dependendo do congestionamento da rede, mas depois de criada ela aparecerá assim na sua carteira.
 
-![](<../.gitbook/assets/image (25) (1).png>)
+![](<../.gitbook/assets/image (54).png>)
 
-![](<../.gitbook/assets/image (10) (1).png>)
+![](<../.gitbook/assets/image (16).png>)
 
 Clique nela para ver mais detalhes. No Pop-up aberto, clique em View on Block Explorer para abrir no Polygonscan:
 
-![](<../.gitbook/assets/image (36) (1).png>)
+![](<../.gitbook/assets/image (110).png>)
 
 Essa tela já é familiar para você, conforme visto na Missão 3. No exemplo dessa captura a nossa transação de transferência foi confirmada com sucesso!
 

@@ -60,7 +60,7 @@ Vamos agora seguir os passos para configurar a rede da Polygon na Metamask.
 
 1.2. Clique em Adicionar Rede
 
-![](../.gitbook/assets/Screenshot\_29\_01\_22\_16\_34.png)
+![](<../.gitbook/assets/Screenshot\_29\_01\_22\_16\_34 (1).png>)
 
 #### 1.3. Preencha os dados da rede Polygon
 
@@ -100,13 +100,13 @@ Clique em Salvar.
 
 A metamask já vai retornar para a tela da carteira com a mensagem de sucesso.
 
-![](<../.gitbook/assets/Screenshot\_29\_01\_22\_16\_49 (3).png>)
+![](../.gitbook/assets/Screenshot\_29\_01\_22\_16\_49.png)
 
 Veja que agora a rede Polygon estará selecionada e por conta disso, no meio da tela você não vê mais o 0 ETH mas sim 0 MATIC. Isso porque MATIC é a moeda padrão da rede Polygon.
 
 Perceba também que na listagem de tokens só aparece o token MATIC com o saldo zero. Você não visualiza mais o token ETH. Por que esse token está configurado apenas na sua carteira da rede Ethereum.
 
-![](<../.gitbook/assets/Screenshot\_29\_01\_22\_16\_49 (1).png>)
+![](<../.gitbook/assets/Screenshot\_29\_01\_22\_16\_49 (2).png>)
 
 Como a rede Polygon foi derivada da rede Ethereum o mesmo endereço público da sua carteira e a mesma chave privada, com as mesmas palavras sementes funcionam para ambas as redes.
 
@@ -122,7 +122,7 @@ Como falei antes, o token não fica no seu computador como um arquivo, ele é re
 
 #### 2.1. Clique em Import tokens
 
-![](<../.gitbook/assets/Screenshot\_29\_01\_22\_16\_49 (2).png>)
+![](<../.gitbook/assets/Screenshot\_29\_01\_22\_16\_49 (1).png>)
 
 #### 2.2. Preencha os dados do token
 
