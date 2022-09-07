@@ -42,6 +42,9 @@ Para participar você precisa entrar em um servidor do Discord onde o projeto es
 | --------------- | -------------------------------------------------------------- |
 | web3dev         | [https://discord.gg/B85d25rDUT](https://discord.gg/B85d25rDUT) |
 | Bankless BR DAO | [https://discord.gg/hJ7qSyfvqF](https://discord.gg/hJ7qSyfvqF) |
+| NFT Gamer       | [https://discord.gg/wytCaHqt3y](https://discord.gg/wytCaHqt3y) |
+| Fantom Chess    | [https://discord.gg/MDGknfCxrn](https://discord.gg/MDGknfCxrn) |
+
 
 \
 Já dentro do servidor no Discord, busque a área `🎓 | Aprenda e Ganhe (Learn-to-Earn)` e vá no canal `👉・comece-aqui`\\
