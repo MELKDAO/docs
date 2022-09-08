@@ -27,9 +27,9 @@ Para saber mais sobre o ecossistema, entre [nesse link](https://uniswap.org/).
 {% hint style="info" %}
 **Importante**! Realize as missões com os mesmos valores descritos neste tutorial e nas capturas de tela, pois a validação também ocorre nos valores da transação.
 
-Neste caso o swap precisa resultar em PELO MENOS 1 USDC. Escolha um valor de MATIC que, após o swap, tenha o valor de pelo menos 1 USDC.
+Neste caso o swap precisa ser de PELO MENOS 1.5 MATIC.
 
-Nas telas mostradas, o valor de 1.5 MATIC era convertido para 1 USDC, mas isso pode variar com o valor do MATIC no momento que você estiver realizando o experimento. Portanto confira a quantidade resultante de USDC antes de fazer o swap.
+Nas telas mostradas, o valor de 1.5 MATIC era convertido para 1 USDC, mas isso pode variar com o valor do MATIC no momento que você estiver realizando o experimento. Portanto confira a quantidade resultante de MATIC antes de fazer o swap.
 {% endhint %}
 
 Para a missão de hoje, vamos fazer Swap de uma parte do MATIC que sobrou em nossa wallet após as missões anteriores. O swap, assim como outras operações, também custa _gas_, já que interage com um smart contract para trocar de um token para outro. Vamos lá!
