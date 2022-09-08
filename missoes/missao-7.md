@@ -10,7 +10,7 @@ Na última missão aprendemos a comprar MATIC. Hoje vamos aprender a fazer swap 
 
 Hoje vamos introduzir o conceito de _swap_, que basicamente é trocar um token por outro. Por exemplo, se eu tenho 10 MATIC e eu quero trocar por ETH, eu faria swap dos meus 10 MATIC para a moeda ETH.
 
-Esse processo pode ser feito em uma corretora centralizada, usando um livro de ordens, onde as pessoas colocam o seu preço de venda e preço de compra e a corretora se encarrega de processas as transações de compra e venda, ou pode ser feito através de Smart Contracts, que é o caso das corretoras descentralizadas, que são protocolos, ou seja programas de computador que se encarregam de realizar a operação com segurança. Na aula de hoje, vamos focar nas corretoras descentralizadas e utilizar a [Uniswap.](https://app.uniswap.org/#/swap?chain=mainnet)
+Esse processo pode ser feito em uma corretora centralizada, usando um livro de ordens, onde as pessoas colocam o seu preço de venda e preço de compra e a corretora se encarrega de processar as transações de compra e venda, ou pode ser feito através de Smart Contracts, que é o caso das corretoras descentralizadas, que são protocolos, ou seja, programas de computador que se encarregam de realizar a operação com segurança. Na aula de hoje, vamos focar nas corretoras descentralizadas e utilizar a [Uniswap](https://app.uniswap.org/#/swap?chain=mainnet).
 
 ### 2. Uniswap
 
@@ -18,7 +18,7 @@ A Uniswap é a corretora mais conhecida e um das mais utilizadas porque ela foi 
 
 Conforme as outras redes foram evoluindo, a Uniswap implementou o seu protocolo em outras redes e hoje ela é chamada de _multi-chain_, ou seja, multi redes.
 
-A Uniswap se transformou em um ecossistema de vários aplicativos descentralizados, além do swap ela também tem protocolos de investimentos, empréstimos e quase tudo relacionado à DEFI (sigla para _Decentralized Finance_, que em português significa Finanças Decentralizadas).
+A Uniswap se transformou em um ecossistema de vários aplicativos descentralizados, além do swap ela também tem protocolos de investimentos, empréstimos e quase tudo relacionado à DEFI (sigla para _Decentralized Finance_, que em português significa Finanças Descentralizadas).
 
 Para saber mais sobre o ecossistema, entre [nesse link](https://uniswap.org/).
 
@@ -27,9 +27,9 @@ Para saber mais sobre o ecossistema, entre [nesse link](https://uniswap.org/).
 {% hint style="info" %}
 **Importante**! Realize as missões com os mesmos valores descritos neste tutorial e nas capturas de tela, pois a validação também ocorre nos valores da transação.
 
-Neste caso o swap precisa resultar em PELO MENOS 1 USDC. Escolha um valor de MATIC que, após o swap, tenha o valor de pelo menos 1 dólar.
+Neste caso o swap precisa ser de PELO MENOS 1.5 MATIC.
 
-Nas telas mostradas, o valor de 1.5 MATIC era convertido para 1 dólar, mas isso pode variar com o valor do MATIC, portanto confira a quantidade resultante de USDC antes de fazer o swap.
+Nas telas mostradas, o valor de 1.5 MATIC era convertido para 1 USDC, mas isso pode variar com o valor do MATIC no momento que você estiver realizando o experimento. Portanto confira a quantidade resultante de MATIC antes de fazer o swap.
 {% endhint %}
 
 Para a missão de hoje, vamos fazer Swap de uma parte do MATIC que sobrou em nossa wallet após as missões anteriores. O swap, assim como outras operações, também custa _gas_, já que interage com um smart contract para trocar de um token para outro. Vamos lá!
@@ -58,11 +58,11 @@ Aqui temos várias opções de carteira, mas como nas missões anteriores vamos 
 
 ![](<../.gitbook/assets/image (45).png>)
 
-A tela do site ficará assim e a extensão da Metamask abrirá na sua tela. A tela da metamask se parecerá com essa:
+A tela do site ficará assim e a extensão da Metamask abrirá na sua tela. A tela da Metamask se parecerá com essa:
 
 ![](<../.gitbook/assets/image (111).png>)
 
-Escolha a conta que está sendo usada para o experimento e clique em seguinte:
+Escolha a conta que está sendo usada para o experimento e clique em `Seguinte`:
 
 ![](<../.gitbook/assets/image (18).png>)
 
@@ -82,9 +82,9 @@ Mas o que é isso?
 
 Uma stablecoin nada mais é do que uma criptomoeda com um valor fixado em alguma moeda fiduciária. O USDC, como o nome indica, tem seu valor fixado no dólar. Então, se o dólar estiver valendo R$ 5, o USDC também estará.
 
-Existem várias stablecoins atreladas ao dólar, tais como USDT, BUSD, USDD, DAI. Nós não recomentamos o uso da USDT por rumores de que não há lastro real em dólar e achamos a USDC a mais segura.
+Existem várias _stablecoins_. atreladas ao dólar, tais como USDT, BUSD, USDD, DAI. Nós não recomentamos o uso da USDT por rumores de que não há lastro real em dólar e achamos a USDC a mais segura.
 
-Continuando, sCique em **Selecione um token** (em azul) e escolha o USDC:
+Continuando, clique em **Selecione um token** (em azul) e escolha o USDC:
 
 ![](<../.gitbook/assets/image (28).png>)
 
@@ -124,9 +124,9 @@ Aqui temos o valor total da transação, incluindo a taxa de _gas_.
 Essa é a hora de maior atenção. Você precisa conferir o valor que vai sair da sua carteira.
 {% endhint %}
 
-Não é o caso da Uniswap, porém sites maliciosos poderiam comandar uma saida de mais MATIC da sua carteira neste momento. A tela da Metamask é que garante o que vai realmente acontecer. Veja que aparece em letras maiores o valor de 1.5 MATIC que está sendo enviado para a Uniswap para realizar a conversão.
+Não é o caso da Uniswap, porém sites maliciosos poderiam comandar uma saída de mais MATIC da sua carteira neste momento. A tela da Metamask é que garante o que vai realmente acontecer. Veja que aparece em letras maiores o valor de 1.5 MATIC que está sendo enviado para a Uniswap para realizar a conversão.
 
-A taxa de gas já é estimada pela Metamask, mas pode ser alterada por você se clicar em _Edit_. Só faça isso quando você já estiver mais familiarizado(a) com os preços de gas. Veja que neste exemplo o custo do gas sugerido foi de 0.005516 MATIC que ao preço de $0.68 por MATIC (na data que escrevo este tutorial) representa $0.00379, ou seja, um fração de um centavo de dólar que em reais dá R$ 0,02 (dois centavos de reais).
+A taxa de gas já é estimada pela Metamask, mas pode ser alterada por você se clicar em _Edit_. Só faça isso quando você já estiver mais familiarizado(a) com os preços de _gas_. Veja que neste exemplo o custo do _gas_ sugerido foi de 0.005516 MATIC que ao preço de $0.68 por MATIC (na data que escrevo este tutorial) representa $0.00379, ou seja, um fração de um centavo de dólar que em reais dá R$ 0,02 (dois centavos de reais).
 
 Clique em confirmar para finalizar a transação:
 
