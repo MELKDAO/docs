@@ -10,13 +10,13 @@ Na última missão aprendemos a fazer transações reais utilizando o token USDC
 
 O Snapshot é um sistema de votação descentralizado. É um sistema utilizado pelas DAOs para fazer a gestão da governança. Muitos tokens têm a utilidade de governança e permitem que os detentores do token votem em determinados assuntos relevantes da DAO.
 
-Esse sistema de votação é extremamente importante e útil quando falamos de descentralização, por isso, se você quiser um dia participar de uma DAO, é imporante aprender a registrar o seu voto e participar da gestão da DAO ativamente.
+Esse sistema de votação é extremamente importante e útil quando falamos de descentralização, por isso, se você quiser um dia participar de uma DAO, é importante aprender a registrar o seu voto e participar da gestão da DAO ativamente.
 
 O sistema fornece flexibilidade em como o poder de voto é calculado para um voto. Ele suporta vários tipos de voto para abarcar as necessidades de cada organização. Criar propostas e votar no Snapshot é user-friendly e não custa gas, pois o processo é _off-chain_.
 
 Criar propostas e votar nelas é de graça (nenhum custo de _gas_), votos são mensagens assinadas que podem ser verificadas online. O Snapshot fornece múltiplos sistemas de votação, estratégias de voto flexíveis para calcular resultados e tudo isso é código aberto.
 
-Em uma empresa descentralizada, por exemplo (DAO), as votações do Snapshot podem ser usadas para decidir o que será feito na empresa. Os votos podem ser feitos utilizando tokens (como o nosso MELK), NFTs e outros assets digitais. Para essa missão, vamos utilizar um espaço criado para a nossa missão onde aprenderemos a votar utilizando o Snapshot
+Em uma organização descentralizada (DAO), por exemplo, as votações do Snapshot podem ser usadas para decidir o que será feito na empresa. Os votos podem ser feitos utilizando tokens (como o nosso MELK), NFTs e outros assets digitais. Para essa missão, vamos utilizar um espaço criado para ela onde aprenderemos a votar utilizando o Snapshot.
 
 ## 2. DAOs
 
@@ -28,15 +28,15 @@ Em uma análise com o mundo da web2, uma DAO é uma empresa, porém, ninguém é
 
 Veja [esse vídeo de referência](https://youtu.be/Pyi8-qm02hs).
 
-As DAOs tem uma proposta que visa resolver problemas, permitindo a moldagem livre da organização, possibillidade de apresentação de ideias inovadoras por qualquer pessoa (através do sistema de votação) e registro de atividades na blockchain (transparência).
+As DAOs tem uma proposta que visa resolver problemas, permitindo a moldagem livre da organização, possibilidade de apresentação de ideias inovadoras por qualquer pessoa (através do sistema de votação) e registro de atividades na blockchain (transparência).
 
-O conceito de DAOs é muito novo no mundo, aqui no Brasil existem muito poucas DAOs, podemos citar a [Web3dev](https://docs.web3dev.com.br/) e a [Bankless Brasil](https://forum.banklessbr.com/) como exemplo.
+O conceito de DAOs é muito novo no mundo e aqui no Brasil existem poucas DAOs. Podemos citar como exemplo a [Web3dev](https://docs.web3dev.com.br/) e a [Bankless Brasil](https://forum.banklessbr.com/).
 
 ## 3. Como é trabalhar pra uma DAO?
 
 Depois dessa introdução ao conceito de DAO, você pode estar se perguntando: ok, mas como funciona trabalhar pra uma DAO?
 
-Para explicar esse fluxo de trabalho, vou usar como exemplo a Web3dev, a DAO que citei no parágrafo acima. A Web3dev é uma DAO focada em educação e trabalho nas tecnologias web3. A estrutura da DAO está dividida em Pods. Pods são grupos de trabalho, com estruturas definidas pela própria DAO, no caso da Web3dev, com 2 líderes. Esse grupo, o Pod, se junta para resolver um problema ou implementar algo específico.
+Para explicar esse fluxo de trabalho, vou usar como exemplo a Web3dev, a DAO que citei no parágrafo acima. A Web3dev é uma DAO focada em educação e trabalho nas tecnologias web3. A estrutura da DAO está dividida em Pods. Pods são grupos de trabalho, com estruturas definidas pela própria DAO e no caso da Web3dev, com 2 líderes. Esse grupo (o Pod) se junta para resolver um problema ou implementar algo específico.
 
 Se você tiver interesse sobre essa estrutura, [leia sobre PODs no manual da comunidade](https://docs.web3dev.com.br/pods/introducao).
 
@@ -112,7 +112,7 @@ Para visualizar o espaço, clique no ícone na parte esquerda da tela, sinalizad
 
 ![](<../.gitbook/assets/image (35).png>)
 
-Aqui é a página inicial do espaço da nossa DAO no snapshot. Podemos visualizar propostas ativas, criar novas propostas, encontrar o github e o site do projeto melk e visualizar quantos membros fazem parte do nosso espaço.
+Aqui é a página inicial do espaço da nossa DAO no snapshot. Podemos visualizar propostas ativas, criar novas propostas, encontrar o Github e o site do projeto Melk e visualizar quantos membros fazem parte do nosso espaço.
 
 Por exemplo, vamos visualizar uma das propostas que algum usuário fez para essa missão, na testnet do snapshot.
 
