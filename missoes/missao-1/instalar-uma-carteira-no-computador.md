@@ -28,7 +28,7 @@ O meu computador está configurado para o idioma Inglês como padrão, então po
 
 ![](../../.gitbook/assets/MetaMask\_-\_Chrome\_Web\_Store-3.png)
 
-![](../../.gitbook/assets/MetaMask\_-\_Chrome\_Web\_Store-2.png)
+![](<../../.gitbook/assets/MetaMask\_-\_Chrome\_Web\_Store-2 (1).png>)
 
 ### 2. Uma vez instalado, vamos mostrar o ícone como padrão
 
@@ -56,7 +56,7 @@ Neste passo você precisa escolher uma senha para acessar a sua carteira. Qualqu
 **Atenção!** Escolha uma senha com pelo menos uma minúscula, uma maiúscula, um número e um caracter especial. Não anote essa senha em um papel e muito menos em um arquivo no seu celular ou computador. Recomendo o uso do [1Password](https://1password.com/pt/) para anotar suas senhas.
 {% endhint %}
 
-![](../../.gitbook/assets/MetaMask-6.png)
+![](<../../.gitbook/assets/MetaMask-6 (1).png>)
 
 ### **6. Configuração da carteira**
 

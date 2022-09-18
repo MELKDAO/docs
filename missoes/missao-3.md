@@ -30,7 +30,7 @@ Abra o seu navegador e acesse o endereço [https://polygonscan.com/](https://pol
 
 Você verá uma página conforme a imagem abaixo.
 
-![](<../.gitbook/assets/image (36).png>)
+![](<../.gitbook/assets/image (9) (2).png>)
 
 ### 2. Copie e cole o seu endereço no campo de busca.
 
@@ -38,7 +38,7 @@ Você se lembra da missão 1, em que copiamos o nosso endereço público (simila
 
 Abra a extensão do Metamask, na parte superior direita do seu navegador. Depois copie o seu endereço público como mostrado na imagem:
 
-![](<../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/image (11) (1) (1).png>)
 
 Depois de copiar o endereço, cole no campo de busca do Polygon Scan e clique no ícone de pesquisa.
 
@@ -46,7 +46,7 @@ Depois de copiar o endereço, cole no campo de busca do Polygon Scan e clique no
 
 O resultado deve ser parecido com esse. Vamos encontrar nossas transações!
 
-![](<../.gitbook/assets/image (29).png>)
+![](<../.gitbook/assets/image (22) (1) (1).png>)
 
 ### 3. Encontrando as transações
 
@@ -68,17 +68,17 @@ Explicando de maneira simples, quando uma transação é requisitada e autentica
 
 Aqui está um resumo do processo:
 
-![](<../.gitbook/assets/image (58).png>)
+![](<../.gitbook/assets/image (12) (2).png>)
 
 ### 5. Manda no Discord o Txn Hash da primeira transação para receber a recompensa dessa missão
 
 Parabéns por chegar até aqui! Vá até o [canal da missão 3 do experimento Melk no Discord](https://discord.com/invite/uDyHmwBw6E) e mande uma mensagem com o hash da transação com o valor de 1 MELK token que vimos no site do Polygon Scan. No meu caso, mandaria esse valor:
 
-![](<../.gitbook/assets/image (48).png>)
+![](<../.gitbook/assets/image (20) (2).png>)
 
 Para copiá-lo por completo, clique em cima dele. Isso te levará até outra página, como essa, que veremos nas próximas aulas:
 
-![](<../.gitbook/assets/image (20).png>)
+![](<../.gitbook/assets/image (13) (1) (1).png>)
 
 A partir daí, só copie no botão sinalizado acima e mande no [Discord!](https://discord.com/invite/uDyHmwBw6E)
 

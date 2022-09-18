@@ -4,6 +4,10 @@ description: Aprendendo a assinar uma votação no snapshot.
 
 # Missão 9
 
+{% hint style="warning" %}
+**ATENÇÃO!** Após o The Merge da Ethereum no dia 15 de setembro o Snapshot limpou o ambiente de demo excluíndo todos os espaços criados. Por conta disso não está sendo possível realizar essa missão. Nós estamos cientes e iremos recriar o espaço no Snapshop. Essa atualização está agendada para o dia 23 de Setembro.
+{% endhint %}
+
 Na última missão aprendemos a fazer transações reais utilizando o token USDC. Na missão de hoje, vamos aprender o que é o snapshot, sua função e importância em aprender a usá-lo na prática.
 
 ## 1. Snapshot
