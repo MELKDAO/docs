@@ -1,4 +1,4 @@
-# 💫 Inspiração
+# Inspiração
 
 O experimento do token $MELK é uma cópia do $ELIOT.
 

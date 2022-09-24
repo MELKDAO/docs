@@ -36,7 +36,7 @@ Para acessar o site, visite: [https://melk.vercel.app/](https://melk.vercel.app/
 
 Sua tela deve ser parecida com essa:
 
-![](<../.gitbook/assets/image (11) (3).png>)
+![](<../.gitbook/assets/image (11) (3) (1).png>)
 
 Primeiramente, leia as observações pra missão 5. Especificamos alguns detalhes importantes sobre como essa missão vai funcionar e o que nós teremos acesso.
 

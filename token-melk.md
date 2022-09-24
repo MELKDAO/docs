@@ -2,7 +2,7 @@
 description: Informações técnicas sobre o token.
 ---
 
-# 💰 Token MELK
+# Token MELK
 
 Nome: Token MELK\
 Ticker: $MELK\
