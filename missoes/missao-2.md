@@ -60,7 +60,7 @@ Vamos agora seguir os passos para configurar a rede da Polygon na Metamask.
 
 1.2. Clique em Adicionar Rede
 
-![](../.gitbook/assets/Screenshot\_29\_01\_22\_16\_34.png)
+![](<../.gitbook/assets/Screenshot\_29\_01\_22\_16\_34 (1).png>)
 
 #### 1.3. Preencha os dados da rede Polygon
 

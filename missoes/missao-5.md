@@ -32,7 +32,7 @@ Lembre-se: tenha cuidado com os locais nos quais você conecta sua carteira para
 
 Para essa missão, construímos um site especial para interagir com a Metamask e assinar uma mensagem.
 
-Para acessar o site, visite: [https://melk.vercel.app/](https://melk.vercel.app/)
+Para acessar o site, visite: [https://missions.melkdao.com](https://missions.melkdao.com)
 
 Sua tela deve ser parecida com essa:
 
