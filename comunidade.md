@@ -45,9 +45,10 @@ Para participar você precisa entrar em um servidor do Discord onde o projeto es
 | NFT Gamer         | [https://discord.gg/wytCaHqt3y](https://discord.gg/wytCaHqt3y) |
 | Fantom Chess      | [https://discord.gg/MDGknfCxrn](https://discord.gg/MDGknfCxrn) |
 | Healthtech Brasil | [https://discord.gg/WeWQGSxGVz](https://discord.gg/WeWQGSxGVz) |
+| DGAC              | [https://discord.gg/NEkCVZa9cm](https://discord.gg/NEkCVZa9cm) |
 
 \
-Já dentro do servidor no Discord, busque a área `🎓 | Aprenda e Ganhe (Learn-to-Earn)` e vá para o canal `👉・comece-aqui`\\
+Já dentro do servidor no Discord, busque a área `🎓 | Aprenda e Ganhe (Learn-to-Earn)` e vá para o canal `👉・comece-aqui`
 
 Neste canal você encontrará mais informações sobre o experimento e o caminho para realizar as missões. As missões exigirão que você envie informações para um determinado canal no Discord e todas elas farão a entrega dos seus tokens de forma automática.
 
