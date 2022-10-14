@@ -2,7 +2,7 @@
 
 ### Shall we create a community together? <a href="#shall-we-create-a-community-together" id="shall-we-create-a-community-together"></a>
 
-The objective of this experiment is to create a community, but I alone will not create anything. A community is created from the interaction and engagement of its members. The idea of having a community that helps members understand and experience web3 strikes me as very exciting. My intention is just to help with kick-starting to create a safe learning environment, where everyone helps each other.
+The objective of this experiment is to create a community, but I alone will not create anything. A community is created from the interaction and engagement of its members. The idea of having a community that helps members understand and experience web3 strikes me as very exciting. My intention is just to help get the ball rolling to create a safe learning environment where everyone helps each other.
 
 The goal behind this experiment is not to create a DAO, much less a company. To be part of the community, you don't have to commit to working hours or specific responsibilities, although you can really make the effort and make a huge difference to other people's lives. Consider this environment as an experimental lab organized by a group of friends who have the same common goal and are willing to help each other.
 
