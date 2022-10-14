@@ -76,7 +76,7 @@ Anyone who can access these 12 words will be able to steal all your funds.
 It is very important that you correctly store your Seed Phrase safely.
 
 {% hint style="warning" %}
-**Watch out!** Under no circumstances should you keep these words on your mobile or computer, even less take a snapshot of them, because that >way the information will be at risk in case your mobile or computer is hacked.
+**Watch out!** Under no circumstances should you keep these words on your mobile or computer, even less take a snapshot of them, because that way the information will be at risk in case your mobile or computer is hacked.
 {% endhint %}
 
 A safe way to store your seed phrase is to write it down on a piece of paper with a ballpoint pen and store it in a safe place at home, preferably in a safe. Some people wrap the piece of paper with the words with aluminum foil to preserve it in case of an accident.
