@@ -47,7 +47,7 @@ By clicking on the extensions icon and on the MetaMask pin, the MetaMask icon wi
 
 ![](../../.gitbook/assets/MetaMask-3.png)
 
-If you don’t do this, you would allow your usage data to be sent to the app team. No wallet or transaction data is shared, nor is any data that identifies you, and they promise not to share them with anybody. There is no risk in allowing it, but I personally prefer not to.
+If you don’t do this, you would allow your usage data to be sent to the app team. No wallet or transaction data is shared, nor is any data that identifies you, and they promise not to share it with anybody. There is no risk in allowing it, but I personally prefer not to.
 
 ### 5. Set up a password to use your wallet
 
