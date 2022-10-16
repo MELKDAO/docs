@@ -4,7 +4,7 @@ Yes, that's right. With this experiment you will learn and earn tokens at the sa
 
 The more you evolve and learn, the more tokens you will earn. At first, the $MELK token has no monetary value, but it can be used to buy an NFT that will have social and reputational value for being a proof of learning.
 
-In English, this model is called Learn-to-earn, which means you need to learn first to earn later. It is an innovative teaching model that emerged with the advent of cryptocurrencies. In Brazil, it is not yet widespread and the $MELK token is the first Brazilian Learn-to-earn token.
+This model is called Learn-to-earn, which means you need to learn first to earn later. It is an innovative teaching model that emerged with the advent of cryptocurrencies. In Brazil, it is not yet widespread and the $MELK token is the first Brazilian Learn-to-earn token.
 
 When you start to learn and receive the token, you’ll be part of history, in the chapter of the web3 revolution, and you will also gain knowledge that few people in the world have.
 

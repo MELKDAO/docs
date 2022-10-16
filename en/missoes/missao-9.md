@@ -42,7 +42,7 @@ If you're interested in this framework, [read about PODs in the community manual
 
 In addition, the DAO has a financial budget that is used to pay POD members and leaders. Activity management is done by pod leaders together with members, using decentralized voting systems (Snapshot), so that everyone can help build a better DAO and service. On the financial side, it is important to note that each DAO has a different structure, but at Web3dev, Pod leaders receive 100 USD and members receive 50 USD. The amount of this compensation is something that could be proposed and voted on using Snapshot.
 
-## 4. Governança
+## 4. Governance
 
 The governance of a DAO represents how the DAO will be governed, that is, how proposals will be made and actions carried out. To exemplify Web3dev again, the DAO will be governed by W3D token holders. The policy is that treasury allocation (for funding, liquidity and investment), service provider changes and tokenomics updates (governance, sourcing, distribution) will only take place after a successful proposal and vote. In the case of web3dev, governance is being implemented gradually and in phases. At the beginning of the DAO, all decisions will be made by the founders of Web3dev, and then they will be handled by the community.
 
@@ -134,7 +134,7 @@ If you want to understand more about how Snapshot works as a whole, you can read
 
 {% embed url="https://docs.snapshot.org/" %}
 
-## 7. Criando uma proposta
+## 7. Creating a Proposal
 
 For the second part of this mission, we are going to create a proposal on the Snapshot testnet. That's because on the Snapshot mainnet, Melk DAO will be used to create real proposals and discussions about what we’re going to do in the DAO. As we have a lot of people doing the experiment, if everyone created proposals on the main DAO Snapshot channel, we would end up with a lot of proposals and a polluted space.
 
