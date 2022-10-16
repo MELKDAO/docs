@@ -40,15 +40,15 @@ In these markets, whoever owns the NFT can put it up for sale for whatever amoun
 
 However, marketplaces are also useful for viewing the NFTs you own, even if they have no monetary value, like our certificate NFT, which we take as proof of knowledge.
 
-# Getting to know Opensea
+# 3. Getting to know Opensea
 
 In this part of the mission, we are going to visit a very famous marketplace, OpenSea. There we will learn how to view NFTs, to later view our certificate. To get started, go to this link: [https://opensea.io/](https://opensea.io/)
 
 OpenSea is an NFT marketplace, where we can view countless tokens and even buy them. For today's mission, let's look at some already minted certificates from our MELK project collection.
 
-# 4. Sending the mission proof
+# 4. Submitting the Mission Proof
 
-In this mission, the order of events will be slightly different. In order for us to verify that you have completed all the missions and enable the mint of your certificate, it is necessary to complete the mission and send the proof on discord before the mint process. To do this, send the link of an NFT from our collection of your choice in the mission 10 discord chat channel.
+In this mission, the order of events will be slightly different. In order for us to verify that you have completed all the missions and enable the mint of your certificate, it is necessary to complete the mission and submit the proof on discord before the mint process. To do this, send the link of an NFT from our collection of your choice in the mission 10 discord chat channel.
 
 First, follow this link:
 
