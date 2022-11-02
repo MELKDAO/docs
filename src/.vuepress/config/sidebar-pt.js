@@ -19,5 +19,21 @@ module.exports = [
         title: "Inspiração",
         path: "/inspiracao.md",
         collapsable: "false"
+    },
+    {
+        title: "Missões",
+        path: "/missoes/",
+        collapsable: true,
+        children: [
+            "/missoes/missao-1/README.md",
+            "/missoes/missao-2.md",
+            "/missoes/missao-3.md",
+            "/missoes/missao-4.md",
+            "/missoes/missao-5.md",
+            "/missoes/missao-6.md",
+            "/missoes/missao-7.md",
+            "/missoes/missao-8.md",
+            "/missoes/missao-9.md",
+        ]
     }
 ]
