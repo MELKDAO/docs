@@ -2,7 +2,6 @@
 description: $MELK é o primeiro token Learn-to-Earn (aprenda para ganhar) do Brasil.
 ---
 
-# 👋 Escola WEB3 - MELK DAO
 
 O experimento de $MELK tem por objetivo trazer milhares de pessoas para o novo mundo web3.
 
