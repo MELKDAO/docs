@@ -1,26 +1,26 @@
 ---
-description: Informações técnicas sobre o token.
+description: Informaciones técnicas sobre el token.
 ---
 
 # 💰 Token MELK
 
-Nome: Token MELK\
+Nombre: Token MELK\
 Ticker: $MELK\
-Decimais: 18\
+Decimales: 18\
 Supply: 10.000.000\
-Rede: Polygon\
+Red: Polygon\
 Hash: 0x9fd41f6f67d4438f0e3dc3951eae0ad2093492dd
 
-### Token no Polygonscan
+### Token en Polygonscan
 
-Você pode visualizar informações do token no polygonscan pelos links:
+Puedes ver más informaciones sobre el token en Polygonscan a través de los siguientes enlaces:
 
 Token: [https://polygonscan.com/token/0x9fd41f6f67d4438f0e3dc3951eae0ad2093492dd](https://polygonscan.com/token/0x9fd41f6f67d4438f0e3dc3951eae0ad2093492dd)
 
 Contrato: [https://polygonscan.com/address/0x9fd41f6f67d4438f0e3dc3951eae0ad2093492dd](https://polygonscan.com/address/0x9fd41f6f67d4438f0e3dc3951eae0ad2093492dd)
 
-### Código Fonte
+### Código Fuente
 
-O código fonte do smart contract do token está público no Github
+El código fuente del contrato inteligente del token está disponible públicamente en Github:
 
 [https://github.com/web3melk/melk-token](https://github.com/web3melk/melk-token)

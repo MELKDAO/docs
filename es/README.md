@@ -1,17 +1,17 @@
 ---
-description: $MELK é o primeiro token Learn-to-Earn (aprenda para ganhar) do Brasil.
+description: $MELK es el primer token Learn-to-Earn de Brasil.
 ---
 
-# 👋 Escola WEB3 - MELK DAO
+# 👋 Escuela WEB3 - MELK DAO
 
-O experimento de $MELK tem por objetivo trazer milhares de pessoas para o novo mundo web3.
+El experimento $MELK tiene como objetivo atraer a miles de personas al nuevo mundo de la web3.
 
-Já ficou claro pra mim, que as tecnologias da web3 irão revolucionar a maneira com que interagimos socialmente, trabalhamos, estudamos e nos divertimos. Uma nova infraestrutura tecnológica e econômica está sendo criada e aos poucos vamos vivenciar uma disrupção dos modelos tradicionais de trabalho e educação.
+Ya me quedó claro que las tecnologías web3 revolucionarán la forma en que interactuamos socialmente, trabajamos, estudiamos y nos divertimos. Se está creando una nueva infraestructura tecnológica y económica y poco a poco viviremos una disrupción de los modelos tradicionales de trabajo y educación.
 
-O blockchain, as cryptomoedas e os tokens sociais estão viabilizando mecanismos inovadores de incentivo, recompensa e remuneração que mudarão por completo a forma de colaboração e de geração de valor.
+Blockchain, las criptomonedas y los tokens sociales están permitiendo mecanismos innovadores de incentivos, recompensas y compensaciones que cambiarán por completo la forma en que se generan la colaboración y el valor.
 
-E eu sou um entusiasta dessa nova realidade e como fundador da web3dev estou trabalhando para que esse novo mundo se torne realidade. O token $MELK é mais uma iniciativa para chegar lá.
+Soy un entusiasta de esta nueva realidad y como fundador de web3dev estoy trabajando para hacer realidad este nuevo mundo. El token $MELK es otra iniciativa más para llegar allí.
 
-E esse experimento conta com a colaboração de todos que acreditam nesse novo mundo e querem colaborar para que cheguemos lá todos juntos.
+Y este experimento cuenta con la colaboración de todos los que creen en este nuevo mundo y quieren colaborar para que podamos llegar todos juntos.
 
 WAGMI ❤️

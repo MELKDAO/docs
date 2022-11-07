@@ -1,44 +1,44 @@
-# 🌐 Comunidade
+# 🌐 Comunidad
 
-### Vamos criar uma comunidade juntos? <a href="#vamos-criar-uma-comunidade-juntos" id="vamos-criar-uma-comunidade-juntos"></a>
+### ¿Creamos una comunidad juntos? <a href="#vamos-criar-uma-comunidade-juntos" id="vamos-criar-uma-comunidade-juntos"></a>
 
-O objetivo deste experimento é criar uma comunidade, mas eu sozinho não vou criar nada. Uma comunidade se cria a partir da interação e engajamento dos seus membros. A ideia de termos uma comunidade que ajuda os membros a entenderem e vivenciarem a web3 me parece muito animadora. O meu intuito é apenas dar o pontapé inicial para criar um ambiente seguro de aprendizado onde todo mundo se ajuda.
+El propósito de este experimento es crear una comunidad, pero yo solo no crearé nada. Una comunidad se crea a partir de la interacción y el compromiso de sus miembros. La idea de tener una comunidad que ayude a los miembros a entender y experimentar web3 me parece muy emocionante. Mi intención es simplemente poner en marcha la creación de un entorno de aprendizaje seguro en el que todos se ayuden unos a otros.
 
-O objetivo por traz desse experimento não é criar uma DAO, muito menos uma empresa. Para participar da comunidade você não precisa se comprometer com horas de trabalho ou com alguma responsabilidade específica. Embora você possa de fato empreender esforços e fazer uma baita diferença para a vida das outras pessoas. Entenda esse ambiente como um laboratório para experiências organizado por um grupo de amigos que tem o mesmo objetivo comum e estão dispostos a ajudar uns aos outros.
+El objetivo de este experimento no es crear una DAO y mucho menos una empresa. Para participar en la comunidad, no tienes que comprometerte con horas de trabajo o responsabilidades específicas. Aunque realmente puedes hacer el esfuerzo y hacer una gran diferencia en la vida de otras personas. Entiende este entorno como un laboratorio de experimentos organizado por un grupo de amigos que tienen un mismo objetivo común y están dispuestos a ayudarse unos a otros.
 
-### Para quem é destinado?
+### ¿Para quién?
 
-Esse programa é destinado para qualquer pessoa, embora a comunidade web3dev seja destinada para pessoas de tecnologia, você não precisa ser e nem querer ser programador.
+Este programa está destinado a cualquier persona, aunque la comunidad web3dev está destinada a personas de tecnología, no es necesario que seas ni quieras ser un programador.
 
-Na verdade, você não precisa entender nada de nada. Se seguir o tutorial, vai conseguir aprender.
+De hecho, no necesitas entender nada en absoluto. Si sigues el tutorial, podrás aprender.
 
-O foco é para que você aprenda a ser um **usuário de web3**.
+El objetivo es que aprendas a ser un **usuario de web3**.
 
-### Como funciona? <a href="#como-funciona" id="como-funciona"></a>
+### ¿Cómo funciona? <a href="#como-funciona" id="como-funciona"></a>
 
-Estou desenvolvendo as primeiras missões do experimento. Cada missão é uma tarefa que exige um aprendizado e uma execução. Ao completar a missão, você ganha uma quantidade de tokens $MELK.
+Estoy desarrollando las primeras misiones del experimento. Cada misión es una tarea que requiere aprendizaje y ejecución. Al completar la misión, ganas una cantidad de tokens $MELK.
 
-Qualquer pessoa pode participar, não existe nenhuma exigência e nem conhecimento prévio requerido.
+Cualquiera puede participar, no hay requisitos ni conocimientos previos.
 
-O objetivo do token $MELK é criar uma moeda digital em uma economia virtual onde qualquer um vai ser livre para experimentar a web3 com facilidade, sem precisar gastar dinheiro real.
+El propósito del token $MELK es crear una moneda digital en una economía virtual en la que cualquiera podrá experimentar web3 con facilidad, sin tener que gastar dinero real.
 
-### O que farei com meu $MELK? <a href="#o-que-farei-com-meu-melk" id="o-que-farei-com-meu-melk"></a>
+### ¿Qué haré con mi $MELK? <a href="#o-que-farei-com-meu-melk" id="o-que-farei-com-meu-melk"></a>
 
-No final do primeiro módulo que compreende as 10 primeiras lições, você poderá usar os seus tokens MELK para comprar um NFT personalizado pra você, que comprova que você completou as missões e aprendeu o básico sobre web3.
+Al final del primer módulo que comprende las primeras 10 lecciones, podrás usar tus tokens MELK para comprarte un NFT personalizado, lo que demuestra que completaste las misiones y aprendiste los conceptos básicos de web3.
 
-Esse NFT vai ser a prova de que você está preparado para o mundo da web3. Você poderá colocá-lo no seu currículo ou no seu Linked-in.
+Este NFT será la prueba de que estás preparado para el mundo de la web3. Puedes ponerlo en tu CV o en tu Linked-in.
 
-Lembrando que o token MELK não tem nenhum valor intrínseco. Ele tem um único objetivo de incentivar a criação de uma comunidade, que pode vir a se tornar bem forte, de interessados em fazer com que a web3 se torne uma realidade para o mainstream (população em geral).
+Recordando que el token MELK no tiene valor intrínseco. Tiene un único objetivo fomentar la creación de una comunidad, que puede llegar a ser muy fuerte, de personas interesadas en hacer de web3 una realidad para el mainstream (población en general).
 
-Com o tempo e com o crescimento da comunidade vamos começar a trazer mais utilidades para o token, o NFT e o ecossistema. É possível que façamos alguma parceria com uma empresa que queira oferecer algum brinde ou acesso exclusivo para quem possuir o NFT.
+Con el tiempo y con el crecimiento de la comunidad, comenzaremos a brindar más utilidades al token, el NFT y el ecosistema. Es posible que nos asociemos con una empresa que quiera ofrecer algún obsequio o acceso exclusivo a quienes poseen el NFT.
 
-Mas nada disso é uma promessa! Também pode acontecer de encerrarmos o experimento depois de alguns meses. O mais importante aqui é aprendermos e ajudarmos uns aos outros. O ganho do token é uma consequência, que por ventura pode se tornar financeiramente interessante.
+¡Pero nada de esto es una promesa! También puede ocurrir que finalicemos el experimento pasados ​​unos meses. Aquí lo más importante es que aprendamos y nos ayudemos unos a otros. La ganancia simbólica es una consecuencia, que puede volverse financieramente interesante.
 
-### Como participar? <a href="#como-participar" id="como-participar"></a>
+### ¿Cómo participar? <a href="#como-participar" id="como-participar"></a>
 
-Para participar você precisa entrar em um servidor do Discord onde o projeto está rodando. Sege a lista de possíveis comunidades para participar:
+Para participar, debes iniciar sesión en algún servidor de Discord donde se ejecute el proyecto. Aquí está la lista de posibles comunidades para participar:
 
-| Comunidade        | Link de Acesso                                                 |
+| Comunidad        | Link de Acceso                                                 |
 | ----------------- | -------------------------------------------------------------- |
 | web3dev           | [https://discord.gg/B85d25rDUT](https://discord.gg/B85d25rDUT) |
 | Bankless BR DAO   | [https://discord.gg/hJ7qSyfvqF](https://discord.gg/hJ7qSyfvqF) |
@@ -48,13 +48,13 @@ Para participar você precisa entrar em um servidor do Discord onde o projeto es
 | DGAC              | [https://discord.gg/NEkCVZa9cm](https://discord.gg/NEkCVZa9cm) |
 
 \
-Já dentro do servidor no Discord, busque a área `🎓 | Aprenda e Ganhe (Learn-to-Earn)` e vá para o canal `👉・comece-aqui`
+Una vez dentro del servidor de Discord, busca `🎓 | Aprende y Gana (Learn-to-Earn)` y ve al canal `conozca-melk`
 
-Neste canal você encontrará mais informações sobre o experimento e o caminho para realizar as missões. As missões exigirão que você envie informações para um determinado canal no Discord e todas elas farão a entrega dos seus tokens de forma automática.
+En este canal encontrarás más información sobre el experimento y la forma de realizar las misiones. Las misiones requerirán que envíes información a un determinado canal en Discord y todos ellos entregarán automáticamente tus tokens.
 
 \
-Caso você tenha qualquer dúvida, o canal `💬・bate-papo` será o lugar para conseguir ajuda.
+Si tienes alguna pregunta, el canal `💬・chat-melk` será el lugar para obtener ayuda.
 
-É isso! Acho que com essas informações, você já está pront@ para se aventurar nas missões que preparamos e começar a sua jornada em web3.
+¡Eso es todo! Creo que con esta información, estás listo para aventurarte en las misiones que hemos preparado y comenzar tu viaje web3.
 
-Vamos lá? Escolha uma comunidade e comece as missões agora mesmo 🚀
+¿Estás preparado? Elige una comunidad y comienza misiones ahora mismo 🚀
