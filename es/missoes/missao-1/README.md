@@ -1,25 +1,22 @@
 ---
-description: Criar uma carteira na Metamask
+description: Crear una cartera en Metamask
 ---
 
-# Missão 1
+# Misión 1
 
-Sua primeirão missão para começar a jornada em web3 é criar uma carteira de crypto. Assim como você tem uma conta bancária onde guarda seu dinheiro, faz e recebe pagamentos, a sua carteira crypto é por onde você vai manipular os seus tokens. A carteira é um programa que você instala no seu computador, em geral como um plugin do navegador. A carteira que vamos instalar é a mais famosa, chamada Metamask e você poderá instalar no Chrome, Firefox, Brave ou Edge.
+Tu primera misión para comenzar el viaje en Web3 es crear una cartera de cripto. Así como tienes una cuenta bancaria donde depositas tu dinero, haces y recibes pagos, tu cartera cripto es el lugar donde vas a manipular tus tokens. La cartera es un programa que instalas en tu computador, en general como un plugin del navegador. La cartera que vamos a instalar es la más famosa, llamada Metamask y podrás instalarla en Chrome, Firefox, Brave o Edge.
 
-A carteira é um conjunto de chaves privadas e públicas que você usa para receber tokens pela Blockchain. Ao criar a sua carteira, dentro da Metamask você terá acesso ao endereço público que você informará às outras pessoas para receber um token e também as palavras-chaves que correspondem à chave privada, que permite a manipulação dos tokens na carteira. A chave privada e as palavras chaves você nunca deve informar para ninguém e precisa guardar por escrito em um local seguro. Qualquer pessoa que tiver acesso a essas palavras poderá roubar todas as suas moedas.
+La cartera es un conjunto de claves privadas y públicas que puedes usar para recibir tokens por medio de la Blockchain. Al crear tu cartera, dentro de Metamask tendrás acceso a la dirección pública que le informarás a otras personas para recibir un token y también las palabras clave que corresponden a la clave privada, que permite la manipulación de los tokens en la cartera. La clave privada y las palabras clave, nunca las debes compartir con nadie y necesitas guardarlas por escrito en un lugar seguro. Cualquier persona que tenga acceso a esas palabras podrán robar todas tus monedas.
 
-A sua carteira também será usada para você fazer login e acessar os sistemas web3.
+Tu cartera también se utiliza para que puedas iniciar sesión y acceder a los sistemas web3.
 
-### Vamos Começar!
+### ¡Vamos a empezar
 
-Escolha se você está no celular ou no computador.
+Elige si estás en el celular o en el computador.
 
 | [Celular](instalar-uma-carteira-no-celular.md) | [Computador](instalar-uma-carteira-no-computador.md) |
 | ---------------------------------------------- | ---------------------------------------------------- |
 
 {% hint style="success" %}
-Se você tiver qualquer dúvida, pergunte no [canal geral do Experimento MELK no discord da web3dev](https://discord.gg/w8smrfEpN4).
+Si tienes alguna duda, pregunta en el [canal general del Experimento MELK en el Discord de web3dev](https://discord.gg/w8smrfEpN4).
 {% endhint %}
-
-
-
