@@ -1,173 +1,173 @@
 ---
-description: Aprendendo a comprar MATIC.
+description: Aprendiendo a comprar MATIC.
 ---
 
-# Missão 6
+# Misión 6
 
-Estamos evoluindo. Na missão anterior, compreendemos o funcionamento e importância do mecanismo de assinaturas no mundo da web3, além de experienciar uma assinatura real integrada com a Metamask.
+Estamos evolucionando. En la misión anterior entendimos el funcionamiento y la importancia del motor de firmas en el mundo web3, además de experimentar una firma real integrada con Metamask.
 
-Na missão de hoje aprenderemos a realizar a compra do token oficial da rede Polygon, o MATIC, utilizando o serviço da [RampBR](https://rampbr.com/).
+En la misión de hoy aprenderemos cómo comprar el token oficial de la red Polygon, MATIC, utilizando el servicio [RampBR](https://rampbr.com/).
 
 {% hint style="info" %}
-Para completar essa missão, seu saldo de MATIC no final dela deve ser maior ou igual a 2 MATIC. Caso esse valor não seja atingido, a prova não será validada.
+Para completar esta misión, tu saldo de MATIC al final de la misma debe ser mayor o igual a 2 MATIC. Si no se alcanza este valor, la prueba no será validada.
 {% endhint %}
 
-Como aprendemos nas missões anteriores, o token MATIC é o token padrão da rede Polygon, usado para transações na blockchain e pagamento de _gas_ em transações de tokens não nativos. Antes de realizar a compra, vamos entender como ela pode ser realizada, introduzindo o conceito de _Exchanges_ (corretoras).
+Como aprendimos en misiones anteriores, el token MATIC es el token estándar de la red Polygon, utilizado para transacciones en blockchain y pago de _gas_ en transacciones de tokens no nativos. Antes de realizar la compra, comprendamos cómo se puede hacer, introduciendo el concepto de _Exchanges_ (brokers).
 
-### 1. Corretoras centralizadas
+### 1. Brokers Centralizados
 
-As Exchanges centralizadas - apesar do objetivo de descentralização da web3 - ainda são muito utilizadas no mundo cripto. Isso acontece principalmente para a compra de criptomoedas a partir de moeda fiduciária, o dinheiro que estamos acostumados a usa como real, dólar, etc. Nas corretoras centralizadas você também pode realizar a troca de tokens que estão listados. Cada corretora tem uma lista de criptos listadas, algumas criptos mais novas não podem ser compradas em corretoras centralizadas porque ainda não foram listadas.
+Los brokers centralizados - a pesar del objetivo de descentralización de web3 - todavía se usan mucho en el mundo cripto. Esto sucede principalmente para la compra de criptomonedas a partir de monedas fiduciarias, el dinero que estamos acostumbrados a usar, como peso, dólar, euro, etc. En los brokers centralizados también puedes intercambiar tokens que están listados. Cada intercambio tiene una lista de criptos listadas, algunas criptos más nuevas no se pueden comprar en brokers centralizados porque aún no están listadas.
 
-As principais corretoras brasileiras são: [Mercado Bitcoin](https://www.mercadobitcoin.com.br/) e [Foxbit](https://foxbit.com.br/). As corretoras estrangeiras que funcionam no Brasil mais famosas são [Binance](https://www.binance.com/pt-BR) e [FTX](https://ftx.com/).
+Los principales brokers brasileños son: [Mercado Bitcoin](https://www.mercadobitcoin.com.br/) y [Foxbit](https://foxbit.com.br/). Los brokers extranjeros más famosos que operan en Brasil son [Binance](https://www.binance.com/pt-BR) y [FTX](https://ftx.com/).
 
-Além das Exchanges, temos serviços como o [RampBR](https://rampbr.com/), que permite a compra de criptomoedas de maneira rápida e prática, fazendo o pagamento com Pix, por exemplo.
+Además de Exchanges, contamos con servicios como [RampBR](https://rampbr.com/), que permite la compra de criptomonedas de forma rápida y práctica, realizando el pago con Pix, por ejemplo.
 
-### 2. O token MATIC e as transações
+### 2. El token MATIC y las transacciones
 
-É extremamente importante destacar alguns aspectos centrais das transações em MATIC. Já que o token tem valor financeiro, é necessário [declará-lo no imposto de renda como Bens e Direitos](https://www.infomoney.com.br/guias/bitcoin-criptomoedas-imposto-de-renda-ir/).
+Es de suma importancia resaltar algunos aspectos centrales de las transacciones MATIC. Dado que el token tiene valor económico, es necesario [declararlo en el impuesto sobre la renta como Bienes y Derechos](https://www.infomoney.com.br/guias/bitcoin-criptomoedas-imposto-de-renda-ir/).
 
-Caso você realize uma venda em que o lucro seja superior a R$ 35 mil em um mês, é necessário pagar imposto sobre ganho de capital.
+Si realizas una venta donde la ganancia supera los  R$ 35k en un mes, deberás pagar el impuesto sobre las ganancias de capital.
 
-Também devemos entender que, após a compra do token MATIC, estaremos expostos à volatilidade da moeda, ou seja, suas oscilações de preço. Os preços das criptomoedas são muito voláteis e variam muito mais do que as ações no mercado tradicional.
+También debemos entender que después de comprar el token MATIC, estaremos expuestos a la volatilidad de la moneda, es decir, a las fluctuaciones de su precio. Los precios de las criptomonedas son muy volátiles y varían mucho más que las acciones en el mercado tradicional.
 
-Em resumo é importante saber que o token é um ativo e representa um investimento, e por isso, está sujeito à impostos, ganhos e perdas.
+En resumen, es importante saber que el token es un activo y representa una inversión, y por lo tanto, está sujeto a impuestos, ganancias y pérdidas.
 
-### 3. Analisando o token
+### 3. Análisis del token
 
-Para entender um pouco mais sobre o MATIC, vamos entrar no site da [CoinGecko](https://www.coingecko.com/pt) e analisar algumas características do token. Se quiser acompanhar, entre no link acima.
+Para entender un poco más sobre MATIC, entremos al sitio web [CoinGecko](https://www.coingecko.com/pt) y analizar algunas características del token. Si quieres seguirlo, haz clic en el enlace de arriba.
 
 ![](<../.gitbook/assets/image (5).png>)
 
-A tela inicial se parece com essa, uma listagem de moedas ordenada por capitalização de mercado de cada ativo. Capitalização de mercado é o valor de mercado, ou seja, quanto em dólar está comprado nessa moeda. Esse valor é o resultado da multiplicação do preço unitário e o número de moedas em circulação. No dia em que essa missão está sendo escrita, a rede Polygon (onde mora nosso token MATIC) está em #19 lugar com uma capitalização de mercado de um pouco mais de 10 bilhões de dólares.
+La pantalla de inicio se ve así, una lista de monedas ordenadas por capitalización de mercado de cada activo. La capitalización de mercado es el valor de mercado, es decir, qué valor en dólares se ha comprado de esa moneda. Este valor es el resultado de multiplicar el precio unitario y el número de monedas en circulación. A partir del día en que se escribe esta misión, la red Polygon (donde vive nuestro token MATIC) ocupa el puesto n.° 19 con una capitalización de mercado de poco más de $10 mil millones de dólares.
 
 ![](<../.gitbook/assets/image (47).png>)
 
-Vamos entender um pouco desses valores destacados. Primeiro temos o preço do token em dólar, no dia de hoje. Nas próximas três colunas temos a porcentagem de oscilação de preço respectivamente nas últimas 1 hora, 24 horas e 7 dias. Na próxima coluna temos o volume em 24h. O volume representa, em dólar, a quantidade de dinheiro que transacionou na rede nas últimas 24h. Depois, temos a capitalização de mercado, introduzida anteriormente. Por último, temos o gráfico de preço dos últimos 7 dias, indicando a variação de preço da moeda.
+Comprendamos algunos de estos valores destacados. Primero tenemos el precio del token en dólares, al día de hoy. En las siguientes tres columnas tenemos el porcentaje de fluctuación de precios en la última hora, 24 horas y 7 días respectivamente. En la siguiente columna tenemos el volumen en 24h. El volumen representa, en dólares, la cantidad de dinero que se ha transaccionado en la red en las últimas 24 horas. Luego tenemos la capitalización de mercado, presentada anteriormente. Finalmente, tenemos el gráfico de precios de los últimos 7 días, indicando el cambio de precio de la moneda.
 
-Agora, vamos clicar na Polygon. Sua tela deve se parecer com essa:
+Ahora, hacemos clic en Polygon. Tu pantalla debería verse así:
 
 ![](<../.gitbook/assets/image (108).png>)
 
-Temos muita informação aqui. Mas vamos falar mais especificamente da parte destacada da imagem acima.
+Tenemos mucha información aquí. Pero hablemos más específicamente sobre la parte resaltada de la imagen de arriba.
 
-Como primeiro item, temos a capitalização de mercado associado à Polygon, explicado acima. Depois, temos o volume total em dólar negociado em 24h, também explicado anteriormente. Quanto maior o volume negociado, maior a liquidez da moeda, ou seja, mais fácil será você vendê-la caso queira se desfazer. Veja que no dia que tirei a captura de tela, foram movimentados mais de 300 milhões de dólares. É um movimento expressivo. Mesmo se você comprar R$ 1 milhão por exemplo, você vai conseguir vender imediatamente.
+Como primer ítem, tenemos la capitalización de mercado asociada a Polygon, explicada anteriormente. Luego tenemos el volumen total en dólares negociado en 24 horas, también explicado anteriormente. Cuanto mayor sea el volumen negociado, mayor será la liquidez de la moneda, es decir, más fácil te resultará venderla si quieres deshacerte de ella. Fíjense que el día que tomé la captura de pantalla se movieron más de 300 millones de dólares. Es un movimiento expresivo. Aunque compres R$ 1 millón, por ejemplo, podrás vender inmediatamente.
 
-Agora sim, temos um conceito novo, a Avaliação Totalmente Diluída. Esse valor é a capitalização de mercado (avaliação) caso o fornecimento máximo de uma moeda estiver em circulação, que pode demorar anos antes de ser alcançado, dependendo do cronograma de emissões.
+Ahora, tenemos un nuevo concepto, la Evaluación Totalmente Diluida. Este valor es la capitalización de mercado (evaluación) si está en circulación la oferta máxima de una moneda, que puede tardar años en alcanzarse, dependiendo del cronograma de emisión.
 
-Logo depois, temos o Valor Total Bloqueado, que é o capital depositado em Contratos Inteligentes sob a forma de garantia de empréstimo ou de negociação de liquidez. É um valor que não está nas carteiras pessoas das pessoas, mais sim nos endereços dos Contratos Inteligentes que são sistemas que guardam a moeda para determinados propósitos. Todo o mercado DEFI (FInanças Decentralizadas) roda por meio de Contratos Inteligentes.
+A continuación, tenemos el Monto Total Bloqueado, que es el capital depositado en Contratos Inteligentes en forma de garantía de préstamo o negociación de liquidez. Es un valor que no está en las billeteras personales de las personas, sino en las direcciones de los Smart Contracts, que son sistemas que guardan la moneda para ciertos fines. Todo el mercado DeFi (Finanzas Descentralizadas) se ejecuta a través de Contratos Inteligentes.
 
-Após, temos a relação de avaliação totalmente diluída (FDV) sobre o valor total bloqueado (TVL) deste ativo. Uma relação superior a 1.0 refere-se ao fato de a FDV ser superior ao seu TVL. Basicamente dividimos a avaliação totalmente diluída pelo valor total bloqueado do ativo.
+Posteriormente, tenemos la relación de valoración totalmente diluida (FDV) sobre el valor total bloqueado (TVL) de este activo. Una relación superior a 1,0 se refiere a que la FDV es superior a su TVL. Básicamente, dividimos la valoración totalmente diluida por el valor total bloqueado del activo.
 
-Também temos a relação de capitalização de mercado sobre o valor total bloqueado deste ativo. Uma relação superior a 1.0 refere-se ao fato de a sua capitalização de mercado ser superior ao seu valor total bloqueado. Essa relação é utilizado para aproximar um valor de mercado e o montante de ativos acumulados/bloqueados.
+También tenemos el índice de capitalización de mercado sobre el valor total bloqueado de este activo. Una relación superior a 1,0 se refiere al hecho de que su capitalización de mercado es mayor que su valor total bloqueado. Esta relación se utiliza para aproximar un valor de mercado y la cantidad de activos acumulados/bloqueados.
 
-O fornecimento circulante é a quantia de moedas que circulam no mercado e são negociáveis pelo público. É comparável a verificar ações prontamente disponíveis no mercado (não detidas e bloqueadas).
+La oferta circulante es la cantidad de monedas que circulan en el mercado y son negociables por el público. Es comparable a la comprobación de existencias fácilmente disponibles en el mercado (no mantenidas y bloqueadas).
 
-Já o fornecimento total é a quantidade de moedas que já foram criadas.
+El suministro total es la cantidad de monedas que ya se han creado.
 
-O fornecimento máximo é o número máximo de moedas codificadas para existir na duração da criptomoeda. É comparável ao número máximo de ações emissíveis no mercado de valores.
+El suministro máximo es la cantidad máxima de monedas codificadas que existen durante la duración de la criptomoneda. Es comparable al número máximo de acciones que pueden emitirse en el mercado de valores.
 
-No caso da Polygon, o fornecimento total é igual ao fornecimento máximo, o que significa que novas moedas não serão criadas.
+En el caso de Polygon, el suministro total es igual al suministro máximo, lo que significa que no se crearán nuevas monedas.
 
-A título do nosso exercício, utilizaremos o [RampBR](https://rampbr.com/) para comprar MATIC, devido a sua praticidade.
+Como parte de nuestro ejercicio, usaremos [RampBR](https://rampbr.com/) para comprar MATIC, por su practicidad.
 
 ### 4. Comprando MATIC
 
-No final dessa missão é importante que você tenha pelo menos 2 MATIC no saldo da sua carteira.
+Al finalizar esta misión es importante que tengas al menos 2 MATIC en el saldo de tu billetera.
 
 {% hint style="info" %}
-Essa missão faz a checagem de recompensa por meio do seu saldo de Matic. Portanto, se você já possui MATIC (mais que 2) na conta ou sabe comprar de outra forma, fique a vontade para pular essa parte.
+Esta misión verifica la recompensa a través de tu saldo de Matic. Por lo tanto, si ya tienes MATIC (más de 2) en tu cuenta o sabes cómo comprar de otra manera, no dudes en omitir esta parte.
 {% endhint %}
 
-Se você nunca comprou criptomoeda, siga os passos abaixo:
+Si nunca has comprado criptomonedas, sigue los pasos a continuación:
 
-Primeiro, entre nesse link: [https://rampbr.com/](https://rampbr.com/)
+Primero, ve a este enlace:[https://rampbr.com/](https://rampbr.com/)
 
 {% hint style="danger" %}
-Aplicativos e/ou corretoras alternativas ao site indicado acima:
+Aplicaciones y/o brokers alternativos al sitio indicado anteriormente:
 
-* Foxbit ([https://foxbit.com.br/](https://foxbit.com.br/)) - Corretora
-* Binance ([https://www.binance.com/pt-BR](https://www.binance.com/pt-BR)) - Corretora
-* Loopipay ([https://link.loopipay.com/bankless](https://link.loopipay.com/bankless)) - Pague com PIX utilizando o link da Bankless, contribuindo com o crescimento da DAO.
+* Foxbit ([https://foxbit.com.br/](https://foxbit.com.br/)) - Broker
+* Binance ([https://www.binance.com/pt-BR](https://www.binance.com/pt-BR)) - Broker
+* Loopipay ([https://link.loopipay.com/bankless](https://link.loopipay.com/bankless)) - Paga con PIX usando el enlace Bankless, contribuyendo al crecimiento de la DAO.
 {% endhint %}
 
-Sua tela deve ser parecida com essa:
+Tu pantalla debería verse así:
 
 ![](<../.gitbook/assets/image (13).png>)
 
-Para começar, vamos explicar alguns elementos da tela. Primeiro, temos o valor do Pix (em reais) que será feito para trocar o nosso dinheiro por criptomoedas.
+Para comenzar, explicaremos algunos elementos de la pantalla. Primero, tenemos el valor del Pix (en reales) que se usará para cambiar nuestro dinero por criptomonedas.
 
-Clique em Selecionar Token e escolha o token MATIC, da rede Polygon:
+Haz clic en Seleccionar token y elige el token MATIC de la red Polygon:
 
 ![](<../.gitbook/assets/image (15) (1) (1) (1).png>)
 
-Depois, digite o valor (em reais) que será comprado. Para essa missão, **o valor é escolhido pelo usuário, contanto que a compra resulte em 2 MATIC ou mais**. Para demonstrar, utilizaremos o valor de R$30,00 (que no dia que escrevi esse tutorial, resultaram em 4.1 MATIC aproximadamente).
+Luego, ingresa la cantidad (en reales) que se comprará. Para esta misión, **el valor lo elige el usuario, siempre y cuando la compra resulte en 2 MATIC o más**. Para demostrarlo, utilizaremos el valor de R$ 30,00 (que el día que escribí este tutorial resultó en aproximadamente 4.1 MATIC).
 
 ![](<../.gitbook/assets/FireShot Capture 003 - RampBR - rampbr.com.png>)
 
-Perceba que o valor do token é atualizado constantemente.
+Ten en cuenta que el valor del token se actualiza constantemente.
 
-Clique no botão comprar:
+Haz clic en el botón comprar:
 
 ![](<../.gitbook/assets/FireShot Capture 004 - RampBR - rampbr.com.png>)
 
-Aqui o site pedirá seu email (para acompanhamento da compra), mostrará o custo de serviço (taxas) da transação e o valor do MATIC em real.
+Aquí el sitio pedirá tu correo electrónico (para rastrear la compra), mostrará el costo del servicio (tasas) de la transacción y el valor del MATIC en reales.
 
-Coloque seu email e clique em prosseguir.
+Ingresa tu correo electrónico y haz clic en continuar.
 
 ![](<../.gitbook/assets/FireShot Capture 005 - RampBR - rampbr.com.png>)
 
-Depois de colocar seu email, o site pedirá um código de verificação, que foi enviado para o endereço de e-mail digitado. Coloque o código e clique em prosseguir.
+Después de ingresar tu correo electrónico, el sitio te pedirá un código de verificación, que se enviará a la dirección de correo electrónico que ingresaste. Introduce el código y haz clic en continuar.
 
-Essa tela deve estar aparecendo pra você:
+Esta pantalla debería estar apareciendo:
 
 ![](<../.gitbook/assets/FireShot Capture 006 - RampBR - rampbr.com.png>)
 
-Complete com as informações necessárias (que servem para evitar fraudes e transações mal intencionadas). Depois, clique em continuar, e sua tela deve se parecer com essa:
+Completa con la información necesaria (que sirve para prevenir fraudes y transacciones maliciosas). Luego haz clic en continuar, y tu pantalla debería verse así:
 
 ![](<../.gitbook/assets/FireShot Capture 007 - RampBR - rampbr.com.png>)
 
-Nessa tela, é pedido a conexão da carteira da Metamask, onde você receberá o MATIC.
+En esta pantalla, se te pide que conectes la billetera de Metamask, donde recibirás el MATIC.
 
 {% hint style="info" %}
-Lembre-se de estar conectado à rede Polygon com a mesma carteira com que as outras missões foram completadas, caso contrário a verificação posterior não será completada
+Recuerda estar conectado a la red Polygon con la misma wallet con la que se completaron las demás misiones, de lo contrario no se completará la verificación posterior.
 {% endhint %}
 
-Resolva o captcha e conecte sua carteira, e sua tela se parecerá com essa:
+Resuelve el captcha y conecta tu billetera. Tu pantalla se verá así:
 
 ![](<../.gitbook/assets/FireShot Capture 008 - RampBR - rampbr.com.png>)
 
-Depois, aparecerá uma confirmação da transação. Clique em confirmar.
+Luego aparecerá una confirmación de la transacción. Haz clic en confirmar.
 
 ![](<../.gitbook/assets/FireShot Capture 009 - RampBR - rampbr.com.png>)
 
-Após carregar, o site mostrará um código QR para um Pix do valor selecionado. Confirme a rede e o valor:
+Después de cargar, el sitio web mostrará un código QR para un Pix del valor seleccionado. Confirma la red y el valor:
 
 ![](<../.gitbook/assets/FireShot Capture 011 - RampBR - rampbr.com.png>)
 
-Depois de pagar o Pix, não feche o site. Após alguns instantes, sua tela deve mudar para essa:
+Después de pagar Pix, no cierres el sitio. Después de unos momentos, tu pantalla debería cambiar a esta:
 
 ![](<../.gitbook/assets/FireShot Capture 012 - RampBR - rampbr.com.png>)
 
-Depois que o pagamento for recebido, a transação de recebimento de seus tokens será processada, e quando for completada, essa tela aparecerá:
+Una vez recibido el pago, se procesará la transacción para recibir tus tokens, y cuando se complete, aparecerá esta pantalla:
 
 ![](<../.gitbook/assets/FireShot Capture 013 - RampBR - rampbr.com.png>)
 
-Parabéns!!! Agora os tokens deverão aparecer na sua carteira na Metamask! Você completou a missão 6!
+¡¡¡Felicidades!!! ¡Los tokens ahora deberían aparecer en tu billetera de Metamask! ¡Has completado la misión 6!
 
-### 5. Pronto! Agora manda lá no Discord o seu saldo de MATIC!
+### 5. ¡Listo, ahora envía tu saldo MATIC a Discord!
 
-Nessa missão aprendemos diversas coisas, como o que são corretoras centralizadas, algumas análises gerais do token MATIC e como realizar a compra da moeda básica da rede Polygon!
+¡En esta misión aprendimos varias cosas, como qué son los brokers centralizados, un análisis general del token MATIC y cómo comprar la moneda básica de la red Polygon!
 
-Para provar a missão de hoje, mande o seu saldo de MATIC no canal do discord do Experimento MELK para ganhar 10 tokens MELK! O seu saldo pode ser encontrado abrindo a extensão da Metamask.
+¡Para probar la misión de hoy, envía tu saldo MATIC en el canal de discord del Experimento MELK para ganar 10 tokens MELK! Puedes ver tu saldo abriendo la extensión de Metamask.
 
-Para receber a recompensa, mande **SOMENTE O NÚMERO INTEIRO** do seu saldo.
+Para recibir la recompensa, envía **SOLO EL NÚMERO ENTERO** de tu saldo.
 
-Ex: 4
+Ej: 4
 
-Se você comprou ou recebeu os MATICs de outra forma, mande no Discord o seu saldo de MATIC no momento em que a missão está sendo feita.
+Si compraste o recibiste MATIC de otra manera, envía tu saldo de MATIC en Discord en el momento en que se está realizando la misión.
 
-Qualquer dúvida, fique a vontade para enviar mensagem no canal de bate-papo e tirar suas dúvidas.
+Cualquier pregunta, no dudes en enviar un mensaje en el canal de chat para sanar tus dudas.
 
 {% hint style="info" %}
-Parabéns! Você agora tem uma moeda que tem valor real em sua carteira, já é um bom avanço para quem está começando. A partir de agora, a atenção precisa aumentar, porque caso você perca as suas palavras sementes ou realize uma operação indesejada, você vai poder perder o dinheiro real.
+¡Felicidades! Ahora tienes una moneda que tiene un valor real en tu billetera, lo que ya es un buen paso para alguien que está comenzando. De ahora en adelante, la atención debe aumentar, porque si pierdes tus palabras clave o realizas un intercambio no deseado, podrías perder dinero real.
 {% endhint %}

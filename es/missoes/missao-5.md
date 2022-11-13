@@ -1,101 +1,101 @@
 ---
-description: Aprendendo a assinar transações com MetaMask
+description: Aprendiendo a firmar transacciones con MetaMask
 ---
 
-# Missão 5
+# Misión 5
 
-Estamos aprendendo muitas coisas novas. Na última missão, entendemos o explorer da Polygon, o Polygonscan, e aprendemos a visualizar nossas transações detalhadamente, compreendendo todos os campos e o que eles significam.
+Estamos aprendiendo muchas cosas nuevas. En la última misión, entendimos el explorador de Polygon, Polygonscan, y aprendimos a visualizar nuestras transacciones en detalle, entendiendo todos los campos y lo que significan.
 
-Hoje vamos introduzir um novo conceito, o de assinar transações utilizando a MetaMask, que criamos na missão 1.
+Hoy vamos a presentar un nuevo concepto, el de firmar transacciones usando MetaMask, que creamos en la misión 1.
 
-Como já aprendemos, uma blockchain é formada por inúmeros blocos de transações, e pra cada transação é necessário o uso de gas pra ser completada. Atualmente não temos gas na nossa wallet, já que o token MELK não tem valor financeiro e na rede Polygon o token usado para pagar taxas de gas é o MATIC.
+Como ya hemos aprendido, una blockchain se compone de numerosos bloques de transacciones, y para cada transacción es necesario usar gas para completarla. Actualmente no tenemos gas en nuestra billetera, ya que el token MELK no tiene valor financiero y en la red Polygon el token que se usa para pagar las tarifas de gas es MATIC.
 
-Entretanto, existe um tipo de operação que se encaixa no conceito de _gas free_, ou seja, não é necessário o uso de gas para ser executada. São as assinaturas.
+Sin embargo, existe un tipo de operación que se ajusta al concepto de _gas free_, es decir, no es necesario utilizar gas para ejecutarse. Son las firmas.
 
-### 1. O que são assinaturas?
+### 1. ¿Qué son las firmas?
 
-Assinaturas são usadas desde muito tempo atrás na nossa sociedade, e servem como um mecanismo de autenticação, provando sua identidade através de uma assinatura. No mundo da web3, também temos esse processo de assinaturas, que são amplamente utilizadas em sistemas de login. Para isso, temos uma imagem comum do paradigma de login nas diferentes fases da web:
+Las firmas se utilizan desde hace mucho tiempo en nuestra sociedad, y sirven como mecanismo de autenticación, acreditando tu identidad a través de una firma. En el mundo web3 también tenemos este proceso de firma, muy utilizado en los sistemas de inicio de sesión. Para ello disponemos de una imagen común del paradigma de inicio de sesión en las diferentes fases de la web:
 
-![paradigma de login](<../.gitbook/assets/image (13) (3).png>)
+![paradigma de inicio de sesión](<../.gitbook/assets/image (13) (3).png>)
 
-As assinaturas servem para comprovar que você é dono da carteira, ou seja, que você possui a chave privada, sendo muito usada para fazer login em sistemas, como mostrado no paradigma acima.
+Las firmas sirven para demostrar que eres el propietario de la billetera, es decir, que tienes la clave privada, que a menudo se usa para iniciar sesión en los sistemas, como se muestra en el paradigma anterior.
 
-Com a chegada da web3, o login será feito de maneira muito mais simples, usando assinaturas para comprovação de identidade. Além de ser um formato muito mais rápido e prático, é tão seguro quanto os métodos antigos.
+Con la llegada de web3, el inicio de sesión será mucho más sencillo, usando firmas para probar identidades. Además de ser un formato mucho más rápido y cómodo, es tan seguro como los métodos antiguos.
 
-Para a missão de hoje, vamos aprender na prática como assinar uma mensagem utilizando a Metamask.
+En la misión de hoy, vamos a aprender en la práctica cómo firmar un mensaje usando Metamask.
 
 {% hint style="danger" %}
-Lembre-se: tenha cuidado com os locais nos quais você conecta sua carteira para autenticação. Sites mal intencionados podem utilizar seus dados para fins danosos.
+Recuerda: Ten cuidado donde conectas tu billetera para la autenticación. Los sitios web maliciosos pueden usar tus datos con fines dañinos.
 {% endhint %}
 
-### 2. Aprendendo a assinar uma mensagem
+### 2. Aprendiendo a firmar un mensaje
 
-Para essa missão, construímos um site especial para interagir com a Metamask e assinar uma mensagem.
+Para esta misión, creamos un sitio web especial para interactuar con Metamask y firmar un mensaje.
 
-Para acessar o site, visite: [https://missions.melkdao.com](https://missions.melkdao.com)
+Para acceder al sitio web, visita: [https://missions.melkdao.com](https://missions.melkdao.com)
 
-Sua tela deve ser parecida com essa:
+Tu pantalla debería verse así:
 
 ![](<../.gitbook/assets/image (11) (3) (1).png>)
 
-Primeiramente, leia as observações pra missão 5. Especificamos alguns detalhes importantes sobre como essa missão vai funcionar e o que nós teremos acesso.
+Primero, lee las notas para la misión 5. Hemos especificado algunos detalles importantes sobre cómo funcionará esta misión y a qué tendremos acceso.
 
-Note que no final da tela temos um botão, escrito Assinar Mensagem:
+Ten en cuenta que al final de la pantalla tenemos un botón, donde está escrito 'Firmar mensaje':
 
-![botão assinar mensagem](../.gitbook/assets/button.jpg)
+![botón de firmar mensaje](../.gitbook/assets/button.jpg)
 
-Clique nesse botão. Na sua tela, deve aparecer um pop-up da Metamask. Caso não tenha aparecido, veja se não tem nenhuma notificação na extensão do chrome.
+Haz clic en ese botón. En tu pantalla, debería aparecer una ventana emergente de Metamask. Si no ha aparecido, comprueba si no tienes alguna notificación en la extensión de Chrome.
 
-Caso a sua metamask não esteja liberada ainda, a sua tela será parecida com essa:
+Si no has iniciado sesión en Metamask, tu pantalla se verá así:
 
 ![](<../.gitbook/assets/image (53).png>)
 
-Vamos entender o que está acontecendo aqui.
+Entendamos lo que está sucediendo aquí.
 
-A metamask está pedindo a senha de desbloqueio da carteira, a qual **nós não temos acesso,** e serve somente para você entrar na conta da carteira.
+Metamask solicita la contraseña de desbloqueo de la billetera, la cual sirve para que inicies sesión en tu cuenta de Metamask.
 
-Caso você já esteja logado na Metamask essa tela não irá aparecer.
+Si ya has iniciado sesión en Metamask, esta pantalla no aparecerá.
 
-### 3. Consentindo a Conexão
+### 3. Consentimiento de la conexión
 
-A segunda etapa é o consentimento que você dá ao site para que ele consiga ler o seu endereço público e com isso ele consegue identificar o seu saldo da carteira.
+El segundo paso es el consentimiento que le das al sitio para que pueda leer tu dirección pública y con eso pueda identificar el saldo de tu billetera.
 
 ![](../.gitbook/assets/metamask.jpg)
 
-Clique em Connect para prosseguir.
+Haz clic en Connect para continuar.
 
-### 4. Assinando a Mensagem
+### 4. Firmando el mensaje
 
-A tela seguinte é a solicitação da assinatura e será parecida com essa imagem:
+La siguiente pantalla es la solicitud de firma y se verá como esta imagen:
 
 ![](<../.gitbook/assets/image (24) (3).png>)
 
-É importante observar o título da janela que diz "Solicitação de assinatura".
+Es importante notar el título de la ventana que dice "Solicitud de Firma".
 
-Note também que nessa tela aparece a mensagem que você está assinando, neste caso "Experimento MELK".
+También ten en cuenta que el mensaje que estás firmando aparece en esta pantalla, en este caso es el "Experimento MELK".
 
-O botão também é bem direto e diz "Assinar". Quando você se deparar com uma solicitação como esta, fique tranquilo que você não corre risco de gastar dinheiro ou perder moedas da sua carteira.
+El botón también es bastante sencillo y dice "Firmar". Cuando te encuentres con una solicitud como esta, ten la seguridad de que no corres el riesgo de gastar dinero o perder monedas de tu billetera.
 
-Clique em Assinar, e sua tela será atualizada.
+Haz clic en Firmar y tu pantalla se actualizará.
 
 ![](<../.gitbook/assets/image (10) (1) (1).png>)
 
-Para copiar o hash da assinatura, clique em cima dela:
+Para copiar el hash de la firma, haz clic en él:
 
 ![](<../.gitbook/assets/image (5) (1).png>)
 
-Parabéns! você realizou sua primiera assinatura com sua carteira. Nenhuma informação foi registrada na Blockchain e por isso não houve necessidade de pagamento de taxas e gas.
+¡Felicidades! Hiciste tu primera firma con tu billetera. No se registró información en Blockchain, por lo que no hubo necesidad de pagar tarifas ni gasolina.
 
-O site agora possui o _hash_ da assinatura que você realizou, e tendo conhecimento da mensagem que foi assinada, ele consegue validar que você é detentor da chave privada relativa a o endereço da carteira pública.
+El sitio ahora tiene el _hash_ de la firma que realizó y, al conocer el mensaje que se firmó, puede validar que tú eres el titular de la clave privada relativa a la dirección de la billetera pública.
 
-Isso garante que só você e mais ninguém consegue gerar esse hash de assinatura. Esse processo comprova a sua identidade. É um sistema de login simples, efetivo e seguro.
+Esto garantiza que solo tú y nadie más pueda generar este hash de firma. Este proceso prueba tu identidad. Es un sistema de inicio de sesión simple, efectivo y seguro.
 
-Normalmente o hash da assinatura não aparece na tela e não precisa ser manipulado por você, mas no nosso caso nós mostramos para que você possa usá-lo como prova da missão.
+Normalmente el hash de la firma no aparece en pantalla y no necesita ser manipulado por ti, pero en nuestro caso te lo mostramos para que puedas usarlo como prueba de la misión.
 
-### 5. Pronto! Agora manda lá no Discord o hash da assinatura
+### 5. ¡Listo! Ahora envía el hash de la firma a Discord
 
-Vá até o canal da missão 5 do Experimento MELK no discord e mande o hash da assinatura para ganhar 10 MELK.
+Dirígete al canal de la misión 5 del Experimento MELK en discord y envía tu hash de suscripción para ganar 10 MELKs.
 
 {% hint style="info" %}
-Lembrando! Essa missão não nos dá acesso a nenhum dado sensível da sua carteira, apenas o endereço público, o saldo e permissões básicas de leitura para que o hash da assinatura possa ser gerado e utilizado para verificar sua identidade.
+¡Recordando! Esta misión no nos da acceso a ningún dato confidencial en tu billetera, solo tu dirección pública, saldo y permisos básicos de lectura para que el hash de la firma pueda generarse y usarse para verificar tu identidad.
 {% endhint %}
