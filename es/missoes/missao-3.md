@@ -1,89 +1,89 @@
 ---
-description: Visualizando transações na blockchain
+description: Visualizando las transacciones en la blockchain
 ---
 
-# Missão 3
+# Misión 3
 
-Estamos evoluindo. Nas últimas duas missões nós configuramos nossa carteira na Metamask e incluímos a rede Polygon e o token Melk para visualização. A Metamask é apenas uma forma de visualizar uma parte do que está na blockchain. A Metamask é mais focada para gerenciar o seu saldo em cada token.
+Estamos evolucionando. En las últimas dos misiones configuramos nuestra cartera en Metamask e incluimos la red Polygon y el token Melk para su visualización. Metamask es sólo una forma de visualizar una parte de lo que está en la blockchain. Metamask está más enfocado en administrar tu saldo en cada token.
 
-Existem outras formas de visualizar a sua carteira e as transações que aconteceram na blockchain, que são os sites de scan. E nessa missão vamos aprender a utilizá-los.
+Hay otras formas de visualizar tu cartera y las transacciones que ocurrieron en la blockchain, que son los sitios de escaneo. Y en esta misión vamos a aprender a utilizarlos.
 
 {% hint style="warning" %}
-Atenção, não confunda `scan` com `scam`! Scan com N significa examinar, sondar, explorar. Scam com M significa golpe. Não vamos mexer com nada de golpe aqui não tá!? :innocent:
+¡Atención, no confundas `scan` com `scam`! Scan com N significa examinar, sondear, explorar (escanear en español).  Scam con M significa estafa. No vamos a jugar con nada de estafa aquí ¿verdad? :innocent:
 {% endhint %}
 
-Só pra recapitular, ao confirmar a missão 1, você recebeu 1 ponto alguma coisa de MELK e na missão 2 você recebeu 5 MELK. Foram duas transações realizadas para recompensar o seu bom desempenho.
+Sólo para recapitular, al confirmar la misión 1, tú recibiste 1 punto algo de MELK y en la misión 2 recibiste 5 MELK. Fueron dos transacciones realizadas para recompensar tu buen desempeño.
 
-Vamos então aprender a ver essas transações.
+Entonces, aprendamos a ver estas transacciones.
 
-Cada blockchain tem um ou mais sites que podem ser usados para visualizar as transações, mas cada um tem um site "oficial" que é mais usado pela maioria das pessoas.
+Cada blockchain tiene uno o más sitios que pueden ser usados para ver las transacciones, pero cada uno tiene un sitio “oficial” que es más utilizado por la mayoría de la gente.
 
-No caso do Ethereum, o site mais famoso é o Etherscan que pode ser acessado pelo endereço [https://etherscan.io/](https://etherscan.io)
+En el caso de Ethereum, el sitio más famoso es Etherscan al que se puede acceder por la dirección [https://etherscan.io/](https://etherscan.io)
 
-Existe também o [https://ethplorer.io/](https://ethplorer.io), o [https://ethblockexplorer.org/](https://ethblockexplorer.org) e o [https://explorer.bitquery.io/ethereum](https://explorer.bitquery.io/ethereum). Fique à vontade para explorá-los depois só por curiosidade. A diferença entre eles é a forma que mostram as informações, as facilidades de salvar os endereços e monitoramento com envio de notificação por e-mail para determinadas transações.
+También existe [https://ethplorer.io/](https://ethplorer.io), o [https://ethblockexplorer.org/](https://ethblockexplorer.org) y [https://explorer.bitquery.io/ethereum](https://explorer.bitquery.io/ethereum). Eres libre de explorarlos más tarde, sólo por curiosidad. La diferencia entre ellos es la forma en que muestran las informaciones, las facilidades de guardar las direcciones y el seguimiento con envió de notificaciones por correo electrónico para determinadas transacciones.
 
-Como estamos usando a rede Polygon vamos usar o Polygon Scan para o nosso exercício.
+Como estamos usando la red Polygon vamos a usar Polygon Scan para nuestro ejercicio.
 
-### 1. Acesse o site do Polygonscan
+### 1. Accede al sitio web de Polygonscan
 
-Abra o seu navegador e acesse o endereço [https://polygonscan.com/](https://polygonscan.com)
+Abre tu navegador y accede a la dirección [https://polygonscan.com/](https://polygonscan.com)
 
-Você verá uma página conforme a imagem abaixo.
+Verás una página como se muestra en la imagen de abajo.
 
 ![](<../.gitbook/assets/image (36).png>)
 
-### 2. Copie e cole o seu endereço no campo de busca.
+### 2. Copia y pega tu dirección en el campo de búsqueda
 
-Você se lembra da missão 1, em que copiamos o nosso endereço público (similar a uma chave PIX, número da conta do banco) da Metamask? Para esta missão, vamos ter que copiar novamente.
+¿Recuerdas la misión 1, donde copiamos nuestra dirección pública (parecida a una clave PIX, número de cuenta bancaria) de Metamask? Para esta misión, tenemos que copiar nuevamente.
 
-Abra a extensão do Metamask, na parte superior direita do seu navegador. Depois copie o seu endereço público como mostrado na imagem:
+Abre la extensión de Metamask, en la parte superior derecha de tu navegador. Luego copia tu dirección pública como se muestra en la imagen:
 
 ![](<../.gitbook/assets/image (9).png>)
 
-Depois de copiar o endereço, cole no campo de busca do Polygon Scan e clique no ícone de pesquisa.
+Luego de copiar la dirección, pega en el campo de búsqueda de Polygon Scan y haz clic en el ícono de búsqueda.
 
 ![](<../.gitbook/assets/image (1).png>)
 
-O resultado deve ser parecido com esse. Vamos encontrar nossas transações!
+El resultado debe ser parecido a este. ¡Vamos a encontrar nuestras transacciones!
 
 ![](<../.gitbook/assets/image (29).png>)
 
-### 3. Encontrando as transações
+### 3. Encontrar las transacciones
 
-Vamos confirmar que estamos na mesma tela. Ela deve se parecer com isso:
+Confirmemos que estamos en la misma pantalla. Debería verse así:
 
 ![](../.gitbook/assets/img.png)
 
-Vamos entender um pouco mais sobre essa parte destacada em roxo e encontrar as transações das recompensas das outras missões.
+Vamos a entender un poco más acerca de esta parte destacada en morado y encontrar las transacciones de las recompensas de las otras misiones.
 
-Note que a seção _Transactions_ está selecionada, e mesmo assim, as nossas transações não estão aparecendo. Isso acontece porque essa seção apresenta transações no token padrão da rede Polygon, o MATIC, mencionado anteriormente. Para encontrar o nosso token MELK, precisamos ir para a seção _ERC-20 Token Txns_. Como mencionado antes, o token MELK se encaixa na categoria ERC-20, construído em cima da rede Polygon. Vamos clicar na seção de tokens ERC-20:
+Observa que la sección _Transactions_ está seleccionada, y aún así nuestras transacciones no aparecen. Esto sucede porque esta sección presenta transacciones en el token estándar de la red Polygon, MATIC, mencionado anteriormente. Para encontrar nuestro token MELK, necesitamos ir a la sección _ERC-20 Token Txns_. Tal como mencionamos antes, el token MELK se ajusta en la categoría ERC-20, construido sobre la red Polygon. Vamos a hacer clic en la sección de tokens ERC-20:
 
 ![](../.gitbook/assets/img2.png)
 
-Aí está! Agora estamos visualizando as transações de recompensa do nosso token MELK! Mas antes de receber a nossa recompensa, vamos falar um pouco sobre transações.
+¡Allí está! ¡Ahora vemos las transacciones de recompensa de nuestro token MELK! Pero antes de recibir nuestra recompensa, hablemos un poco sobre transacciones.
 
-### 4. Entendendo as transações
+### 4. Entendiendo las transacciones
 
-Explicando de maneira simples, quando uma transação é requisitada e autenticada, ela é colocada em um bloco, que vai representar as transações que estão dentro dele. É importante entender que um bloco contém várias transações. No Ethereum, por exemplo, um bloco pode armazenar um número próximo a 70 transações. Depois, esse bloco é enviado para uma fila de espera chamada pool. Quando sair da fila de espera, os nodes validadores da rede (que irão validar a transação e colocá-la na blockchain atual) validam a transação e recebem a recompensa por terem validado (um exemplo são os mineradores de Bitcoin, que na verdade são validadores). Depois, o bloco é adicionado à blockchain existente, e essa atualização é distribuída por toda a rede. Após finalizar esse processo, a transação está completa.
+Explicado de forma sencilla, cuando una transacción es solicitada y autenticada, se coloca sobre un bloque, que representará las transacciones que están dentro de ella. Es importante entender que un bloque contiene varias transacciones. En Ethereum, por ejemplo, un bloque puede almacenar un número cercano a 70 transacciones. Luego, ese bloque es enviado para una fila de espera llamada pool. Al salir de la cola de espera, los nodos validadores de la red (que validarán la transacción y la colocarán en la blockchain actual) validan la transacción y reciben la recompensa por haber validado (un ejemplo son  los mineros de Bitcoin, que en realidad son validadores). Luego, el bloque se agrega a la blockchain existente, y esa actualización se distribuye por toda la red. Después de finalizar este proceso, la transacción está completa.
 
-Aqui está um resumo do processo:
+Aquí está un resumen del proceso:
 
 ![](<../.gitbook/assets/image (58).png>)
 
-### 5. Manda no Discord o Txn Hash da primeira transação para receber a recompensa dessa missão
+### 5. Envía a Discord el Txn Hash de la primera transacción para recibir la recompensa de esta misión
 
-Parabéns por chegar até aqui! Vá até o [canal da missão 3 do experimento Melk no Discord](https://discord.com/invite/uDyHmwBw6E) e mande uma mensagem com o hash da transação com o valor de 1 MELK token que vimos no site do Polygon Scan. No meu caso, mandaria esse valor:
+¡Felicidades por llegar hasta aquí! Ve al [canal de la misión 3 del experimento Melk en Discord](https://discord.com/invite/uDyHmwBw6E) y envía un mensaje con el hash de la transacción con el valor de 1 MELK token que vimos en el sitio web de Polygon Scan. En mi caso, enviaría este valor:
 
 ![](<../.gitbook/assets/image (48).png>)
 
-Para copiá-lo por completo, clique em cima dele. Isso te levará até outra página, como essa, que veremos nas próximas aulas:
+Para copiarlo por completo, haz clic arriba de él. Esto te llevará a otra página, como esta, que veremos en las próximas clases:
 
 ![](<../.gitbook/assets/image (20).png>)
 
-A partir daí, só copie no botão sinalizado acima e mande no [Discord!](https://discord.com/invite/uDyHmwBw6E)
+Desde allí, sólo copia el botón marcado arriba y ¡envíalo a [Discord!](https://discord.com/invite/uDyHmwBw6E)
 
-Qualquer dúvida, sinta-se livre para mandar mensagens no canal de [bate papo no Discord](https://discord.com/channels/898706705779687435/932249635496525834).
+Cualquier pregunta, eres libre de hacerla enviando mensajes en el canal de [chat en  Discord](https://discord.com/channels/898706705779687435/932249635496525834).
 
 {% hint style="info" %}
-Nesta missão tivemos 2 aprendizados: Aprendemos como as transações funcionam e aprendemos a visualizar as nossas transações utilizando o site de Scan da rede Polygon.
+En esta misión tuvimos 2 aprendizajes: Aprendimos cómo funcionan las transacciones y aprendimos a visualizar nuestras transacciones utilizando el sitio web Scan de la red Polygon.
 {% endhint %}
