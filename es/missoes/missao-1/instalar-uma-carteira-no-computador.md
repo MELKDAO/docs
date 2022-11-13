@@ -1,27 +1,27 @@
 ---
 description: >-
-  Neste tutorial você vai aprender como instalar uma carteira de crypto no seu
+  En este tutorial aprenderás cómo instalar una cartera de crypto en tu 
   computador.
 ---
 
-# Instalar uma carteira no Computador
+# Instalar una cartera en el Computador
 
-### 1. Faça o download do app da Metamask
+### 1. Descarga la aplicación Metamask
 
-Acesse a página de download da Metamask em [https://metamask.io/download.html](https://metamask.io/download.html)
+Accede a la página de descarga de Metamask en [https://metamask.io/download.html](https://metamask.io/download.html)
 
-O site vai detectar qual o navegador você está usando e vai sugerir o link correto.
+La página detectará cuál navegador estás usando y te sugerirá el enlace correcto.
 
 {% hint style="warning" %}
-**Atenção!** É muito importate você confiar na fonte de onde você está fazendo a instalação. Se você instalar de uma fonte insegura, você pode instalar uma versão do app que poderá ser hackeado e seus fundos serão perdidos.
+**¡Atención!** Es muy importante que confíes en la fuente de donde estás haciendo la instalación. Si lo instalas desde una fuente insegura, puedes instalar una versión de la aplicación que podrá ser hackeada y tus fondos se perderán.
 {% endhint %}
 
-Você precisa se certificar que o link do site oficial está correto. Eu te digo, o site da metamask oficial é **metamask.io**
+Tú necesitas asegurarte que el enlace del sitio web oficial es correcto. Yo te digo, el sitio web oficial de metamask es **metamask.io**
 
-O tutorial foi feito usando o Chrome, mas as telas dos outros navegadores são muito similares e você não terá problema em seguir se baseando nessas aqui.
+El tutorial fue hecho usando Chrome, pero las pantallas de los otros navegadores son muy similares y no tendrás problema en seguir basándote en estas.
 
 {% hint style="info" %}
-O meu computador está configurado para o idioma Inglês como padrão, então pode ser que as telas estejam um pouco diferente do seu computador se você tiver configurado para usar em Português.
+Mi computador está configurado para el idioma Inglés por defecto, entonces puede ser que las pantallas sean un poco diferente de las de tu computador, si está configurado para usar Español.
 {% endhint %}
 
 ![](../../.gitbook/assets/Screen\_Shot\_2022-01-16\_at\_18\_36\_19.png)
@@ -30,94 +30,94 @@ O meu computador está configurado para o idioma Inglês como padrão, então po
 
 ![](../../.gitbook/assets/MetaMask\_-\_Chrome\_Web\_Store-2.png)
 
-### 2. Uma vez instalado, vamos mostrar o ícone como padrão
+### 2. Una vez instalado, mostraremos el icono por defecto
 
 ![](../../.gitbook/assets/MetaMask\_-\_Chrome\_Web\_Store-4.png)
 
 ![](../../.gitbook/assets/Extensions\_and\_MetaMask\_-\_Chrome\_Web\_Store.png)
 
-Ao clicar no ícone de extensões e no pin da MetaMask, o ícone da MetaMask vai aparecer na barra de ferramentas. Clique no ícone da metamask para abri a janela de configuração.
+Al hacer clic en el icono de extensiones y en el pin de MetaMask, el icono de MetaMask aparecerá en la barra de herramientas. Haz clic en el icono de Metamask para abrir la ventana de configuración.
 
-### 3. Como é sua primeira vez, clique em Criar uma nova carteira
+### 3. Como es tu primera vez, haz clic en Crear una nueva cartera
 
 ![](../../.gitbook/assets/MetaMask.png)
 
 ![](../../.gitbook/assets/MetaMask-2.png)
 
-### 4. No próximo passo clique em Não Obrigado![](../../.gitbook/assets/MetaMask-3.png)
+### 4. En el siguiente paso haz clic en No Gracias ![](../../.gitbook/assets/MetaMask-3.png)
 
-Você estaria permitindo que dados do seu uso sejam enviados para o time do aplicativo. Nenhum dado de carteira ou transação é compartilhado, nem qualquer dado que te identifique e eles prometem não compartilhar com ninguém. Não existe risco em permitir, mas eu particularmente prefiro não permitir.
+Estarías permitiendo que datos tuyos sean enviados para el equipo de la aplicación.  Ningún dato de la cartera o la transacción es compartido, ni ningún dato que te identifique y ellos prometen no compartir con nadie. No existe riesgo en permitir, pero yo particularmente prefiero no permitir.
 
-### 5. Defina uma senha para uso da carteira.
+### 5. Establece una contraseña para usar la cartera
 
-Neste passo você precisa escolher uma senha para acessar a sua carteira. Qualquer pessoa que tiver acesso ao seu computador e saiba essa senha poderá ter acesso aos seus fundos e roubar o seu dinheiro.
+En este paso es necesario elegir una contraseña para acceder a tu cartera. Cualquier persona que tenga acceso a tu computador y sepa esa contraseña podrá tener acceso a tus fondos y robar tu dinero.
 
 {% hint style="warning" %}
-**Atenção!** Escolha uma senha com pelo menos uma minúscula, uma maiúscula, um número e um caracter especial. Não anote essa senha em um papel e muito menos em um arquivo no seu celular ou computador. Recomendo o uso do [1Password](https://1password.com/pt/) para anotar suas senhas.
+**¡Atención!** Elige una contraseña con por lo menos una minúscula, una mayúscula, un número y un carácter especial. No anotes esta contraseña en un papel y mucho menos en un archivo en el celular o el computador. Recomiendo el uso de [1Password](https://1password.com/pt/) para anotar tus contraseñas.
 {% endhint %}
 
 ![](../../.gitbook/assets/MetaMask-6.png)
 
-### **6. Configuração da carteira**
+### **6. Configuración de la cartera**
 
-Você é o único responsável pela segurança da sua carteira. No ambiente web3 nào temos um banco para quem você pode reclamar e pedir o dinheiro de volta caso seja vítima de um ataque ou faça alguma besteira.
+Tú eres el único responsable por la seguridad de tu cartera. En el ambiente web3 no tenemos un banco para que puedas reclamar y pedir el dinero de regreso en caso de que seas víctima de un ataque o hagas alguna tontería.
 
-A sua carteira é o seu cofre, é por onde você vai manipular o dinheiro que você tem propriedade da Blockchain.
+Tu cartera es tu caja fuerte, es por donde podrás manejar el dinero que tienes de Blockchain.
 
-A sua carteira é acessada por um código, chamado chave privada. Essa chave privada é a senha que permite manipular o dinheiro da carteira. Essa chave privada é representada pelo conjunto de 12 palavras, chamadas de _Seed Phrases_ (Palavras Sementes).
+A tu cartera accedes por un código, llamado llave privada. Esa llave privada es la contraseña que te permite manejar el dinero de la cartera. Esa llave privada está representada por el conjunto de 12 palabras, llamadas _Seed Phrases_ (Palabras Semillas).
 
-Se alguém tiver acesso a essas 12 palavras, poderá roubar todos os seus fundos.
+Si alguien tiene acceso a esas 12 palabras, podrá robar todos tus fondos
 
 ![](../../.gitbook/assets/MetaMask-5.png)
 
-### **7. Guarde as palavras sementes**
+### **7. Guarda las palabras semillas**
 
-É muito importante você fazer a segurança de forma correta das suas palavras sementes.
+Es muy importante, que hagas de manera correcta, la seguridad de tus palabras semillas.
 
 {% hint style="warning" %}
-**Atenção!** Você não pode de maneira nenhuma anotar essas palavras no seu celular ou no seu computador, muito menos tirar uma foto da tela. Porque dessa maneira a informação vai ficar em risco caso o seu celular ou computador seja invadido.
+**¡Atención!**No puedes de ninguna forma anotar esas palabras en tu celular o en tu computador, mucho menos tomar una foto de la pantalla. Porque de esa manera la información va a estar en riesgo en caso de que tu celular o computador sea hackeado.
 {% endhint %}
 
-A forma segura de guardar as palavras sementes é anotar em um papel com caneta esferográfica e guardar em um lugar seguro em sua casa, de preferência um cofre. Tem pessoas que envolvem o papel onde anotou as palavras em papel alumínio para preservar em caso de acidente.
+La forma segura de guardar las palabras semillas es anotarlas en un papel con bolígrafo y guardarlas en un lugar seguro en tu casa, de preferencia en una caja fuerte. Hay personas que envuelven el papel donde anotó las palabras en papel aluminio para preservar en caso de accidente.
 
-Primeiro clique em Revelar Palavras Secretas e depois anote as palavras na ordem que elas aparecem. Na tela seguinte você precisará escolher as palavras na ordem para conferir se você anotou certo.
+Primero haz clic en Revelar Palabras Secretas y luego anotas las palabras en el orden en que aparecen. En la siguiente pantalla tendrás que elegir las palabras en el orden para comprobar si lo anotaste bien.
 
 {% hint style="info" %}
-A ordem das palavras é relevante para você conseguir recuperar a sua carteira.
+El orden de las palabras es importante para recuperar tu cartera.
 {% endhint %}
 
 ![](../../.gitbook/assets/MetaMask-7.png)
 
 ![](../../.gitbook/assets/MetaMask-8.png)
 
-### 8. Parabéns, você cadastrou a sua carteira!
+### 8. ¡Felicidades, registraste tu cartera
 
 ![](../../.gitbook/assets/MetaMask-9.png)
 
-### 9. Copiando o Endereço Público
+### 9. Copiar la Dirección Pública
 
-O endereço público é um código que você compartilha com outras pessoas para que elas possam enviar moedas para você.
+La dirección pública es un código que compartes con otras personas para que ellas puedan enviarte monedas.
 
-O endereço público é como o número da conta do seu banco, ou como se fosse a sua chave PIX.
+La dirección pública es como el número de cuenta de tu banco, o como si fuese tu clave PIX.
 
-O formato desse endereço muda de acordo com as diferentes blockchains. A Metamask usa blockchains baseadas no Ethereum e o formato é sempre uma sequência de códigos iniciada por 0x
+El formato de esa dirección cambia de acuerdo con las diferentes blockchains. Metamask utiliza blockchains basados en Ethereum y el formato es siempre una secuencia de códigos iniciada por 0x
 
-O seu endereço aparece parcialmente abaixo do nome da conta (Account 1).
+Tu dirección aparece parcialmente debajo del nombre de la cuenta (Account 1).
 
 ![](../../.gitbook/assets/MetaMask-10.png)
 
-No meu caso o meu endereço aparece assim **0xa04...5878**
+En mi caso mi dirección aparece así **0xa04...5878**
 
-Na verdade o meu endereço não é exatamente esse, porque ele está encurtado com três pontinhos no meio.
+En realidad mi dirección no es exactamente esa, porque está acortada con tres puntitos en el medio.
 
-Para copiar o seu endereço público, clique nessa área com o código encurtado.
+Para copiar tu dirección pública, selecciona esa área con el código acortado y haz clic en copiar.
 
 ![](<../../.gitbook/assets/Screen Shot 2022-01-16 at 18.57.51.png>)
 
-### 10. Pronto! Agora manda lá no Discord seu endereço público
+### 10. ¡Listo! Ahora manda allí en Discord tu dirección pública
 
-Vá até o [canal da Missão 1 do Experimento MELK no discord](https://discord.gg/2SjfbXw6pd) e mande a sua carteira para ganhar 1 MELK.
+Ve al [canal de la Misión 1 del Experimento MELK en discord](https://discord.gg/2SjfbXw6pd) y envía tu cartera para ganar 1 MELK.
 
 {% hint style="info" %}
-Lembrando! A suas palavras sementes são a segurança de todos os seus tokens. Não salve no celular nem no computador, anote apenas com caneta em um papel e nunca compartilhe com ninguém. Alguns sites de fraude irão te pedir essas palavras para recuperar a sua carteira, mas nunca informe as suas palavras sementes.
+¡Recordando! Tus palabras semillas son la seguridad de todos tus tokens. No las guardes en tu celular ni en tu computador, solo escríbelas con bolígrafo en un papel y nunca lo compartas con nadie. Algunos sitios de estafa te van a pedir esas palabras para recuperar tu contraseña, pero nunca les digas tus palabras semillas.
 {% endhint %}

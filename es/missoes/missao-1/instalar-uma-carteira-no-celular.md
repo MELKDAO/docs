@@ -1,117 +1,119 @@
 ---
 description: >-
-  Neste tutorial você vai aprender como instalar uma carteira de crypto no seu
-  celular.
+  En este tutorial vas a aprender cómo instalar una cartera de crypto en tu celular. 
 ---
 
-# Instalar uma carteira no Celular
+# Instalar una cartera en el Celular
 
-### 1. Faça o download do app da Metamask
+### 1. Descarga la aplicación de Metamask
 
-Se você tiver no iOs, acesse [https://metamask.app.link/skAH3BaF99](https://metamask.app.link/skAH3BaF99)
+Si tienes iOs, accede a [https://metamask.app.link/skAH3BaF99](https://metamask.app.link/skAH3BaF99)
 
-Se você tiver no Android, acesse [https://metamask.app.link/bxwkE8oF99](https://metamask.app.link/bxwkE8oF99)
-
-{% hint style="warning" %}
-**Atenção!** É muito importate você confiar na fonte de onde você está fazendo a instalação. Se você instalar de uma fonte insegura, você pode instalar uma versão do app que poderá ser hackeado e seus fundos serão perdidos.
-{% endhint %}
-
-Se você quiser conferir os links, vá até o [site oficial da Metamask](https://metamask.io/) e clique em Download.
-
-Você também precisa se certificar que o link do site oficial está correto. Eu te digo, o site da metamask oficial é **metamask.io**
-
-O tutorial foi feito usando telas do iOS, mas as telas do Android são muito similares e você não terá problema em seguir se baseando nessas aqui.
-
-{% hint style="info" %}
-O meu iPhone está configurado para o idioma Inglês como padrão, então pode ser que as telas estejam um pouco diferente do seu celular se você tiver configurado para usar em Português.
-{% endhint %}
-
-![](../../.gitbook/assets/IMG\_84E7FE1DCE59-1.jpeg)
-
-### 2. Uma vez instalado, clique em Get started (Iniciar)
-
-![](../../.gitbook/assets/IMG\_0640.PNG)
-
-### 3. Como é sua primeira vez, clique em Create a new wallet (Criar uma nova carteira)
-
-![](../../.gitbook/assets/IMG\_0641.PNG)
-
-### 4. No próximo passo clique em No Thanks (Não Obrigado)
-
-![](../../.gitbook/assets/IMG\_0642.PNG)
-
-Você estaria permitindo que dados do seu uso sejam enviados para o time do aplicativo. Nenhum dado de carteira ou transação é compartilhado, nem qualquer dado que te identifique e eles prometem não compartilhar com ninguém. Não existe risco em permitir, mas eu particularmente prefiro não permitir.
-
-### 5. Defina uma senha para uso da carteira.
-
-Neste passo você precisa escolher uma senha para acessar a sua carteira. Qualquer pessoa que tenha posse do seu celular e saiba essa senha poderá ter acesso aos seus fundos e roubar o seu dinheiro.
+Si tienes Android, accede a [https://metamask.app.link/bxwkE8oF99](https://metamask.app.link/bxwkE8oF99)
 
 {% hint style="warning" %}
-**Atenção!** Escolha uma senha com pelo menos uma minúscula, uma maiúscula, um número e um caracter especial. Não anote essa senha em um papel e muito menos em um arquivo no seu celular ou computador. Recomendo o uso do [1Password](https://1password.com/pt/) para anotar suas senhas.
+**¡Atención!** Es muy importante que confíes en la fuente de donde estás haciendo la instalación. Si vas a instalar desde una fuente insegura, puedes instalar una versión de la aplicación que podrá ser hackeada y tus fondos se perderán.
 {% endhint %}
 
-![](../../.gitbook/assets/IMG\_0644.PNG)
+Si deseas ver los enlaces, ve hasta el  [sitio oficial de Metamask](https://metamask.io/) y haz clic en Download.
 
-Se você estiver no iPhone, terá a opção de ativar o Face ID para abrir o app usando a foto da sua face. Pode autorizar ou não conforme sua preferência.
+También necesitas asegurarte que el enlace al sitio web oficial está correcto. Te digo que el sitio web oficial de metamask es **metamask.io**
 
-![](../../.gitbook/assets/IMG\_0646.PNG)
+El tutorial fue hecho usando las pantallas de iOS, pero las pantallas de Android son muy semejantes y no tendrás problema en seguir las instrucciones basadas en estas.
 
-### **6. Configuração da carteira**
+{% hint style="info" %}
+Mi iPhone está configurado para el idioma Inglés por defecto, por tanto puede ser que las pantallas sean un poco diferentes que de las de tu celular si estuviese configurado para usar en español.
 
-Você é o único responsável pela segurança da sua carteira. No ambiente web3 nào temos um banco para quem você pode reclamar e pedir o dinheiro de volta caso seja vítima de um ataque ou faça alguma besteira.
+{% endhint %}
 
-A sua carteira é o seu cofre, é por onde você vai manipular o dinheiro que você tem propriedade da Blockchain.
+![](../../.gitbook/assets/IMG_84E7FE1DCE59-1.jpeg)
 
-A sua carteira é acessada por um código, chamado chave privada. Essa chave privada é a senha que permite manipular o dinheiro da carteira. Essa chave privada é representada pelo conjunto de 12 palavras, chamadas de _Seed Phrases_ (Palavras Sementes).
+### 2. Una vez instalado, haz clic en Get started (Iniciar)
 
-Se alguém tiver acesso a essas 12 palavras, poderá roubar todos os seus fundos.
+![](../../.gitbook/assets/IMG_0640.PNG)
 
-Em ambas as telas clique em Start (Começar)
+### 3. Como es tu primera vez, haz clic en Create a new wallet (Crear una nueva cartera)
 
-****![](../../.gitbook/assets/IMG\_0647.PNG)****![](../../.gitbook/assets/IMG\_0648.PNG)****
+![](../../.gitbook/assets/IMG_0641.PNG)
 
-### **7. Guarde as palavras sementes**
+### 4. En el siguiente paso haz clic en No Thanks (No gracias)
 
-É muito importante você fazer a segurança de forma correta das suas palavras sementes.
+![](../../.gitbook/assets/IMG_0642.PNG)
+
+Estarías permitiendo que datos tuyos sean enviados para el equipo de la aplicación.  Ningún dato de la cartera o la transacción es compartido, ni ningún dato que te identifique y ellos prometen no compartir con nadie. No existe riesgo en permitir, pero yo particularmente prefiero no permitir.
+
+### 5. Establece una contraseña para uso de la cartera
+
+En este paso es necesario elegir una contraseña para acceder a tu cartera. Cualquier persona que tenga posesión de tu teléfono celular y sepa esa contraseña podrá tener acceso a tus fondos y robar tu dinero.
 
 {% hint style="warning" %}
-**Atenção!** Você não pode de maneira nenhuma anotar essas palavras no seu celular ou no seu computador, muito menos tirar uma foto da tela. Porque dessa maneira a informação vai ficar em risco caso o seu celular ou computador seja invadido.
+**¡Atención!** Elige una contraseña con por lo menos una minúscula, una mayúscula, un número y un carácter especial. No anotes esta contraseña en un papel y mucho menos en un archivo en el celular o el computador. Recomiendo el uso de  [1Password](https://1password.com/pt/) para anotar tus contraseñas.
 {% endhint %}
 
-A forma segura de guardar as palavras sementes é anotar em um papel com caneta esferográfica e guardar em um lugar seguro em sua casa, de preferência um cofre. Tem pessoas que envolvem o papel onde anotou as palavras em papel alumínio para preservar em caso de acidente.
+![](../../.gitbook/assets/IMG_0644.PNG)
 
-Na primeira tela clique em View (Visualizar) e depois anote as palavras na ordem que elas aparecem. Na tela seguinte você precisará escolher as palavras na ordem para conferir se você anotou certo.
+Si estás en el iPhone, tendrás la opción de activar el Face ID para abrir la aplicación usando la foto de tu rostro. Puedes autorizar o no, de acuerdo a tu preferencia.
 
-{% hint style="info" %}
-A ordem das palavras é relevante para você conseguir recuperar a sua carteira.
+![](../../.gitbook/assets/IMG_0646.PNG)
+
+### **6. Configuración de la cartera**
+
+Tú eres el único responsable por la seguridad de tu cartera. En el ambiente web3 no tenemos un banco para que puedas reclamar y pedir el dinero de regreso en caso de que seas víctima de un ataque o hagas alguna tontería.
+
+Tu cartera es tu caja fuerte, es por donde podrás manejar el dinero que tienes en la Blockchain.
+
+A tu cartera accedes por un código, llamado llave privada. Esa llave privada es la contraseña que te permite manejar el dinero de la cartera. Esa llave privada está representada por el conjunto de 12 palabras, llamadas _Seed Phrases_ (Palabras Semillas).
+
+Si alguien tiene acceso a esas 12 palabras, podrá robar todos tus fondos
+
+En ambas pantallas haz clic en Start (Comenzar)
+
+****![](../../.gitbook/assets/IMG_0647.PNG)****![](../../.gitbook/assets/IMG_0648.PNG)****
+
+### **7. Guarda las palabras semillas**
+
+Es muy importante, que hagas de manera correcta, la seguridad de tus palabras semillas.
+
+{% hint style="warning" %}
+**¡Atención!** No puedes de ninguna forma anotar esas palabras en tu celular o en tu computador, mucho menos tomar una foto de la pantalla, porque de esa manera la información va a estar en riesgo en caso de que tu celular o computador sea hackeado.
 {% endhint %}
 
-![](../../.gitbook/assets/IMG\_0649.PNG)
+La forma segura de guardar las palabras semillas es anotarlas en un papel con bolígrafo y guardarlas en un lugar seguro en tu casa, de preferencia en una caja fuerte. Hay personas que envuelven el papel donde anotó las palabras en papel aluminio para preservar en caso de accidente.
 
-### 8. Parabéns, você cadastrou a sua carteira!![](../../.gitbook/assets/IMG\_0651.PNG)
-
-### 9. Copiando o Endereço Público
-
-O endereço público é um código que você compartilha com outras pessoas para que elas possam enviar moedas para você.
-
-O endereço público é como o número da conta do seu banco, ou como se fosse a sua chave PIX.
-
-O formato desse endereço muda de acordo com as diferentes blockchains. A Metamask usa blockchains baseadas no Ethereum e o formato é sempre uma sequência de códigos iniciada por 0x
-
-O seu endereço aparece parcialmente abaixo do nome da conta (Account 1), num campo com fundo azul claro.
-
-No meu caso o meu endereço aparece assim **0x0168...D2e6**
-
-Na verdade o meu endereço não é exatamente esse, porque ele está encurtado com três pontinhos no meio.
-
-Para copiar o seu endereço público, selecione essa área com o código encurtado em clique em copiar.
-
-![](../../.gitbook/assets/IMG\_0652.PNG)![](../../.gitbook/assets/IMG\_0653.PNG)
-
-### 10. Pronto! Agora manda lá no Discord seu endereço público
-
-Vá até o [canal da Missão 1 do Experimento MELK no discord](https://discord.gg/2SjfbXw6pd) e mande a sua carteira para ganhar 1 MELK.&#x20;
+En la primera pantalla haz clic en View (Ver) y luego anota las palabras en el orden en que aparecen. En la siguiente pantalla tendrás que elegir las palabras en el orden dado para comprobar si las anotaste bien.
 
 {% hint style="info" %}
-Lembrando! A suas palavras sementes são a segurança de todos os seus tokens. Não salve no celular nem no computador, anote apenas com caneta em um papel e nunca compartilhe com ninguém. Alguns sites de fraude irão te pedir essas palavras para recuperar a sua carteira, mas nunca informe as suas palavras sementes.
+El orden de las palabras es importante para recuperar tu cartera.
+{% endhint %}
+
+![](../../.gitbook/assets/IMG_0649.PNG)
+
+### 8. ¡Felicidades, registraste tu cartera
+
+![](../../.gitbook/assets/IMG_0651.PNG)
+
+### 9. Copiar la Dirección Pública
+
+La dirección pública es un código que compartes con otras personas para que ellas puedan enviarte monedas.
+
+La dirección pública es como el número de cuenta de tu banco, o como si fuese tu clave PIX.
+
+El formato de esa dirección cambia de acuerdo con las diferentes blockchains. Metamask utiliza blockchains basados en Ethereum y el formato es siempre una secuencia de códigos iniciada por 0x.
+
+Tu dirección aparece parcialmente debajo del nombre de la cuenta (Account 1), en un campo con fondo azul claro.
+
+En mi caso mi dirección aparece así **0x0168...D2e6**
+
+En realidad mi dirección no es exactamente esa, porque está acortada con tres puntitos en el medio.
+
+Para copiar tu dirección pública, selecciona esa área con el código acortado y haz clic en copiar.
+
+![](../../.gitbook/assets/IMG_0652.PNG)![](../../.gitbook/assets/IMG  '_0653.PNG)
+
+### 10. ¡Listo! Ahora manda en Discord tu dirección pública
+
+Ve al [canal de la Misión 1 del Experimento MELK en discord](https://discord.gg/2SjfbXw6pd) y envía tu cartera para ganar 1 MELK.&#x20;
+
+{% hint style="info" %}
+¡Recordando! Tus palabras semillas son la seguridad de todos tus tokens. No las guardes en tu celular ni en tu computador, solo escríbelas con bolígrafo en un papel y nunca lo compartas con nadie. Algunos sitios de estafa te van a pedir esas palabras para recuperar tu contraseña, pero nunca les digas tus palabras semillas.
 {% endhint %}
