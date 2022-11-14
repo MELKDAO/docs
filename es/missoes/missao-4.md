@@ -38,11 +38,11 @@ Vamos por partes:
 
 **2.1.1 Overview**
 
-La sección de Overview es muy simple, traducida al español, la descripción general se explica por sí misma, es básicamente una descripción general del resultado de nuestra búsqueda (que es su dirección).
+La sección de Overview es muy simple, traducida al español, la descripción general se explica por sí misma, es básicamente una descripción general del resultado de nuestra búsqueda (que es tu dirección).
 
 **2.1.2 Balance**
 
-El Balance, en español "saldo", representa cuántas fichas tienes. El token predeterminado para la red Polygon es MATIC, que aún no tenemos. Por tanto, nuestro saldo es 0 MATIC. Si quieres saber más al respecto, echa un vistazo a [este enlace](https://coinext.com.br/matic).
+El Balance, en español "saldo", representa cuántos tokens tienes. El token predeterminado para la red Polygon es MATIC, que aún no tenemos. Por tanto, nuestro saldo es 0 MATIC. Si quieres saber más al respecto, echa un vistazo a [este enlace](https://coinext.com.br/matic).
 
 **2.1.3 MATIC Value**
 
@@ -54,7 +54,7 @@ Esta sección es donde podremos identificar nuestros tokens MELK. A continuació
 
 ![](../.gitbook/activos/imagen3.png)
 
-Ten en cuenta que el valor monetario de la sección Token también es cero. Esto se debe a que el token MELK no tiene un valor monetario al principio, como se explica [en esta sección](https://melk.gitbook.io/aprenda-e-ganhe/aprender-e-ganhar). Ten en cuenta el número 1 en púrpura (resaltado por la flecha). Representa que tenemos un contrato de token (que en nuestro caso es el MELK). Haz clic en el menú desplegable del campo (junto al área rodeada por un círculo, indicada en la imagen a continuación). El resultado será así:
+Ten en cuenta que el valor monetario de la sección Token también es cero. Esto se debe a que el token MELK no tiene un valor monetario al principio, como se explica [en esta sección](https://melk.gitbook.io/aprenda-e-ganhe/aprender-e-ganhar). Ten en cuenta el número 1 en morado (resaltado por la flecha). Representa que tenemos un contrato de token (que en nuestro caso es el MELK). Haz clic en el menú desplegable del campo (junto al área rodeada por un círculo, indicada en la imagen a continuación). El resultado será así:
 
 ![](../.gitbook/assets/img4.png)
 
@@ -80,7 +80,7 @@ Comprendamos esta pantalla y analicemos sus componentes, pero primero, haz clic 
 
 ![](../.gitbook/assets/print.jpg)
 
-Aquí podremos tener una mayor visión de la transacción y entender lo que significa cada parte. Su pantalla debería verse algo como esto:
+Aquí podremos tener una mayor visión de la transacción y entender lo que significa cada parte. Tu pantalla debería verse algo como esto:
 
 ![](<../.gitbook/assets/Screenshot 2022-03-10 at 18-19-12 Polygon Transaction Hash (Txhash) Details PolygonScan.png>)
 
@@ -120,7 +120,7 @@ Cuenta con tres partes:
 * To: la dirección que recibió los tokens.
 * For: la cantidad de tokens transferidos en la transacción y el nombre del token.
 
-Es importante tener en cuenta que en su billetera MetaMask, el valor de transacción de la recompensa de la misión 1 no aparecerá con todos los decimales. Sin embargo, el monto total real de la transacción se muestra en este campo. MetaMask omite los decimales para una mejor experiencia de usuario.
+Es importante tener en cuenta que en tu billetera MetaMask, el valor de transacción de la recompensa de la misión 1 no aparecerá con todos los decimales. Sin embargo, el monto total real de la transacción se muestra en este campo. MetaMask omite los decimales para una mejor experiencia de usuario.
 
 ### 3.8 Value
 
