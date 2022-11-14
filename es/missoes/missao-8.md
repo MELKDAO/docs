@@ -1,111 +1,109 @@
 ---
-description: Aprendendo a realizar transferências
+description: Aprendiendo a realizar transferencias
 ---
 
-# Missão 8
+# Misión 8
 
-Nas últimas missões aprendemos a fazer várias coisas novas, e cada vez mais estamos dominando conceitos básicos da web3. Na missão de hoje, vamos aprender a criar uma transação de transferência de USDC utilizando o saldo resultante do swap da missão passada.
+En las últimas misiones aprendimos a hacer varias cosas nuevas y cada vez más, estamos dominando conceptos básicos de la Web3. En la misión de hoy, vamos a aprender a crear una transacción de transferencia de USDC utilizando el saldo resultante del swap de la misión anterior.
 
-## 1. Aspectos de uma transferência
+## 1. Aspectos de una transferencia
 
-As transferências, da mesma maneira que as recompensas de cada missão, são irreversíveis, ou seja, após a confirmação e registro na blockchain não é possível voltar atrás com a transação. Por isso, é muito importante checar mais de uma vez se o endereço de envio e o valor estão corretos antes de realizar transferências.
+Las transferencias, del mismo modo que las recompensas de cada misión, son irreversibles, es decir, luego de la confirmación y registro de una blockchain, no es posible revertirlas. Por eso, es muy importante revisar más de una vez si la dirección del envío o el valor están correctos antes de realizar cualquier transferencia.
 
-Por exemplo, se um hacker malicioso invadir algum sistema e tiver acesso e o poder de fazer transferências para ele mesmo, será possível visualizar todas as transações maliciosas e localizar onde o dinheiro roubado está (em qual endereço de wallet). Entretanto, não se pode reverter a transação, pois o roubo já estará registrado na blockchain. Por isso, é muito importante checar que tipo de transação você está realizando.
+Por ejemplo, si un hacker maligno invade algún sistema y tiene acceso o puede hacerse transferencias a sí mismo, será posible visualizar todas las transacciones malignas y localizar dónde está el dinero robado (en cuál dirección de Wallet). Por lo tanto, no es posible revertir la transacción puesto que, el robo ya estará registrado en una blockchain. Por eso, es muy importante revisar qué tipo de transacción estás realizando.
 
-As transferências envolvem custos de gas, taxas que são pagas para os nós mineradores para fazer uma transação acontecer. Quando falamos de transferências de MATIC, o custo é mais baixo do que transferências que interagem com _smart contracts._ Isso acontece porque existem custos adicionais ao interagir com código do smart contract, já que são operações mais complexas do que uma transferência da moeda nativa do blockchain que está sendo utilizado. Em outras palavras, transferir MATIC na Polygon ou ETH na Ethereum, por exemplo é mais barato que transferir qualquer outro token dessas redes.
+Las transferencias tienen costos de gas, tarifas que son pagadas a los mineros para que se pueda realizar la transacción. Cuando hablamos de transferencias de MATIC, el costo es más bajo que el de las transferencias interactuadas con los _smart contracts_. Eso sucede porque existen costos adicionales al interactuar con el código del smart contract ya que, son operaciones más complejas que el de una transferencia de la moneda nativa de la blockchain que se está utilizando. En otras palabras, transferir MATIC en Polygon o ETH en Ethereum, por ejemplo, es más barato que transferir cualquier otro token de esas redes.
 
-Geralmente as taxas de gas para realizar uma transação na Polygon são insignificantes. No momento de escrita, a taxa para transferir 1 MATIC é de **0.000674MATIC** isso equivale a aproximadamente R$ 0,004 (0,4 centavos de Reais, lê-se menos de um centavo de real).
+Generalmente, las tarifas de gas para realizar una transacción en Polygon son insignificantes. En el momento de escribir esto, la tarifa para transferir 1 MATIC es de **0.000674MATIC**, eso equivale a, aproximadamente, R$ 0.004 (0.4 centavos de Reales, es decir, menos de un centavo de un real).
 
-## 2. Doação e prosperidade do projeto
+## 2. Donación y prosperidad del proyecto
 
-Para a missão de hoje, faremos uma transação de pelo menos 1 USDC que conseguimos na missão anterior fazendo swap na Uniswap. Esse valor é aproximadamente R$ 5 pela cotação da época que a missão foi publicada. Essa transferência será realizada para a wallet do BOT aqui do projeto a título de doação.
+Para la misión de hoy, haremos una transacción de, por lo menos, 1 USDC que conseguimos en la misión anterior haciendo swap en Uniswap. Este valor es de, aproximadamente, 5R$ para la cotización de la época en la que esta misión fue publicada. Esa transferencia será realizada al wallet del BOT del proyecto, como una donación.
 
 {% hint style="danger" %}
-**Atenção!** Ao realizar essa missão você estará transferindo dinheiro real de sua propriedade para o BOT do projeto. Ou seja, estará fazendo uma doação para o projeto. Essa doação é irreversível, nós não iremos devolver esse dinheiro posteriormente. Prossiga somente se você estiver à vontade de realizar esse pagamento.
+**¡Atención!** Al realizar esta misión, estarás transfiriendo dinero real de tú propiedad para el BOT del proyecto. O sea, estarás haciendo una donación para el proyecto. Esa donación es irreversible. No vamos a poder devolver el dinero luego. Continua si tienes la bondad de realizar ese pago.
 {% endhint %}
 
-Como explicamos anteriormente, toda transação requer uma taxa de gás. Até o momento nós pagamos todas as taxas de todas as transferências dos tokens MELK de recompensa para você pelas missões realizadas. Esse custo saiu do nosso bolso como forma de investimento pelo seu aprendizado até o momento.
+Como explicamos anteriormente, cualquier transacción requiere una tarifa de gas. Hasta este momento, hemos pagado todas las tarifas de todas las transferencias con los tokens MELK como recompensa para todas las misiones que has hecho. Ese costo ha salido de nuestro bolsillo como una inversión, para tu aprendizaje hasta este momento.
 
-Esse dinheiro que iremos receber de você nesta missão será usado para pagar as taxas das transações dos próximos usuários do projeto. Dessa forma, essa sua doação irá ajudar mais pessoas a realizar missões e aprender também tudo isso que você já aprendeu e também ajudará o projeto a prosperar.
+Ese dinero que recibiremos de tí, en esta misión, será usado para pagar las tarifas de las transacciones de los próximos usuarios del proyecto. De esta forma, tu donación ayudará a más personas a realizar misiones y también aprenderán todo lo que tú ya has aprendido, también ayudará a que el proyecto prospere.
 
-Achamos essa maneira de conseguir dar a oportunidade para que cada um possa retribuir um pouco e participar ativamente no sucesso da nossa missão que é de trazer milhares de pessoas para o novo mundo web3.
+Encontramos esta manera de poder dar a todos, la oportunidad de devolver algo y participar activamente en el éxito de nuestra misión, que es traer a miles de personas al nuevo mundo de la Web3.
 
 {% hint style="info" %}
-Ao finalizar essa missão específica, você estará não somente aprendendo, mas efetivamente ajudando outras pessoas nessa corrente do bem que foi estruturada usando a blockchain e os smart contracts.
+Al finalizar esta misión en particular, no solo estarás aprendiendo, si no que estarás, efectivamente, ayudando a otras personas en esta cadena del bien, que fue estructurada utilizando la blockchain y los smart contracts.
 {% endhint %}
 
-## 3. Enviando o USDC
+## 3. Enviando el USDC
 
-Para começar, abra a extensão do Chrome da Metamask.
+Para comenzar, abre la extensión de Chrome de Metamask:
 
 ![](<../.gitbook/assets/image (39).png>)
 
-Seu saldo de MATIC estará aparecendo no meio da tela, como o meu acima, e o de USDC logo abaixo, em Ativos. Clique no USDC:
+Tu saldo MATIC aparecerá en el medio de la pantalla, como el mío arriba, y tu saldo USDC justo debajo, en Activos. Haz click en USDC:
 
 ![](<../.gitbook/assets/image (74).png>)
 
-Sua tela deve ser parecida com essa, com saldo de aproximadamente 2 USDC (que conseguimos na missão anterior).
+Tu pantalla debe ser similar a esta, con un saldo aproximado de 2 USDC (que conseguimos en la misión anterior).
 
-Logo abaixo do saldo temos dois botões: Enviar e Trocar (Send / Swap). Clique no botão Enviar, e sua tela ficará parecida com essa:
+Luego, abajo del saldo tenemos dos botones: Enviar e Intercambiar (Send / Swap). Haz click en el botón Enviar y en tu pantalla aparecerá:
 
 ![](<../.gitbook/assets/image (30).png>)
 
-Sua tela deve ser parecida com essa, tirando a parte dos recentes.
+Tu pantalla debe ser parecida a esta, aparte de las recientes.
 
-Aqui é onde você vai inserir o endereço que vai receber o USDC. Para essa missão, copie o endereço abaixo e cole no campo de Enviar para.
+Aquí es donde vas a ingresar la dirección que recibirá los USDC. Para esta misión, copia la siguiente dirección e ingrésala en el campo de Enviar.
 
 {% hint style="success" %}
 0xdfac3c76f4751c536295881ec377290d1da7a469
 {% endhint %}
 
-Esse endereço corresponde ao endereço da carteira do BOT que envia as recompensas do Experimento MELK. Conforme escrito lá em cima, O USDC recebido será convertido e utilizado para pagar as taxas de _gas_ em cada transação para os futuros usuários.
+Esta dirección corresponde a la dirección de la cartera del BOT que envía las recompensas del Experimento MELK. Como se escribió anteriormente, el USDC recibido se convertirá y será usado para pagar las tarifas de _gas_, en cada transacción, para los futuros usuarios.
 
 ![](<../.gitbook/assets/image (68).png>)
 
-Agora, insira a quantidade de USDC a ser enviada. Para essa transação, vamos enviar pelo meno 1 USDC.
+Ahora, inserta la cantidad de USDC a enviar. Para esta transacción enviaremos, al menos, 1 USDC.
 
 {% hint style="info" %}
-Se você acha que o seu aprendizado até o momento vale mais que isso, fique a vontade para transferir um valor maior. Quanto maior a quantia que recebermos de doação, mais pessoas conseguiremos atingir e trazer para o mundo web3.
+Si tu piensas que tu aprendizaje, hasta este momento, vale más que eso, tranquilamente puedes transferir un valor superior. Cuando mayor sea la cantidad de la donación, serán más personas a las que podremos llegar y traer al mundo Web3.
 {% endhint %}
 
-Depois de inserir a quantia, clique em Next (próximo).
+Después de insertar la cantidad, haz click en Next (siguiente).
 
 ![](<../.gitbook/assets/image (56).png>)
 
-Aqui podemos ler mais detalhes sobre a transação. Depois de ler e confirmar os valores, clique em Confirmar.
+Aquí podremos leer más detalles sobre la transacción. Después de leer y confirmar las transacciones, haz click en Confirmar.
 
 ![](<../.gitbook/assets/image (12).png>)
 
-A transação pode demorar um pouco pra ser minerada dependendo do congestionamento da rede, mas depois de criada ela aparecerá assim na sua carteira.
+La transacción puede demorar un poco en ser minada, dependiendo de la congestión que haya en la red, pero después de hacerla aparecerá de esta forma en tu cartera.
 
 ![](<../.gitbook/assets/image (54).png>)
 
 ![](<../.gitbook/assets/image (16).png>)
 
-Clique nela para ver mais detalhes. No Pop-up aberto, clique em View on Block Explorer para abrir no Polygonscan:
+Haz click ahí para ver más detalles. Con el Pop-up abierto, haz click en View en Block Explorer para abrir Polygonscan:
 
 ![](<../.gitbook/assets/image (110).png>)
 
-Essa tela já é familiar para você, conforme visto na Missão 3. No exemplo dessa captura a nossa transação de transferência foi confirmada com sucesso!
+Esta pantalla es familiar para tí, por lo que hemos visto en la Misión 3. En el ejemplo de esta captura, ¡nuestra transacción fue realizada con éxito!
 
-Para essa missão, mande o hash da transação lá no discord, para receber sua recompensa!
-
-{% hint style="info" %}
-Lembre-se a recompensa dos MELKs vai ser muito importante para você realizar a última missão e ganhar o seu NFT de comprovação de aprendizado.
-{% endhint %}
-
-## 4. Pronto! Agora manda lá no discord o Hash da transação!
-
-Vá até o canal da missão 8 do Experimento MELK no discord e mande o hash da transação para ganhar 10 MELK.
+Para esta misión, ¡envía el hash de la transacción en discord, para recibir tu recompensa!
 
 {% hint style="info" %}
-Por exemplo, no meu caso, o hash da transação é 0x34a41d0422b5fcea45bc17d4b4c6aeaf0f86b6c370f1691ae705ebdf2f8cfb4c
+Recuerda que la recompensa de MELKs será muy importante para que puedas completar la última misión y obtengas un NFT como prueba de tu aprendizaje.
 {% endhint %}
 
-Parabéns! Você aprendeu a fazer uma transação real de USDC. Na próxima missão vamos aprender a assinar uma votação no snapshot.
+## 4. ¡Listo! ¡Ahora envía en Discord el Hash de la transacción
 
-Estamos muito perto do final. Faltam apenas 2 missões para você completar esse módulo e ganhar um NFT exclusivo do primeiro projeto de _Learn-to-Earn_ do Brasil. Continue o bom trabalho que em breve você fará parte de um grupo restrito de pessoas que vão ficar para a história da web3 no Brasil!
+Ve al canal de la misión 8 del Experimento MELK en discord y envía el hash de la transacción para ganar 10 MELK.
 
-Espero que você esteja curtindo bastante essa jornada. Lembre-se de convidar todos @s amig@s para aprender junto e ficarem prontos para a próxima revolução financeira.
+{% hint style="info" %}
+Por ejemplo, en mi caso, el hash de la transacción es 0x34a41d0422b5fcea45bc17d4b4c6aeaf0f86b6c370f1691ae705ebdf2f8cfb4c
+{% endhint %}
 
-​
+¡Felicidades! Aprendiste a hacer una transacción real de USDC. En la próxima misión vamos a aprender a cómo subscribirse a una votación en snapshot.
+
+Estamos muy cerca del final. Falta apenas 1 misión para que puedas completar el módulo y ganar un NFT exclusivo del primer proyecto _Learn-To-Earn_ de Brasil. ¡Continúa el buen trabajo, pronto serás parte de un grupo restringido de personas que pasarán a la historia del Web3 en Latinoamérica!
+
+Espero que estés disfrutando mucho de este viaje. Recuerda invitar a todos tus amigos para aprender juntos y prepararse para la próxima revolución financiera.
