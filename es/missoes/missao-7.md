@@ -1,171 +1,171 @@
 ---
-description: Aprendendo a fazer Swap de tokens!
+description: ¡Aprendiendo a hacer un Swap de tokens!
 ---
 
-# Missão 7
+# Misión 7
 
-Na última missão aprendemos a comprar MATIC. Hoje vamos aprender a fazer swap de tokens numa corretora descentralizada.
+En la última misión aprendimos a comprar MATIC. Hoy aprenderemos a cómo hacer un swap de tokens en un broker descentralizado.
 
-### 1. O que é Swap?
+### 1. ¿Qué es el Swap?
 
-Hoje vamos introduzir o conceito de _swap_, que basicamente é trocar um token por outro. Por exemplo, se eu tenho 10 MATIC e eu quero trocar por ETH, eu faria swap dos meus 10 MATIC para a moeda ETH.
+Hoy introduciremos el concepto de _swap_ el cual es, básicamente, intercambiar un token por otro. Por ejemplo, si tengo 10 MATIC y los quiero cambiar por ETH, intercambiaría mis 10 MATIC a la moneda ETH.
 
-Esse processo pode ser feito em uma corretora centralizada, usando um livro de ordens, onde as pessoas colocam o seu preço de venda e preço de compra e a corretora se encarrega de processar as transações de compra e venda, ou pode ser feito através de Smart Contracts, que é o caso das corretoras descentralizadas, que são protocolos, ou seja, programas de computador que se encarregam de realizar a operação com segurança. Na aula de hoje, vamos focar nas corretoras descentralizadas e utilizar a [Uniswap](https://app.uniswap.org/#/swap?chain=mainnet).
+Este proceso puede hacerse en una casa de cambio centralizada, usando un libro de órdenes donde las personas colocan el precio de venta o el precio de compra y la casa se encarga de procesar las transacciones de compra o venta o también puede hacerse a traves de Smart Contracts. Ese es el caso de las casas de cambio descentralizadas ya que sus protocolos, es decir, los programas informáticos, son los que se encargan de realizar las operaciones, de forma segura. En la clase de hoy nos centraremos en las casas de cambio descentralizadas y utilizaremos [Uniswap](https://app.uniswap.org/#/swap?chain=mainnet).
 
 ### 2. Uniswap
 
-A Uniswap é a corretora mais conhecida e um das mais utilizadas porque ela foi uma das primeiras. O seu protocolo foi implementado na rede Ethereum que foi a primeira rede que viabilizou os Smart Contracts.
+Uniswap es la casa de cambio más conocida y una de las más usadas porque fue una de las primeras. Su protocolo fue implementado en la red Ethereum, siendo la primera red que visibilizó los Smart Contracts.
 
-Conforme as outras redes foram evoluindo, a Uniswap implementou o seu protocolo em outras redes e hoje ela é chamada de _multi-chain_, ou seja, multi redes.
+A medida que otras redes fueron evolucionando, Uniswap implementó su protocolo en otras redes y hoy es llamada _multi-chain_, es decir, multiredes.
 
-A Uniswap se transformou em um ecossistema de vários aplicativos descentralizados, além do swap ela também tem protocolos de investimentos, empréstimos e quase tudo relacionado à DEFI (sigla para _Decentralized Finance_, que em português significa Finanças Descentralizadas).
+Uniswap se transformó en un ecosistema de varias aplicaciones descentralizadas, además del swap también tiene protocolos para inversiones, préstamos y casi todo lo relacionado con DEFI (acrónimo de _Decentralized Finance_, que en español significa Finanzas Descentralizadas).
 
-Para saber mais sobre o ecossistema, entre [nesse link](https://uniswap.org/).
+Para saber más sobre este ecosistema, entra a [este enlace](https://uniswap.org/).
 
-### 3. Fazendo Swap de MATIC
+### 3. Hacer Swap de MATIC
 
 {% hint style="info" %}
-**Importante**! Realize as missões com os mesmos valores descritos neste tutorial e nas capturas de tela, pois a validação também ocorre nos valores da transação.
+**Importante**! Haz las misiones con los mismos valores descritos en este tutorial y las capturas de pantallas, ya que la validación también tiene lugar en los valores de la transacción.
 
-Neste caso o swap precisa ser de PELO MENOS 1.5 MATIC.
+En este caso, el swap requiere MÍNIMAMENTE de 1.5 MATIC.
 
-Nas telas mostradas, o valor de 1.5 MATIC era convertido para 1 USDC, mas isso pode variar com o valor do MATIC no momento que você estiver realizando o experimento. Portanto confira a quantidade resultante de MATIC antes de fazer o swap.
+En las capturas mostradas, el valor de 1.5 MATIC fue convertido a 1 USDC, pero eso puede variar con el valor del MATIC en el momento que tu estés realizando el experimento. Por lo tanto, verifica la cantidad resultante de MATIC antes de hacer el swap.
 {% endhint %}
 
-Para a missão de hoje, vamos fazer Swap de uma parte do MATIC que sobrou em nossa wallet após as missões anteriores. O swap, assim como outras operações, também custa _gas_, já que interage com um smart contract para trocar de um token para outro. Vamos lá!
+Para la misión de hoy, vamos a hacer un Swap de una parte del MATIC que sobró en nuestra wallet luego de las misiones anteriores. El swap, así como otras operaciones, también tiene un costo de _gas_, ya que interactúa con un smart contract para intercambiar un token a otro. ¡Vamos a ello!
 
-Entre no site da Uniswap que fica em [https://uniswap.org/](https://uniswap.org/)
+Entra al sitio de Uniswap en [https://uniswap.org/](https://uniswap.org/)
 
 ![](<../.gitbook/assets/image (6).png>)
 
-Clique no botão _Launch App_ no canto superior direito. Sua tela deve ser parecida com essa:
+Haz click en el botón _Launch App_ en la esquina superior derecha. Tu pantalla debería ser similar a esta:
 
 ![](<../.gitbook/assets/image (21).png>)
 
-A interface é bem simples. Temos dois botões onde selecionaremos os tokens a serem trocados e um botão para conectar a carteira. Note que a moeda padrão de conversão é o Ethereum, mas para a missão de hoje nossa moeda será o MATIC que roda na rede Polygon, como vimos na missão 2.
+La interfaz es muy sencilla. Tenemos dos botones donde seleccionaremos los tokens a ser intercambiados en un botón para conectar la cartera. Toma en cuenta que la moneda de conversión por defecto es Ethereum pero, para la misión de hoy, nuestra moneda será MATIC que se ejecuta en la red Polygon, como vimos en la misión 2.
 
-Como a Uniswap é multi-chain, ela suporta várias redes. Lá no canto direito no topo, você vai ver uma lista de seleção com o Ethereum selecionado. Vamos mudar para a Polygon que é a rede que queremos usar.
+Como Uniswap es multi-chain, soporta varias redes. Aquí, en la esquina superior derecha, verás una lista de selección con Ethereum seleccionado. Vamos a cambiarlo a Polygon, que es la red que queremos usar.
 
 ![](<../.gitbook/assets/image (4).png>)
 
-Veja que a cor do fundo mudou :)
+Mira cómo el color de fondo ha cambiado :)
 
-Vamos agora conectar a carteira. Clique no botão `Conectar-se à carteira`.
+Ahora conectaremos la cartera. Haz click en el botón `conectarse a la cartera.`.
 
 ![](<../.gitbook/assets/image (2).png>)
 
-Aqui temos várias opções de carteira, mas como nas missões anteriores vamos utilizar a Metamask.
+Aquí tenemos varias opciones de cartera, pero como en las misiones anteriores, vamos a utilizar Metamask.
 
 ![](<../.gitbook/assets/image (45).png>)
 
-A tela do site ficará assim e a extensão da Metamask abrirá na sua tela. A tela da Metamask se parecerá com essa:
+La pantalla del sitio web se verá así y la extensión de Metamask se abrirá en tu pantalla. La pantalla de Metamask se verá así:
 
 ![](<../.gitbook/assets/image (111).png>)
 
-Escolha a conta que está sendo usada para o experimento e clique em `Seguinte`:
+Escoge la cuenta que está siendo usada para el experimento y haz click en `siguiente`:
 
 ![](<../.gitbook/assets/image (18).png>)
 
-Aqui terão as permissões que você estará dando para o site, parecidas com as da missão 5. Permissões básicas de leitura, saldo e atividade, além de iniciar uma transação (com a sua confirmação).
+Aquí verás los permisos que estarás dando al sitio, similar a los permisos de la misión 5. Son permisos básicos de lectura, saldo y actividad, además de iniciar una transacción (con tu confirmación).
 
-Depois de conectar a carteira, o site ficará assim:
+Después de conectar la cartera, el sitio web se verá así:
 
 ![](<../.gitbook/assets/image (79).png>)
 
-Podemos ver várias coisas nessa interface. O token a ser trocado, nosso saldo de MATIC, o endereço da nossa carteira e os valores de conversão. Seu saldo aparecerá embaixo do token MATIC, sinalizado abaixo. Agora, do lado esquerdo de MATIC, insira o valor de tokens a serem trocados. Para essa missão, o valor será de 1.5 MATIC.
+Podemos ver varias cosas en la interfaz. El token a ser intercambio, nuestro saldo de MATIC, la dirección de nuestra cartera y los valores de la conversión. Tu saldo aparecerá debajo del token MATIC, mostrado a continuación. Ahora, del lado izquierdo de MATIC, ingresa el valor de los tokens a intercambiar. Para esta misión, el valor será de 1.5 MATIC.
 
 ![](<../.gitbook/assets/image (100).png>)
 
-Agora, vamos escolher qual token iremos converter nossos MATIC. Para a missão de hoje, utilizaremos o USDC. O USDC é uma _stablecoin_.
+Ahora, vamos a escoger cual token convertiremos en nuestra MATIC. Para la misión de hoy, utilizaremos USDC. USDC es una _stablecoin_.
 
-Mas o que é isso?
+Pero, ¿qué es eso?
 
-Uma stablecoin nada mais é do que uma criptomoeda com um valor fixado em alguma moeda fiduciária. O USDC, como o nome indica, tem seu valor fixado no dólar. Então, se o dólar estiver valendo R$ 5, o USDC também estará.
+Un stablecoin no es más que una criptomoneda con un valor fijado en alguna moneda fiduciaria. El USDC, como su nombre lo indica, tiene un valor fijado al dólar. Entonces, si el dólar vale R$ 5, el USDC también valdrá eso.
 
-Existem várias _stablecoins_. atreladas ao dólar, tais como USDT, BUSD, USDD, DAI. Nós não recomentamos o uso da USDT por rumores de que não há lastro real em dólar e achamos a USDC a mais segura.
+Existen varias _stablecoins_ vinculadas al dólar como: USDT, BUSD, USDD o DAI. No recomendamos usar USDT ya que hay rumores de que no hay un respaldo real en dólares y creemos que el USDC es el más seguro.
 
-Continuando, clique em **Selecione um token** (em azul) e escolha o USDC:
+Continuando, haz click en **Selecciona un token** (en azul) y elige USDC:
 
 ![](<../.gitbook/assets/image (28).png>)
 
-Depois de escolher, sua tela deve se parecer com essa:
+Después de escoger, tu pantalla debe ser parecida a esta:
 
 ![](<../.gitbook/assets/image (101).png>)
 
-Para que a gente consiga fazer essa troca é necessário que esse par MATIC vs USDC tenha liquidez na corretora. Como ambas as moedas são muito utilizadas não precisamos nos preocupar com a liquidez desse par. É certeza que a qualquer momento que você esteja fazendo esse exercício haverá liquidez pra você fazer a troca.
+Para que podamos hacer este intercambio, es necesario que este par, MATIC vs USDC, tenga liquidez en la casa de cambio. Como ambas monedas son ampliamente utilizadas, no necesitamos preocuparnos por la liquidez de este par. Así que es seguro que, en cualquier momento que hagas este ejercicio, habrá liquidez para que hagas el intercambio.
 
-Nesta tela podemos ver aproximadamente quantos USDC essa conversão resultará, o nosso saldo nas duas moedas e o valor de um USDC comparado a 1 MATIC. Note que o valor de USDC é o mesmo representado em dólar, pois é uma _stablecoin_.
+En esta pantalla podemos ver, aproximadamente, cuántos USDC resultará de la conversión, nuestro saldo en ambas monedas y el valor de 1 USDC comparado con el de 1 MATIC. Toma en cuenta que el valor del USDC es el mismo que se representa en dólares, ya que es una _stablecoin_.
 
-Basicamente a quantia de USDC que você receberá será 1 vez e meia o preço do MATIC.
+Básicamente, la cantidad de USDC que recibirás será 1.5 veces el precio de MATIC.
 
-Clique em conversão para realizar a operação
+Haz clic en conversión para realizar la operación.
 
 {% hint style="danger" %}
-**Atenção!** Neste momento você está vendendo parte do seu saldo em MATIC. No momento que a gente vende, temos que acreditar que o preço da moeda não vai subir, porque isso significaria uma perda de valor do saldo total da nossa carteira.
+**¡Atención!** En este momento estás vendiendo parte de tu saldo en MATIC. En el momento que vendimos, tenemos que creer que el precio de la moneda no subirá porque eso significa una pérdida en el valor del saldo total de nuestra cartera.
 
-Como estamos aqui apenas aprendendo e não estamos preocupados com a valorização dos MATIC que compramos, podemos seguir tranquilamente.
+Como estamos aquí para aprender y no estamos preocupados con el valor de los dos MATIC que compramos, podemos continuar tranquilamente.
 
-Em outros casos você precisa estar bem seguro(a) do que está fazendo.
+En otros casos, necesitas estar bien seguro(a) de lo que estás haciendo.
 {% endhint %}
 
 ![](<../.gitbook/assets/image (11).png>)
 
-Aqui temos os valores de taxa de serviço e da rede e alguns detalhes de conversão da moeda. É possível perceber que podemos ter uma pequena perda do token (pela mudança de preço enquanto a operação acontece + taxas). Mas a perda é mínima, de no máximo centavos nesse caso. Clique em confirmar a conversão:
+Aquí tenemos los valores de la tarifa del servicio y de la red. También puedes ver algunos detalles de la conversión de la moneda. Hay que tomar en cuenta que podemos tener una pequeña pérdida del token (debimos al cambio de precio mientras se realiza la operación + tarifas). La pérdida es mínima. La mayoría de las veces son centavos, como en este caso. Haz click en confirmar conversión:
 
 ![](<../.gitbook/assets/image (42).png>)
 
-A tela ficará carregando e a Metamask irá abrir no seu navegador, porque a Uniswap precisa da sua confirmação para continuar com a operação. Sua tela ficará como essa:
+La pantalla seguirá cargando y Metamask se abrirá en tu navegador, porque Uniswap necesita tu confirmación para continuar con la operación. Tu pantalla se verá así:
 
 ![](../.gitbook/assets/meta.jpg)
 
-Aqui temos o valor total da transação, incluindo a taxa de _gas_.
+Aquí tenemos el valor total de la transacción, incluida la tarifa del _gas_.
 
 {% hint style="warning" %}
-Essa é a hora de maior atenção. Você precisa conferir o valor que vai sair da sua carteira.
+Este es el momento donde debes tener mayor atención. Debes verificar el valor que va a salir de tu cartera.
 {% endhint %}
 
-Não é o caso da Uniswap, porém sites maliciosos poderiam comandar uma saída de mais MATIC da sua carteira neste momento. A tela da Metamask é que garante o que vai realmente acontecer. Veja que aparece em letras maiores o valor de 1.5 MATIC que está sendo enviado para a Uniswap para realizar a conversão.
+Este no es el caso con Uniswap, pero los sitios malignos podrían ordenar más MATIC de tu billetera en este momento. La pantalla de Metamask es lo que garantizará lo que verdaderamente sucederá. Fíjate que aparece en letras grandes el valor de 1.5 MATIC que se le envía a Uniswap para poder realizar la conversión.
 
-A taxa de gas já é estimada pela Metamask, mas pode ser alterada por você se clicar em _Edit_. Só faça isso quando você já estiver mais familiarizado(a) com os preços de _gas_. Veja que neste exemplo o custo do _gas_ sugerido foi de 0.005516 MATIC que ao preço de $0.68 por MATIC (na data que escrevo este tutorial) representa $0.00379, ou seja, um fração de um centavo de dólar que em reais dá R$ 0,02 (dois centavos de reais).
+La tarifa de gas ya está estimada por Metamask pero puedes alterarla haciendo click en _Edit_. Solo haz esto cuando estés más familiarizado(a) con los precios del _gas_. Observa que en este ejemplo, el costo del _gas_ sugerido fue de 0.005516 MATIC que al precio de $0.68 por MATIC (en la fecha que se escribió el tutorial) representa $0.00379, es decir, una fracción de un centavo de dólar que, en reales, da R$0.02 (dos centavos de reales).
 
-Clique em confirmar para finalizar a transação:
+Haz click en confirmar para finalizar la transacción:
 
 ![](<../.gitbook/assets/image (22).png>)
 
-A operação foi finalizada!
+¡La operación fue finalizada!
 
 {% hint style="warning" %}
-Não saia desta tela antes de finalizar a transação. É importante clicar em Visualizar no Explorer para você poder copiar o hash da transação pois essa é a prova da tarefa que você enviará no Discord.
+No salgas de esta pantalla antes de finalizar la transacción. Es importante hacer click en Ver en el Explorer para que puedas copiar el hash de la transacción, ya que esta es la prueba de la tarea que enviarás en Discord.
 {% endhint %}
 
-Clique em visualizar no explorer para ver a transação:
+Haz click en visualizar en el explorador para ver la transacción:
 
 ![](<../.gitbook/assets/image (95).png>)
 
-Boa! Conseguimos fazer o swap de MATIC para USDC com sucesso!
+¡Bien! Conseguimos hacer un swap de MATIC a USDC con éxito.
 
-### 4. Importando o token USDC
+### 4. Importando el token USDC
 
-Agora vamos importar o token USDC para a nossa carteira, para conseguirmos ver o nosso saldo.
+Ahora vamos a importar el token USDC para nuestra cartera, para que podamos ver el saldo.
 
-Entre na sua metamask e clique em importar tokens, logo abaixo de onde ficam seus tokens MATIC. Nós já fizemos isso antes na missão 2 quando importamos o token MATIC.
+Entra en tu metamask y haz click en importar tokens, justo debajo  de donde están tus tokens MATIC. Ya hemos hecho esto antes, en la misión 2 cuando importamos el token MATIC.
 
 ![](../.gitbook/assets/addtoken.jpg)
 
-Agora copie o endereço abaixo e cole no campo Token Contract Address:
+Ahora copia la dirección que está abajo y coloca en el campo Token Contract Address:
 
 > 0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174
 
-Os outros campos preencherão-se automaticamente. Em seguida, clique em _Add Custom Token._
+Los demás campos se rellenarán automáticamente. Luego, haz click en _Add Custom Token._
 
-Confirme a importação do USDC, e note que o saldo já aparecerá. Esse saldo será o valor de swap que fizemos na missão anterior (aproximadamente 1 USDC na cotação atual).
+Confirma la importación de USDC y nota que el saldo ya aparecerá. Ese saldo tendrá el valor del swap que hemos hecho en la misión anterior (aproximadamente 1 USDC en la cotización actual).
 
-### 5. Pronto! Agora manda lá no discord o hash da transação!
+### 5. ¡Listo! ¡Ahora envía el hash de la transacción en Discord
 
-Parabéns por completar a missão!
+¡Felicidades por completar la misión!
 
-Estamos evoluindo bastante! Aprendemos a fazer swap e entendemos o que é uma stablecoin e a Uniswap! Essas habilidades básicas são muito úteis no mundo da web3, já que isso permite que você utilize todos os serviços descentralizados que estamos construindo.
+¡Estamos progresando mucho! ¡Aprendimos a hacer un swap y entendemos lo que es una stablecoin y Uniswap! Estas habilidades básicas son muy útiles en el mundo de la Web3 ya que, esto permite que tú puedas utilizar todos los servicios descentralizados que estamos construyendo.
 
-Para receber sua recompensa, mande o hash da transação no canal da missão 7 do Discord. O meu hash por exemplo, começa com 0x40d84ef
+Para recibir la recompensa, manda el hash de la transacción en el canal de la misión 7 en Discord. Mi hash, por ejemplo, comienza con 0x40d84ef.
 
-Quando mandar a mensagem não escreva nada além do hash da transação!
+Al enviar el mensaje, ¡no escribas más nada que el hash de la transacción!
