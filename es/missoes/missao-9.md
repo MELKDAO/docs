@@ -1,191 +1,191 @@
 ---
-description: Aprendendo a assinar uma votação no snapshot.
+description: Aprendiendo a suscribirse a una votación en snapshot.
 ---
 
-# Missão 9
+# Misión 9
 
-Na última missão aprendemos a fazer transações reais utilizando o token USDC. Na missão de hoje, vamos aprender o que é o snapshot, sua função e importância em aprender a usá-lo na prática.
+En la última misión aprendimos a hacer transacciones reales utilizando el token USDC. En la misión de hoy, vamos a aprender qué es snapshot, su función y la importancia en aprender a usarlo en la práctica.
 
 ## 1. Snapshot
 
-O Snapshot é um sistema de votação descentralizado. É um sistema utilizado pelas DAOs para fazer a gestão da governança. Muitos tokens têm a utilidade de governança e permitem que os detentores do token votem em determinados assuntos relevantes da DAO.
+Snapshot es un sistema de votación descentralizado. Es un sistema utilizado por las DAOs para hacer gestiones de gobernanza. Muchos tokens tienen una utilidad de gobernanza y permiten que los titulares del token, voten en asuntos determinados relevantes a la DAO.
 
-Esse sistema de votação é extremamente importante e útil quando falamos de descentralização, por isso, se você quiser um dia participar de uma DAO, é importante aprender a registrar o seu voto e participar da gestão da DAO ativamente.
+Ese sistema de votación es extremadamente importante y útil cuando hablamos de descentralización, por eso, si tú quieres participar algún día en una DAO, es importante aprender a registrar tu voto y participar en la gestión de la DAO de forma activa.
 
-O sistema fornece flexibilidade em como o poder de voto é calculado para um voto. Ele suporta vários tipos de voto para abarcar as necessidades de cada organização. Criar propostas e votar no Snapshot é user-friendly e não custa gas, pois o processo é _off-chain_.
+El sistema proporciona flexibilidad en cómo se calcula el poder del voto para un voto. Soporta múltiples tipos de votación para adaptarse a las necesidades de cada organización. La creación de propuestas y la votación en Snapshot son user-friendly y no tiene costo de gas, ya que es un proceso _off-chain_.
 
-Criar propostas e votar nelas é de graça (nenhum custo de _gas_), votos são mensagens assinadas que podem ser verificadas online. O Snapshot fornece múltiplos sistemas de votação, estratégias de voto flexíveis para calcular resultados e tudo isso é código aberto.
+Crear propuestas y votarlas es gratis (no tiene costo de _gas_), los votos son mensajes suscritos que pueden ser verificados en línea. Snapshot ofrece múltiples sistemas de votación, estrategias de votación flexibles para calcular los resultados y todo esto es de código abierto.
 
-Em uma organização descentralizada (DAO), por exemplo, as votações do Snapshot podem ser usadas para decidir o que será feito na empresa. Os votos podem ser feitos utilizando tokens (como o nosso MELK), NFTs e outros assets digitais. Para essa missão, vamos utilizar um espaço criado para ela onde aprenderemos a votar utilizando o Snapshot.
+En una organización descentralizada (DAO), por ejemplo, las votación de Snapshot pueden ser usadas para decidir lo que se hará en la empresa. Los votos pueden ser hechos utilizando tokens (como el nuestro, MELK), NFTs y otros activos digitales. Para esta misión, vamos a utilizar un espacio creado para ellos, donde aprenderemos a votar usando Snapshot.
 
 ## 2. DAOs
 
-O que é uma DAO? E o que elas tem a ver com a nossa missão? Vamos entender isso agora.
+¿Qué es una DAO? ¿Qué tiene que ver con nuestra misión? Vamos a entender esto ahora.
 
-As DAOs, ou organizações distribuídas e autônomas, num conceito mais formal, são grupos de pessoas com metas e objetivos em comum, sendo esse grupo organizado por uma liderança descentralizada, tomando decisões através de votações.
+Las DAOs u organizaciones distribuidas y autónomas, formalizando el concepto, son grupos de personas con metas y objetivos en común, siendo este grupo organizado por un liderazgo descentralizado, tomando decisiones a traves de votaciones.
 
-Em uma análise com o mundo da web2, uma DAO é uma empresa, porém, ninguém é o chefe. A DAO é comandada por todos, através de sistemas de votação, e é aí que entra o Snapshot. A proposta das DAOs é estabelecer uma empresa ou organização que funcione sem a presença de um gerenciamento de hierarquia. As DAOs também fazem uso de _smart contracts_, ou seja, contratos de código que são imutáveis, para implantar operações automatizadas, que ninguém controla.
+En un análisis con el mundo de la Web2, una DAO es una empresa, sin embargo, nadie es el jefe. La DAO está dirigido por todos, a traves de sistemas de votación y ahí, es donde entra el Snapshot. La propuesta de las DAOs es establecer una empresa u organización que funcione sin la presencia de una jerarquía. Las DAOs también hacen uso de los _smart contracts_, es decir, de contratos de código que son inmutables, para implementar operaciones automatizadas que nadie controla.
 
-Veja [esse vídeo de referência](https://youtu.be/Pyi8-qm02hs).
+Vea [este video de referencia](https://youtu.be/Pyi8-qm02hs).
 
-As DAOs tem uma proposta que visa resolver problemas, permitindo a moldagem livre da organização, possibilidade de apresentação de ideias inovadoras por qualquer pessoa (através do sistema de votação) e registro de atividades na blockchain (transparência).
+Las DAOs tienen propuesta que apuntan a la resolución de problemas, permitiendo el libre moldeado de la organización y la posibilidad de presentar ideas innovadoras por cualquier persona (a traves del sistema de votación) y el registro de actividades en la blockchain (transparencia).
 
-O conceito de DAOs é muito novo no mundo e aqui no Brasil existem poucas DAOs. Podemos citar como exemplo a [Web3dev](https://docs.web3dev.com.br/) e a [Bankless Brasil](https://forum.banklessbr.com/).
+El concepto de las DAOs es muy nuevo en el mundo y aquí Brasil existen pocas DAOs; Podemos citar como ejemplo a [Web3dev](https://docs.web3dev.com.br/) y a [Bankless Brasil](https://forum.banklessbr.com/).
 
-## 3. Como é trabalhar pra uma DAO?
+## 3. ¿Cómo podemos trabajar en una DAO?
 
-Depois dessa introdução ao conceito de DAO, você pode estar se perguntando: ok, mas como funciona trabalhar pra uma DAO?
+Después de esta introducción al concepto DAO, puedes estar preguntándote: ok, pero, ¿cómo funciona trabajar para una DAO?
 
-Para explicar esse fluxo de trabalho, vou usar como exemplo a Web3dev, a DAO que citei no parágrafo acima. A Web3dev é uma DAO focada em educação e trabalho nas tecnologias web3. A estrutura da DAO está dividida em Pods. Pods são grupos de trabalho, com estruturas definidas pela própria DAO e no caso da Web3dev, com 2 líderes. Esse grupo (o Pod) se junta para resolver um problema ou implementar algo específico.
+Para explicar el flujo del trabajo, voy a usar como ejemplo a Web3dev, una DAO que cité más arriba. La Web3dev es una DAO enfocada en la educación y el trabajo en las tecnologías de la Web3. La estructura de la DAO está dividida en Pods. Los Pods son grupos de trabajo, con estructuras definidas por la propia DAO y en el caso de la Web3dev, con 2 líderes. Este grupo (o Pod) se junta para resolver un problema o implementar algo en específico.
 
-Se você tiver interesse sobre essa estrutura, [leia sobre PODs no manual da comunidade](https://docs.web3dev.com.br/pods/introducao).
+Si te interesa esta estructura, [lee sobre los PODs en el manual de la comunidad](https://docs.web3dev.com.br/pods/introducao).
 
-Além disso, a DAO possui um orçamento financeiro que é usado para pagar os membros e líderes do POD. A gestão da atividade é feita pelos líderes do pod em conjunto com os membros, utilizando sistemas de votação descentralizado (Snapshot), de maneira que todos possam ajudar para construir uma DAO e serviço melhor. Na parte financeira, é importante destacar que cada DAO possui uma estrutura diferente, mas na Web3dev os líderes de Pod recebem 100USD e membros recebem 50USD. O valor dessa remuneração é algo que poderia ser proposto e votado usando o Snapshot.
+Además de eso, la DAO tiene un presupuesto financiero que es usado para pagar a los miembros y líderes del POD.La gestión de esta actividad es hecha por los líderes del pod, en conjunto con los miembros, utilizando sistemas de votación descentralizado (Snapshot), de manera que todos puedan ayudar a construir una DAO y un mejor servicio. En el aspecto financiero, es importante destacar que cada DAO posee una estructura diferente, pero en la Web3dev los líderes del Pod reciben 100 USD y los miembros reciben 50 USD. El valor de esta remuneración es algo que podría ser propuesto y votado usando Snapshot.
 
-## 4. Governança
+## 4. Gobernanza
 
-A governança de uma DAO representa a maneira com que a DAO será governada, ou seja, como as propostas serão feitas e as ações executadas. De exemplo da Web3dev novamente, a DAO será governada por detentores do token W3D. A política é que a alocação de tesouraria (para financiamento, liquidez e investimento), mudanças de provedor de serviço e atualizações de tokenomics (governança, fornecimento, distribuição) só serão executadas após uma proposta e votação bem-sucedidas. No caso da web3dev, a governança está sendo implementada de forma gradual e em fases. No início da DAO, todas as decisões serão tomadas pelos fundadores da Web3dev, depois serão tratadas pela comunidade.
+La gobernanza de una DAO representa la manera en la cual la DAO será gobernada, es decir, cómo las propuestas serán hechas y ejecutadas. Usando el ejemplo de la Web3dev de nuevo, la DAO será gobernada por los titulares de W3D. La política es que la asignación de la tesorería (para la financiación, liquidez e inversión), los cambios de proveedor de servicios y actualizaciones de los tokenomics (gobernanza, abastecimiento, distribución) sólo serán realizadas luego de una propuesta y votación exitosa. En el caso de la Web3dev, la gobernanza está siendo implementada de forma gradual y en fases. En el inicio de la DAO, todas las decisiones serán tomadas por los fundadores de la Web3dev, después serán manejadas por la comunidad.
 
-Mas por quê os fundadores tomam as decisões no início?
+Pero, ¿por qué los fundadores toman las decisiones al comienzo?
 
-Isso acontece porque no início de uma DAO, as tomadas de decisão pelos fundadores tornam um desenvolvimento inicial mais rápido e prático, permitindo tomadas de decisão rápidas e menos burocráticas. À medida que a DAO cresce, as tomadas de decisões vão sendo passadas para a comunidade e consequentemente, a governança será implementada totalmente.
+Esto sucede porque al inicio de una DAO, las decisiones tomadas por los fundadores hacen que  el desenvolvimiento inicial sea más rápido y práctico, permitiendo una toma de decisiones rápida y con menos burocracia. A medida que las DAO crecen, las decisiones tomadas van siendo pasadas a la comunidad y, eventualmente, la gobernanza será totalmente implementada.
 
 ## 5. Melk DAO
 
-Depois de compreendermos o que é uma DAO, como ela funciona, suas vantagens e diferenças pra uma empresa, é importante ressaltar que: o experimento MELK também é uma DAO. Acreditamos no trabalho descentralizado e na construção de uma comunidade colaboradora. Por isso, hoje vamos ensinar vocês a se juntarem à nossa DAO e votarem contra ou a favor de propostas para ela!
+Después de comprender qué es una DAO, cómo funciona, sus ventajas y diferencias para una empresa, es importante resaltar: el experimento MELK también es una DAO. Creemos en el trabajo descentralizado y en construir una comunidad colaborativa. Por eso, ¡hoy les vamos a enseñar cómo juntarse a nuestra DAO para que voten en contra o a favor de las propuestas!
 
-## 6. Fazendo parte da Melk DAO
+## 6. Ser parte de la DAO MELK
 
-Para começar, vamos entrar no site do snapshot. Entre no link abaixo:
+Para comenzar, vamos a entrar al sitio snapshot en el siguiente enlace:
 
 {% embed url="https://snapshot.org/#/" %}
 
-Sua página deve se parecer com essa:
+La página debe parecerse a esta:
 
 ![](<../.gitbook/assets/image (106).png>)
 
-Vamos entender a tela. Ela é bem simples, temos exemplos de vários "espaços". É assim que chamamos o espaço de votações do Snapshot. Cada espaço representa uma DAO. Também vemos um botão familiar, de conectar a carteira.
+Vamos a entender la pantalla. Es muy sencillo, tenemos varios ejemplos de “espacios”. Eso es lo que llamamos el espacio de votación en Snapshot. Cada espacio representa una DAO. También vemos un botón familiar, conectar la billetera.
 
-Para entrar no espaço da Melk DAO, vamos primeiramente conectar nossa carteira:
+Para entrar al espacio de la DAO Melk, en primer lugar, vamos a conectar nuestra billetera:
 
 ![](<../.gitbook/assets/image (90).png>)
 
-Ao clicar em _Connect wallet_, sua tela deve se parecer com essa:
+Haz click en _Connect wallet_, tu pantalla debe ser similar a esta:
 
 ![](<../.gitbook/assets/image (57).png>)
 
-Clique no item onde está escrito MetaMask.
+Haz click en el ítem donde está escrito MetaMask.
 
-Ao clicar, um pop-up abrirá requisitando sua senha da Metamask e mostrando os termos para conectar a carteira, como já fizemos várias vezes no decorrer das nossas missões.
+Al hacer click, un pop-up se abrirá solicitando tu clave del Metamask y mostrando los términos para conectar la cartera, como ya hemos hecho varias veces en el correr de nuestras misiones.
 
-Depois de conectar a carteira, sua tela deve se parecer com isso:
+Después de conectar la billetera, en tu pantalla debe aparecer esto:
 
 ![](<../.gitbook/assets/image (52).png>)
 
-Note que agora, no canto direito superior, o seu endereço está aparecendo, o que significa que você está conectado ao snapshot! Boa!
+Toma en cuenta que ahora, en la esquina superior derecha, se muestra tu dirección, ¡lo que quiere decir que estás conectado a snapshot! ¡Bien!
 
-Agora, para encontrarmos o espaço da nossa DAO, do projeto MELK, vamos digitar melk na barra de pesquisa:
+Ahora, para encontrar el espacio de nuestra DAO, del proyecto MELK, vamos a escribir melk en la barra de búsqueda:
 
 ![](<../.gitbook/assets/image (97).png>)
 
-Ao digitar melk, sua tela deve parecer com a tela acima, mostrando a nossa MELK DAO como resultado. Legal, encontramos a DAO do projeto!
+Al escribir melk, tu pantalla debe parecerse como la nuestra de arriba, mostrando nuestra DAO MELK como resultado. ¡Muy bien, encontramos la DAO del proyecto!
 
-Agora, vamos fazer parte dessa DAO. Dessa maneira, será possível acompanhar as votações do projeto e integrar todos os participantes do projeto em um só lugar, para que todos possam contribuir com o crescimento do nosso projeto Melk!
+Ahora, vamos a ser parte de esta DAO. De esa manera, será posible acompañar las votaciones del proyecto e integrar a todos los participantes del proyecto en un solo lugar, ¡para que todos puedan contribuir con el crecimiento de nuestro proyecto Melk!
 
-Clique no botão Join, logo abaixo do nome da DAO:
+Haz click en el botón Join
 
 ![](<../.gitbook/assets/image (64).png>)
 
-Ao clicar no botão, um Pop-up da Metamask deve aparecer na sua tela, como esse:
+Un Pop-up de Metamask debe aparecer en tu pantalla, como este:
 
 ![](<../.gitbook/assets/image (25).png>)
 
-Clique em Assinar para concordar com a sua entrada no espaço da MELK DAO!
+Haz click en confirmar para aceptar tu entrada en el espacio DAO MELK!
 
-Ao clicar em assinar, sua tela deve se parecer assim:
+Al hacer click en confirmar, tu pantalla debe aparecer así:
 
 ![](<../.gitbook/assets/image (92).png>)
 
-Note que agora, ao invés de Join, aparece Joined, o que significa que você conseguiu com sucesso entrar no espaço da DAO. Além disso, na parte esquerda do site é possível ver o ícone do projeto melk e um sinal de notificação.
+Date cuenta que ahora, en vez que aparezca Join, aparece Joined, lo que significa que pudiste entrar exitosamente en el espacio de la DAO. Además de eso, en la parte izquierda del sitio es posible ver el ícono del proyecto melk y una notificación.
 
-Para visualizar o espaço, clique no ícone na parte esquerda da tela, sinalizado na imagem acima:
+Para ver el espacio, haz click en el ícono de la parte izquierda de la pantalla, señalado más arriba:
 
 ![](<../.gitbook/assets/image (35).png>)
 
-Aqui é a página inicial do espaço da nossa DAO no snapshot. Podemos visualizar propostas ativas, criar novas propostas, encontrar o Github e o site do projeto Melk e visualizar quantos membros fazem parte do nosso espaço.
+Aquí está la página inicial del espacio de nuestra DAO en snapshot. Podemos ver las propuestas activas, crear nuevas propuestas, encontrar el Github y el sitio del proyecto Melk y visualizar cuántos miembros hacen parte de nuestro espacio.
 
-Por exemplo, vamos visualizar uma das propostas que algum usuário fez para essa missão, na testnet do snapshot.
+Por ejemplo, vamos a visualizar una de las propuestas que algún usuario hizo para esta misión, en el testnet de snapshot.
 
 {% hint style="info" %}
-Pode ser que essa votação não esteja mais ativa no momento que você estiver realizando essa missão.
+Puede ser que esta votación ya no siga estando activa en el momento en el que tu estés haciendo esta misión.
 {% endhint %}
 
 ![](<../.gitbook/assets/image (23).png>)
 
 ![](<../.gitbook/assets/image (38).png>)
 
-Aqui podemos ver várias informações do projeto, como a proposta em si, informações sobre o tipo de votação, os resultados, e por fim, a opção de votar.
+Aquí podemos ver varias informaciones del proyecto, como la propuesta en sí, informaciones sobre el tipo de votación, los resultados y, por fin, la opción de votar.
 
-Entretanto, você pode perceber, se tentar você mesmo, que se você for novo no projeto (ou seja, conseguiu os melks depois da proposta ser criada) não será possível votar, visto que o snapshot dos saldos de melk de cada usuário é feito no dia de criação da proposta, e esse saldo corresponde ao poder de voto.
+Sin embargo, puedes notar, que si intentas hacer lo mismo y eres nuevo en el proyecto (es decir, obtuviste los melks luego que se creó la propuesta) no podrás votar, ya que los snapshot del saldo de melk de cada usuario se toma en el día de la creación de la propuesta y, este saldo corresponde al poder de voto.
 
-Por esse motivo, a prova da missão de hoje não será um voto em uma proposta, mas sim o fato de ter entrado e fazer parte da Melk Dao e a criação de uma proposta, que faremos na próxima fase.
+Por este motivo, la prueba de la misión de hoy no será el voto en una propuesta, sino el hecho de haberte unido y ser parte de la DAO Melk y la creación de una propuesta, que haremos en la siguiente fase.
 
-Caso queira entender mais sobre como o Snapshot funciona como um todo, você pode ler mais sobre isso no link abaixo:
+En el caso que quieras entender más sobre cómo Snapshot funciona como un todo, puedes leer más sobre eso en el siguiente link:
 
 {% embed url="https://docs.snapshot.org/" %}
 
-## 7. Criando uma proposta
+## 7. Creando una propuesta
 
-Para a segunda parte dessa missão, vamos criar uma proposta na rede teste do Snapshot. Isso porquê na mainnet da Snapshot, a Melk DAO será utilizada para a criação de propostas reais e discussões do que faremos na DAO. Como temos muita gente fazendo o experimento, se todos criassem propostas no canal principal do Snapshot da DAO, acabaríamos com muitas propostas e um espaço poluído.
+Para la segunda parte de esta misión, vamos a crear una propuesta de la red de test de Snapshot. Esto es así porque en el mainnet de Snapshot, la DAO Melk será utilizada para la creación de propuestas reales y discusiones de lo que haremos en la DAO. Como tenemos a muchas personas haciendo el experimento, si todos creasen propuestas en el canal principal del Snapshot de la DAO, tendríamos muchas propuestas y un espacio contaminado.
 
-Por isso, entre no link abaixo, que é o snapshot só que em versão de teste:
+Por eso, haz click en el link de abajo, que es el snapshot que sólo se usa como una versión de prueba:
 
 {% embed url="https://demo.snapshot.org/#/" %}
 
-Sua tela deve se parecer com essa:
+Tu pantalla debe parecerse a esta:
 
 ![](<../.gitbook/assets/image (94).png>)
 
-Note que a interface é a mesma do Snapshot original. Conecte sua carteira da mesma maneira que fizemos antes e procure Melk, também da mesma forma feita anteriormente. Depois desses passos, sua tela deve se parecer com isso:
+Date cuenta que la interfaz es la misma que la del Snapshot. Conecta tu billetera del mismo modo que hicimos antes y busca Melk, también del mismo modo que hicimos antes. Después de hacer esos pasos, tu pantalla debería parecerse a esta:
 
 ![](<../.gitbook/assets/image (82).png>)
 
-Agora, clique no botão New Proposal, sinalizado acima.
+Ahora haz click en el botón New Proposal, señalizado arriba.
 
 ![](<../.gitbook/assets/image (59).png>)
 
-Agora, adicione o título e a descrição, como sinalizado acima. A ideia dessa proposta é que você possa dar um feedback sobre o projeto em geral, sobre a sua experiência, o funcionamento das missões, o mecanismo de recompensas, o suporte para erros, enfim, características que você acha interessante destacar e ou fazer críticas construtivas. Além disso, também pode-se fazer uma proposta de sugestões de melhorias e outras coisas que você achar relevante.
+Ahora, agrega el título y una descripción, como se señala arriba. La idea de esta propuesta es que puedas dar un feedback sobre el proyecto en general, sobre tu experiencia, el funcionamiento de las misiones, el mecanismo de recompensas, el soporte para los errores, en fin, las características que tu encuentras interesantes y para hacer críticas constructivas. Además de eso, también puedes hacer una propuesta de sugerencias de mejoras y otras cosas que puedas encontrar relevantes.
 
-Quando estiver pronto, clique em Continue, também sinalizado acima.
+Cuando estés listo, haz click en Continue, también señalado arriba:
 
 ![](<../.gitbook/assets/image (104).png>)
 
-Agora, digite duas opções de escolha quaisquer e clique em publicar. Não altere o sistema de votação. Um pop-up da Metamask vai aparecer na sua tela:
+Ahora, ingresa cualquiera de las dos opciones de selección y haz click en publicar. No cambies el sistema de votación. Aparecerá un pop-up de Metamask en tu pantalla:
 
 ![](<../.gitbook/assets/image (72).png>)
 
-Role ate o final e clique em assinar.
+Desplázate hasta la parte inferior y haz click en aceptar.
 
 ![](<../.gitbook/assets/image (83).png>)
 
-Perceba que agora a sua proposta está pendente, e apenas em 24h ela será publicada e permitirá que outras pessoas votem. Mas, para a verificação da missão, não tem problema estar em período de publicação. Portanto, vamos copiar o link da proposta.
+Date cuenta que ahora, tu propuesta está pendiente y apenas en 24h será publicada y permitirá que otras personas voten. Pero, para la verificación de esta misión, no hay problema en que estemos en el período de publicación. Por lo tanto, vamos a copiar el link de la propuesta.
 
-Clique em Share, ou Compartilhar:
+Haz click en Share, o Compartir:
 
 ![](<../.gitbook/assets/image (86).png>)
 
-E depois em copiar link ou copy link:
+Y luego en copiar link o copy link:
 
 ![](<../.gitbook/assets/image (81).png>)
 
-## 8. Pronto! Manda no Discord o link da sua proposta!
+## 8. ¡Listo! Manda el link de tu propuesta en Discord
 
-Parabéns por completar a penúltima missão do projeto MELK!
+¡Felicitaciones por completar la penúltima misión del proyecto MELK!
 
-Estamos finalizando a nossa jornada. Aprendemos muita coisa, entendemos o que é o snapshot, pra que ele serve e aprendemos a interagir com a plataforma, conectando a nossa wallet e entrando no espaço do projeto Melk. Além disso, também aprendemos a criar nossa própria proposta!
+Estamos finalizando nuestra jornada. Aprendimos muchas cosas, entendimos qué es Snapshot, para qué sirve y aprendimos a interactuar con la plataforma, conectando nuestra wallet y entrando en el espacio del proyecto Melk. Además de eso, ¡también aprendimos a crear nuestra propia propuesta!
 
-Para receber sua recompensa, envie o link da sua nova proposta criada no nosso espaço do snapshot demo! O meu link, por exemplo, é:
+Para recibir tu recompensa, ¡envía el link de su nueva propuesta creada en nuestro espacio de snapshot demo! Mi link, por ejemplo, es:
 
 [https://demo.snapshot.org/#/melkdao.eth/proposal/0xd39d502fae8549f00ea08334e7db19e2bfbb52b35b7f8ebcad086c37a14c8357](https://demo.snapshot.org/#/melkdao.eth/proposal/0xd39d502fae8549f00ea08334e7db19e2bfbb52b35b7f8ebcad086c37a14c8357)
 
-Quando mandar a mensagem, não escreva nada além do link da sua proposta!
+Cuando envíes el mensaje, ¡no escribas más nada si no el link de la propuesta!
