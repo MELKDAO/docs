@@ -38,14 +38,15 @@ Mas nada disso é uma promessa! Também pode acontecer de encerrarmos o experime
 
 Para participar você precisa entrar em um servidor do Discord onde o projeto está rodando. Sege a lista de possíveis comunidades para participar:
 
-| Comunidade        | Link de Acesso                                                 |
-| ----------------- | -------------------------------------------------------------- |
-| web3dev           | [https://discord.gg/B85d25rDUT](https://discord.gg/B85d25rDUT) |
-| Bankless BR DAO   | [https://discord.gg/hJ7qSyfvqF](https://discord.gg/hJ7qSyfvqF) |
-| NFT Gamer         | [https://discord.gg/wytCaHqt3y](https://discord.gg/wytCaHqt3y) |
-| Fantom Chess      | [https://discord.gg/MDGknfCxrn](https://discord.gg/MDGknfCxrn) |
-| Healthtech Brasil | [https://discord.gg/WeWQGSxGVz](https://discord.gg/WeWQGSxGVz) |
-| DGAC              | [https://discord.gg/NEkCVZa9cm](https://discord.gg/NEkCVZa9cm) |
+| Comunidade                | Link de Acesso                                                 |
+| ------------------------- | -------------------------------------------------------------- |
+| web3dev                   | [https://discord.gg/B85d25rDUT](https://discord.gg/B85d25rDUT) |
+| Bankless BR DAO           | [https://discord.gg/hJ7qSyfvqF](https://discord.gg/hJ7qSyfvqF) |
+| NFT Gamer                 | [https://discord.gg/wytCaHqt3y](https://discord.gg/wytCaHqt3y) |
+| Fantom Chess              | [https://discord.gg/MDGknfCxrn](https://discord.gg/MDGknfCxrn) |
+| Healthtech Brasil         | [https://discord.gg/WeWQGSxGVz](https://discord.gg/WeWQGSxGVz) |
+| DGAC                      | [https://discord.gg/NEkCVZa9cm](https://discord.gg/NEkCVZa9cm) |
+| Proprietà Vendas Digitais | [https://discord.gg/y8whXq2By2](https://discord.gg/y8whXq2By2) |
 
 \
 Já dentro do servidor no Discord, busque a área `🎓 | Aprenda e Ganhe (Learn-to-Earn)` e vá para o canal `👉・comece-aqui`
