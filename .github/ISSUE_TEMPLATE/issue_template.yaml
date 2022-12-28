@@ -1,0 +1,35 @@
+name: Melk Dao Docs Issue Template
+description: Use this template to report any issue
+body:
+  - type: dropdown
+    id: issue-type
+    attributes:
+      label: Issue Type
+      description: What type of issue would you like to report?
+      multiple: false
+      options:
+        - Bug
+        - Translation error
+        - Feature request
+        - New language request
+        - Documentation
+      validations: 
+        required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Tell us, what do you want to report and how can we fix it?
+      value: An issue appeared!
+      render: shell
+    validations:
+      required: true
+  - type: textarea
+    id: extra
+    attributes:
+      label: extra comments
+      description: Leave any extra comment or needed information here, including if you want to work in this issue so we can assign you.
+      value: Leave a comment!
+      render: shell
+    validations:
+      required: false
