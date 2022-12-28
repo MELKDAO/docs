@@ -13,8 +13,8 @@ body:
         - Feature request
         - New language request
         - Documentation
-      validations: 
-        required: true
+    validations: 
+      required: true
   - type: textarea
     id: what-happened
     attributes:
