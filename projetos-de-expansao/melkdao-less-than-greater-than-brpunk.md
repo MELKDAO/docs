@@ -2,7 +2,7 @@
 description: Fevereiro, 2023
 ---
 
-# MelkK DAO <> BrPunk
+# MelkDAO <> BrPunk
 
 ## 1. Resumo:
 
@@ -20,18 +20,16 @@ Esta é uma lista de ações não exaustivas que inclui as principais iniciativa
 ### 3.1 MelkDAO:
 
 * Mudança de narrativa para o MelkBot incluindo menções ao tutor BrPunk em:&#x20;
-*
   * Documentação pública
   * Website da DAO
   * Instruções escritas do bot
   * Materiais de divulgação e expansão
   * Vídeos explicativos produzidos para as missões
-* Inclusão do PFP do BrPunk no perfil do MelkBot&#x20;
+  * Inclusão do PFP do BrPunk no perfil do MelkBot&#x20;
 
 ### 3.2 BrPunk:
 
 * Inclusão da narrativa de tutor do MelkBot em:
-*
   * Documentação pública
   * Website do BrPunk
   * Perfil das redes sociais (Twitter/Instagram/Lens)
@@ -48,3 +46,6 @@ Esta é uma lista de ações não exaustivas que inclui as principais iniciativa
 * Instalação do bot: uma vez que um servidor se interesse pelo bot, os membros da MelkDAO se responsabilizam em dar suporte na instalação e nas atividades iniciais com os usuários.&#x20;
 * Conversa com Shira 22/02
 
+## 5. Compensações:
+
+Os detalhes das compensações ainda estão sendo discutidas pelas comunidades.

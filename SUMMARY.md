@@ -7,7 +7,7 @@
 * [💫 Inspiração](inspiracao.md)
 * [🖥 Manual de Instalação](manual-de-instalacao.md)
 * [🌎 Projetos de Expansão](projetos-de-expansao/README.md)
-  * [MelkK DAO <> BrPunk](projetos-de-expansao/melkk-dao-less-than-greater-than-brpunk.md)
+  * [MelkDAO <> BrPunk](projetos-de-expansao/melkdao-less-than-greater-than-brpunk.md)
 
 ## Missões
 
