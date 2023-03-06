@@ -5,6 +5,9 @@
 * [🌐 Community](comunidade.md)
 * [💰 MELK Token](token-melk.md)
 * [💫 Inspiration](inspiracao.md)
+* [🖥 Installation Manual](installation-manual.md)
+* [🌎 Expansion Projects](expansion-projects/README.md)
+  * [MelkDAO <> BrPunk](expansion-projects/melkdao-less-than-greater-than-brpunk.md)
 
 ## Missions
 
