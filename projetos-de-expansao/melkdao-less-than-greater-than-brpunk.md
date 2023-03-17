@@ -54,4 +54,4 @@ Esta é uma lista de ações não exaustivas que inclui as principais iniciativa
 
 ## 5. Compensações:
 
-Os detalhes das compensações ainda estão sendo discutidas pelas comunidades.
+Os detalhes das compensações ainda estão sendo discutidos pelas comunidades.
