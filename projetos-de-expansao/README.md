@@ -1,5 +1,5 @@
 ---
-description: Projetos que colaboram com a expansão da MelkDAO
+description: Projetos que colaboram com a expansão da MelkDAO.
 ---
 
 # 🌎 Colaborações
