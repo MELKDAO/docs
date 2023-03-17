@@ -4,9 +4,15 @@ description: Fevereiro, 2023
 
 # MelkDAO <> BrPunk
 
+## BrPunk: [https://brpunk.com/](https://brpunk.com/)&#x20;
+
+Punk #7406. Colecionador, Investidor, Instrutor na MelkDAO, Curador de Evento.
+
+### _Detalhes colaboração_
+
 ## 1. Resumo:
 
-Este documento detalha a colaboração entre os projetos liderados pelas comunidades da MelkDAO e BrPunk incluindo acordo de ações, processos e compensações.&#x20;
+Este documento detalha a colaboração entre os projetos liderados pelas comunidades da MelkDAO e [BrPunk ](https://brpunk.com/)incluindo acordo de ações e processos.&#x20;
 
 ## 2. Objetivos:
 

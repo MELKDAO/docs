@@ -1,2 +1,0 @@
-# 🌎 Projetos de Expansão
-
