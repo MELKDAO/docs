@@ -6,8 +6,8 @@
 * [💰 Token MELK](token-melk.md)
 * [💫 Inspiração](inspiracao.md)
 * [🖥 Manual de Instalação](manual-de-instalacao.md)
-* [🌎 Colaborações](colaboracoes/README.md)
-  * [MelkDAO <> BrPunk](colaboracoes/melkdao-less-than-greater-than-brpunk.md)
+* [🌎 Colaborações](projetos-de-expansao/README.md)
+  * [MelkDAO <> BrPunk](projetos-de-expansao/melkdao-less-than-greater-than-brpunk.md)
 
 ## Missões
 
