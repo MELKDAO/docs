@@ -1,13 +1,14 @@
 # Table of contents
 
-* [👋 WEB3 School - MELK DAO](README.md)
+* [👋 Welcome to MELK DAO](README.md)
 * [🤓 Learn and Earn?](aprender-e-ganhar.md)
 * [🌐 Community](comunidade.md)
 * [💰 MELK Token](token-melk.md)
 * [💫 Inspiration](inspiracao.md)
 * [🖥 Installation Manual](installation-manual.md)
 * [🌎 Expansion Projects](expansion-projects/README.md)
-  * [MelkDAO <> BrPunk](expansion-projects/melkdao-less-than-greater-than-brpunk.md)
+  * [Web3Dev](expansion-projects/web3dev.md)
+  * [BrPunk](expansion-projects/brpunk.md)
 
 ## Missions
 

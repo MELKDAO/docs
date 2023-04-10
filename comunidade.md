@@ -2,41 +2,31 @@
 
 ### Shall we create a community together? <a href="#user-content-shall-we-create-a-community-together" id="user-content-shall-we-create-a-community-together"></a>
 
-The objective of this experiment is to create a community, but I alone will not create anything. A community is created from the interaction and engagement of its members. The idea of having a community that helps members understand and experience web3 strikes me as very exciting. My intention is just to help get the ball rolling to create a safe learning environment where everyone helps each other.
-
-The goal behind this experiment is not to create a DAO, much less a company. To be part of the community, you don't have to commit to working hours or specific responsibilities, although you can really make the effort and make a huge difference to other people's lives. Consider this environment as an experimental lab organized by a group of friends who have the same common goal and are willing to help each other.
+In the beginning, MELK DAO was an experiment conducted by the project creator, who named the MELK token after his own nickname. However, the founding group that came together to continue the project decided to attribute a meaning to each letter and take ownership of the name. As a result, MELK became an acronym that stands for "Meaningful Experiences for Learning and Knowledge". This is the essence of what we want to offer our participants: a meaningful learning journey that goes beyond simple accumulation of information. We want to create experiences that inspire our users to become agents of change in their communities and actively participate in building the future of web3. We are excited to continue our journey and invite you to be a part of it with us!
 
 ### Who is it for? <a href="#user-content-who-is-it-for" id="user-content-who-is-it-for"></a>
 
-This program is for anyone, although the web3dev community is designed for tech people, you don't have to be or want to be a programmer.
-
-In fact, you don't need to understand anything at all. If you follow the tutorial, you will be able to learn.
-
-The focus is for you to learn how to be a **web3 user**.
+MELK DAO is for anyone interested in participating in the Web3 ecosystem and deepening their knowledge on the subject. One of the tools we currently have is the MelkBot, especially useful for beginners who wish to learn interactively and receive rewards for their learning activities.
 
 ### How does it work? <a href="#user-content-how-does-it-work" id="user-content-how-does-it-work"></a>
 
-I am developing the first missions of the experiment. Each mission is a task that requires learning and execution. Upon completing the quest, you’ll earn some $MELK tokens.
+The MelkBot is an interactive learning tool that works like a chatbot on Discord. Anyone can use the MelkBot, there is no requirement or prior knowledge needed, just install it on a Discord server.&#x20;
 
-Anyone can participate! No prerequisites or prior knowledge are required.
+It provides users with information and tasks related to Web3, such as blockchain concepts, cryptocurrencies, non-fungible tokens (NFTs), and much more. Users can complete these tasks and receive rewards in $MELK for doing so.&#x20;
 
-The purpose of the $MELK token is to create a digital currency in a virtual economy where anyone will be free to experience web3 with ease, without having to spend real money.
+The goal of the $MELK token is to create a digital currency within a virtual economy, allowing anyone to easily experience Web3 without having to spend real money.
 
 ### What will I do with my $MELK? <a href="#user-content-what-will-i-do" id="user-content-what-will-i-do"></a>
 
-At the end of the first module comprising the first 10 lessons, you will be able to use your MELK tokens to buy a personalized NFT, which proves that you have completed the missions and learned the basics of web3.
+At the end of the first module, which comprises the first 10 lessons, you can use your MELK tokens to buy a personalized NFT for yourself, proving that you completed the missions and learned the basics of Web3.
 
-This NFT will be proof that you are prepared for the world of web3. You will be able to put it on your CV or Linkedin.
+This NFT will be proof that you are ready for the world of Web3. You can put it on your resume or LinkedIn, for example. Remember that the MELK token has no intrinsic value. It has a single goal of incentivizing the creation of a community, which can become strong, of people interested in making Web3 a reality for the mainstream population.
 
-As we can recall, the MELK token has no intrinsic value. It has a single objective: to encourage the creation of a community, which can eventually become very strong, of people interested in making web3 a reality for the mainstream (population in general).
-
-Over time and with the growth of the community, we will start to bring more utilities to the token, the NFT and the ecosystem. It is possible that we partner with some company that wants to offer some freebies or exclusive access to those who own the NFT.
-
-But none of this is a promise! It may also happen that we end the experiment after a few months. The most important thing here is that we learn and help each other. Earning the token is a consequence, which may eventually become financially interesting.
+Over time and as the community grows, we will begin to bring more utilities for the token, NFT, and ecosystem.
 
 ### How to participate? <a href="#user-content-how-to-paticipate" id="user-content-how-to-paticipate"></a>
 
-To participate you need to log into a Discord server where the project is running. Here is the list of possible communities to join:
+To participate, you need to join a Discord server where the project is running. Here is a list of possible communities to join:
 
 | Community         | Access Link                                                    |
 | ----------------- | -------------------------------------------------------------- |
@@ -50,11 +40,8 @@ To participate you need to log into a Discord server where the project is runnin
 \
 Once inside the Discord server, search for the `🎓 | Learn-to-Earn` area and then go to the `👉・start here` channel.
 
-In this channel you will find more information about the experiment and the way to carry out the missions. The missions will require you to send information to a certain channel on Discord and all of them will automatically airdrop your tokens.
+In this channel you will find the Melkbot instructor, BrPunk, and more information about the path to complete the missions.
 
-\
-If you have any questions, the `💬・chat` channel is the place to go for help.
+The missions will require you to send information to a specific channel on Discord and all of them will automatically deliver your tokens. If you have any questions, the `💬・chat channel` will be the place to get help.&#x20;
 
-That's it! I think with this information, you're ready to venture into the missions we've prepared and start your web3 journey.
-
-Let's go? Choose a community and start the quests right now ![rocket](https://github.githubassets.com/images/icons/emoji/unicode/1f680.png)
+That's it! I think with this information, you're ready to embark on the missions we've prepared and start your journey into Web3. Let's go? Choose a community and start the missions right now 🚀
