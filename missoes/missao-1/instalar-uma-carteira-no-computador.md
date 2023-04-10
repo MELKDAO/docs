@@ -6,9 +6,9 @@ description: >-
 
 # Instalar uma carteira no Computador
 
-### 1. Faça o download do app da Metamask
+### 1. Faça o download do app da MetaMask
 
-Acesse a página de download da Metamask em [https://metamask.io/download.html](https://metamask.io/download.html)
+Acesse a página de download da MetaMask em [https://metamask.io/download.html](https://metamask.io/download.html)
 
 O site vai detectar qual o navegador você está usando e vai sugerir o link correto.
 
@@ -16,7 +16,7 @@ O site vai detectar qual o navegador você está usando e vai sugerir o link cor
 **Atenção!** É muito importate você confiar na fonte de onde você está fazendo a instalação. Se você instalar de uma fonte insegura, você pode instalar uma versão do app que poderá ser hackeado e seus fundos serão perdidos.
 {% endhint %}
 
-Você precisa se certificar que o link do site oficial está correto. Eu te digo, o site da metamask oficial é **metamask.io**
+Você precisa se certificar que o link do site oficial está correto. Eu te digo, o site da MetaMask oficial é **metamask.io**
 
 O tutorial foi feito usando o Chrome, mas as telas dos outros navegadores são muito similares e você não terá problema em seguir se baseando nessas aqui.
 
@@ -50,7 +50,7 @@ Você estaria permitindo que dados do seu uso sejam enviados para o time do apli
 
 ### 5. Defina uma senha para uso da carteira.
 
-Neste passo você precisa escolher uma senha para acessar a sua carteira. Qualquer pessoa que tiver acesso ao seu computador e saiba essa senha poderá ter acesso aos seus fundos e roubar o seu dinheiro.
+Neste passo você precisa escolher uma senha para acessar a sua carteira. Qualquer pessoa que tiver acesso ao seu computador e saiba essa senha poderá ter acesso aos seus fundos e transferir o seu dinheiro.
 
 {% hint style="warning" %}
 **Atenção!** Escolha uma senha com pelo menos uma minúscula, uma maiúscula, um número e um caracter especial. Não anote essa senha em um papel e muito menos em um arquivo no seu celular ou computador. Recomendo o uso do [1Password](https://1password.com/pt/) para anotar suas senhas.
@@ -66,9 +66,9 @@ A sua carteira é o seu cofre, é por onde você vai manipular o dinheiro que vo
 
 A sua carteira é acessada por um código, chamado chave privada. Essa chave privada é a senha que permite manipular o dinheiro da carteira. Essa chave privada é representada pelo conjunto de 12 palavras, chamadas de _Seed Phrases_ (Palavras Sementes).
 
-Se alguém tiver acesso a essas 12 palavras, poderá roubar todos os seus fundos.
+Se alguém tiver acesso a essas 12 palavras, poderá obter todos os seus fundos.
 
-![](../../.gitbook/assets/MetaMask-5.png)
+<figure><img src="../../.gitbook/assets/MetaMask-5.png" alt=""><figcaption></figcaption></figure>
 
 ### **7. Guarde as palavras sementes**
 

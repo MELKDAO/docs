@@ -6,7 +6,7 @@ description: >-
 
 # Instalar uma carteira no Celular
 
-### 1. Faça o download do app da Metamask
+### 1. Faça o download do app da MetaMask
 
 Se você tiver no iOs, acesse [https://metamask.app.link/skAH3BaF99](https://metamask.app.link/skAH3BaF99)
 
@@ -16,9 +16,9 @@ Se você tiver no Android, acesse [https://metamask.app.link/bxwkE8oF99](https:/
 **Atenção!** É muito importate você confiar na fonte de onde você está fazendo a instalação. Se você instalar de uma fonte insegura, você pode instalar uma versão do app que poderá ser hackeado e seus fundos serão perdidos.
 {% endhint %}
 
-Se você quiser conferir os links, vá até o [site oficial da Metamask](https://metamask.io/) e clique em Download.
+Se você quiser conferir os links, vá até o [site oficial da MetaMask](https://metamask.io/) e clique em Download.
 
-Você também precisa se certificar que o link do site oficial está correto. Eu te digo, o site da metamask oficial é **metamask.io**
+Você também precisa se certificar que o link do site oficial está correto. Eu te digo, o site da MetaMask oficial é **metamask.io**
 
 O tutorial foi feito usando telas do iOS, mas as telas do Android são muito similares e você não terá problema em seguir se baseando nessas aqui.
 
@@ -44,7 +44,7 @@ Você estaria permitindo que dados do seu uso sejam enviados para o time do apli
 
 ### 5. Defina uma senha para uso da carteira.
 
-Neste passo você precisa escolher uma senha para acessar a sua carteira. Qualquer pessoa que tenha posse do seu celular e saiba essa senha poderá ter acesso aos seus fundos e roubar o seu dinheiro.
+Neste passo você precisa escolher uma senha para acessar a sua carteira. Qualquer pessoa que tenha posse do seu celular e saiba essa senha poderá ter acesso aos seus fundos e obter o seu dinheiro.
 
 {% hint style="warning" %}
 **Atenção!** Escolha uma senha com pelo menos uma minúscula, uma maiúscula, um número e um caracter especial. Não anote essa senha em um papel e muito menos em um arquivo no seu celular ou computador. Recomendo o uso do [1Password](https://1password.com/pt/) para anotar suas senhas.

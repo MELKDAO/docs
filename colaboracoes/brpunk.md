@@ -2,7 +2,9 @@
 description: Fevereiro, 2023
 ---
 
-# MelkDAO <> BrPunk
+# BrPunk
+
+MelkBot e BrPunk firmaram uma parceria estratégica para expandir suas atividades no universo cripto. Com a parceria, BrPunk se tornou o principal instrutor do MelkBot.
 
 ## BrPunk: [https://brpunk.com/](https://brpunk.com/)&#x20;
 

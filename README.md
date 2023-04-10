@@ -1,17 +1,16 @@
 ---
-description: $MELK é o primeiro token Learn-to-Earn (aprenda para ganhar) do Brasil.
+description: >-
+  Criadora do primeiro token Learn-to-Earn (aprenda para ganhar) do Brasil!
+  Aqui, você se torna parte da história ao aprender habilidades valiosas do
+  ecossistema da web3 e receber recompensas em $MELK.
 ---
 
-# 👋 Escola WEB3 - MELK DAO
+# 👋 Seja bem-vindo à MELK DAO
 
-O experimento de $MELK tem por objetivo trazer milhares de pessoas para o novo mundo web3.
+A MELK DAO é uma organização dedicada a tornar a web3 uma realidade para todos, oferecendo soluções inovadoras e acessíveis para a adoção da tecnologia blockchain e criptomoedas. Acreditamos que a web3 é o futuro da internet e da economia global, proporcionando uma infraestrutura descentralizada e segura para transações financeiras, governança e desenvolvimento de aplicativos.&#x20;
 
-Já ficou claro pra mim, que as tecnologias da web3 irão revolucionar a maneira com que interagimos socialmente, trabalhamos, estudamos e nos divertimos. Uma nova infraestrutura tecnológica e econômica está sendo criada e aos poucos vamos vivenciar uma disrupção dos modelos tradicionais de trabalho e educação.
+Nosso objetivo é criar uma comunidade forte e ativa em torno da web3, educando as pessoas sobre suas possibilidades e incentivando a colaboração e a criatividade. O token $MELK é uma parte fundamental de nossas ferramentas que visam tornar o processo de aprendizado e engajamento na comunidade web3 mais efetivo, através do método Aprender para Ganhar.
 
-O blockchain, as cryptomoedas e os tokens sociais estão viabilizando mecanismos inovadores de incentivo, recompensa e remuneração que mudarão por completo a forma de colaboração e de geração de valor.
 
-E eu sou um entusiasta dessa nova realidade e como fundador da web3dev estou trabalhando para que esse novo mundo se torne realidade. O token $MELK é mais uma iniciativa para chegar lá.
-
-E esse experimento conta com a colaboração de todos que acreditam nesse novo mundo e querem colaborar para que cheguemos lá todos juntos.
 
 WAGMI ❤️
