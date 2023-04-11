@@ -35,6 +35,7 @@ Para participar você precisa entrar em um servidor do Discord onde o projeto es
 | Healthtech Brasil         | [https://discord.gg/WeWQGSxGVz](https://discord.gg/WeWQGSxGVz) |
 | DGAC                      | [https://discord.gg/NEkCVZa9cm](https://discord.gg/NEkCVZa9cm) |
 | Proprietà Vendas Digitais | [https://discord.gg/y8whXq2By2](https://discord.gg/y8whXq2By2) |
+| NounsBR                   | [https://discord.gg/d6Q8uSHCyD](https://discord.gg/d6Q8uSHCyD) |
 
 \
 Já dentro do servidor no Discord, busque a área 🏆 `| Aprenda e Ganhe (Learn-to-Earn)` e vá para o canal `👉・instruções`
