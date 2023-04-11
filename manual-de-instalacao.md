@@ -1,8 +1,8 @@
 ---
 description: >-
   Este manual destina-se a administradores de servidores que desejam instalar o
-  MelkBot em sua comunidade. Se você é um usuário, não há necessidade de seguir
-  essas instruções.
+  MelkBot para sua comunidade no Discord. Se você é um usuário, não há
+  necessidade de seguir essas instruções.
 ---
 
 # 🖥 Manual de Instalação
