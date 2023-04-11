@@ -32,9 +32,7 @@ Depois de autorizar, provavelmente você terá que passar pelo “captcha” e e
 
 ### Configurando o bot
 
-A configuração do bot é simples e automatizada. Para configurar, digite !melk configServer
-
-em um canal público. Você só pode rodar esse comando se for o dono do servidor. Se tudo der certo, as categorias e os canais devem ser criados. Caso algo dê errado, contate a equipe.
+A configuração do bot é simples e automatizada. Para configurar, digite !melk configServer em um canal público. Você só pode rodar esse comando se for o dono do servidor. Se tudo der certo, as categorias e os canais devem ser criados. Caso algo dê errado, contate a equipe.
 
 {% hint style="info" %}
 Depois de criados, os canais ficam fora de ordem devido a um problema na API do Discord. Por isso, é necessário organizá-los por ordem de missão. Para isso é só clicar no canal da missão e arrastar para a ordem correta.
