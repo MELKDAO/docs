@@ -7,7 +7,7 @@ description: >-
 
 # 🖥 Manual de Instalação
 
-A instalação do Melk Bot é simples, e consiste em dois passos: 1/ acessar o link de autorização do discord e 2/ rodar o comando de instalação dentro do Discord.&#x20;
+A instalação do Melk Bot é simples, e consiste em dois passos: 1/ acessar o link de autorização do Discord e 2/ rodar o comando de instalação dentro do Discord.&#x20;
 
 ### Autorizando o bot
 
