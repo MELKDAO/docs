@@ -1,5 +1,8 @@
 ---
-description: Installing the Melk Bot on your server
+description: >-
+  This manual is intended for server administrators who wish to install the
+  MelkBot and make it available for their Discord community. If you are a user,
+  there is no need to follow these instructions.
 ---
 
 # 🖥 Installation Manual
@@ -29,8 +32,6 @@ Enter this application [link](https://discord.com/oauth2/authorize?client\_id=93
 **Note: if you wish, you can change specific permissions of other categories, so that the above permissions will exist only in the category of the project.**
 
 Once approved, you will probably have to go through the "captcha", and then you will receive a notification that the bot has joined your server. Make sure the bot is on your server. It will appear in the member list.
-
-
 
 ## Setting up the bot
 

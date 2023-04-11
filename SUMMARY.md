@@ -8,7 +8,7 @@
 * [🖥 Installation Manual](installation-manual.md)
 * [🌎 Expansion Projects](expansion-projects/README.md)
   * [Web3Dev](expansion-projects/web3dev.md)
-  * [BrPunk](expansion-projects/brpunk.md)
+  * [BrPunk](expansion-projects/melkdao-less-than-greater-than-brpunk.md)
 
 ## Missions
 
