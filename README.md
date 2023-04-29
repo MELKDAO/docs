@@ -3,6 +3,8 @@ description: >-
   Criadora do primeiro token Learn-to-Earn (aprenda para ganhar) do Brasil!
   Aqui, você se torna parte da história ao aprender habilidades valiosas do
   ecossistema da web3 e receber recompensas em $MELK.
+cover: .gitbook/assets/logo MELK DAO-20.png
+coverY: 92
 ---
 
 # 👋 Seja bem-vindo à MELK DAO
