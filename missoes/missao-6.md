@@ -18,7 +18,7 @@ Como aprendemos nas missões anteriores, o token MATIC é o token padrão da red
 
 As Exchanges centralizadas - apesar do objetivo de descentralização da web3 - ainda são muito utilizadas no mundo cripto. Isso acontece principalmente para a compra de criptomoedas a partir de moeda fiduciária, o dinheiro que estamos acostumados a usa como real, dólar, etc. Nas corretoras centralizadas você também pode realizar a troca de tokens que estão listados. Cada corretora tem uma lista de criptos listadas, algumas criptos mais novas não podem ser compradas em corretoras centralizadas porque ainda não foram listadas.
 
-As principais corretoras brasileiras são: [Mercado Bitcoin](https://www.mercadobitcoin.com.br/) e [Foxbit](https://foxbit.com.br/). As corretoras estrangeiras que funcionam no Brasil mais famosas são [Binance](https://www.binance.com/pt-BR) e [FTX](https://ftx.com/).
+As principais corretoras brasileiras são: [Mercado Bitcoin](https://www.mercadobitcoin.com.br/) e [Foxbit](https://foxbit.com.br/). As corretoras estrangeiras que funcionam no Brasil mais famosas são [Binance](https://www.binance.com/pt-BR) e [Bitso](https://bitso.com/).
 
 Além das Exchanges, temos serviços como o [RampBR](https://rampbr.com/), que permite a compra de criptomoedas de maneira rápida e prática, fazendo o pagamento com Pix, por exemplo.
 
