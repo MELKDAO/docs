@@ -18,7 +18,7 @@ As we learned in previous missions, MATIC is the default token of the Polygon ne
 
 Centralized exchanges - despite web3's decentralized purpose - are still heavily used in the crypto world. This mainly happens for the purchase of cryptocurrencies from fiat currency, which is the money we are used to using like dollars, euros, etc. At centralized exchanges you can also swap listed tokens. Each exchange has its own list of registered cryptocurrencies, however some newer cryptos cannot be purchased on centralized exchanges because they are not yet listed.
 
-The main global centralized exchanges are: [Binance](https://www.binance.com), [Coinbase](https://www.coinbase.com), [Crypto.com](https://www.crypto.com) and [FTX](https://ftx.com/).
+The main global centralized exchanges are: [Binance](https://www.binance.com), [Coinbase](https://www.coinbase.com) and [Crypto.com](https://www.crypto.com).
 
 In addition to Exchanges, we have services such as RampBR, which allows the purchase of cryptocurrencies in a quick and practical way, through bank transfers (PIX), for example.
 
