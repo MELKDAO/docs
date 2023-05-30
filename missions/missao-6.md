@@ -18,7 +18,7 @@ Como aprendimos en misiones anteriores, el token MATIC es el token estándar de 
 
 Los brokers centralizados - a pesar del objetivo de descentralización de la web3 - todavía se usan mucho en el mundo de las cripto. Esto sucede, principalmente, para la compra de criptomonedas a partir de monedas fiduciarias (el dinero que estamos acostumbrados a usar, como peso, dólar, euro, etc). En los brokers centralizados también puedes intercambiar tokens que están listados. Cada intercambio tiene una lista de criptos. Algunas criptos más nuevas, no se pueden comprar en brokers centralizados porque aún no están listadas.
 
-Los principales brokers brasileños son: [Mercado Bitcoin](https://www.mercadobitcoin.com.br/) y [Foxbit](https://foxbit.com.br/). Los brokers extranjeros más famosos que operan en Brasil son [Binance](https://www.binance.com/pt-BR) y [FTX](https://ftx.com/).
+Los principales brokers brasileños son: [Mercado Bitcoin](https://www.mercadobitcoin.com.br/) y [Foxbit](https://foxbit.com.br/). Los brokers extranjeros más famosos que operan en Brasil y America Latina son [Binance](https://www.binance.com/pt-BR) y [Bitso](https://bitso.com/).
 
 Además de Exchanges, contamos con servicios como [RampBR](https://rampbr.com/), que permite la compra de criptomonedas de forma rápida y práctica, realizando el pago con Pix, por ejemplo.
 
