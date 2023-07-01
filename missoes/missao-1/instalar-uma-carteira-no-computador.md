@@ -62,7 +62,7 @@ Você é o único responsável pela segurança da sua carteira. No ambiente web3
 
 A sua carteira é o seu cofre, é por onde você vai manipular o dinheiro que você tem propriedade da Blockchain.
 
-A sua carteira é acessada por um código, chamado chave privada. Essa chave privada é a senha que permite manipular o dinheiro da carteira. Essa chave privada é representada pelo conjunto de 12 palavras, chamadas de _Seed Phrases_ (Palavras Sementes).
+A sua carteira é acessada por um código, chamado chave privada. Essa chave privada é a senha que permite manipular o dinheiro da carteira. Essa chave privada é representada pelo conjunto de 12 palavras, chamadas de Secret Recovery Phrase (Frase de Recuperação Secreta).
 
 Se alguém tiver acesso a essas 12 palavras, poderá obter todos os seus fundos.
 
@@ -117,5 +117,5 @@ Para copiar o seu endereço público, clique nessa área com o código encurtado
 Vá até o canal da Missão 1 no servidor do Discord onde você iniciou a trilha e envie a sua carteira para ganhar 1 MELK.
 
 {% hint style="info" %}
-Lembrando! A suas palavras da Frase de Recuperação Secreta são a segurança de todos os seus tokens. Não salve no celular nem no computador, anote apenas com caneta em um papel e nunca compartilhe com ninguém. Alguns sites de fraude irão te pedir essas palavras para recuperar a sua carteira, mas nunca informe as suas palavras sementes.
+Lembrando! A suas palavras da Frase de Recuperação Secreta são a segurança de todos os seus tokens. Não salve no celular nem no computador, anote apenas com caneta em um papel e nunca compartilhe com ninguém. Alguns sites de fraude irão te pedir essas palavras para recuperar a sua carteira, mas nunca informe as suas palavras da Frase de Recuperação Secreta .
 {% endhint %}
