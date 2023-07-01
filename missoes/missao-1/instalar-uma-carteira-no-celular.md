@@ -62,7 +62,7 @@ Você é o único responsável pela segurança da sua carteira. No ambiente web3
 
 A sua carteira é o seu cofre, é por onde você vai manipular o dinheiro que você tem propriedade da Blockchain.
 
-A sua carteira é acessada por um código, chamado chave privada. Essa chave privada é a senha que permite manipular o dinheiro da carteira. Essa chave privada é representada pelo conjunto de 12 palavras, chamadas de _Seed Phrases_ (Palavras Sementes).
+A sua carteira é acessada por um código, chamado chave privada. Essa chave privada é a senha que permite manipular o dinheiro da carteira. Essa chave privada é representada pelo conjunto de 12 palavras, chamadas de _Secret Recovery Phrase_ (Frase de Recuperação Secreta).
 
 Se alguém tiver acesso a essas 12 palavras, poderá roubar todos os seus fundos.
 

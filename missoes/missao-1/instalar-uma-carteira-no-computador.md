@@ -62,7 +62,7 @@ Você é o único responsável pela segurança da sua carteira. No ambiente web3
 
 A sua carteira é o seu cofre, é por onde você vai manipular o dinheiro que você tem propriedade da Blockchain.
 
-A sua carteira é acessada por um código, chamado chave privada. Essa chave privada é a senha que permite manipular o dinheiro da carteira. Essa chave privada é representada pelo conjunto de 12 palavras, chamadas de Secret Recovery Phrase (Frase de Recuperação Secreta).
+A sua carteira é acessada por um código, chamado chave privada. Essa chave privada é a senha que permite manipular o dinheiro da carteira. Essa chave privada é representada pelo conjunto de 12 palavras, chamadas de _Secret Recovery Phrase_ (Frase de Recuperação Secreta).
 
 Se alguém tiver acesso a essas 12 palavras, poderá obter todos os seus fundos.
 
@@ -86,7 +86,7 @@ A ordem das palavras é relevante para você conseguir recuperar a sua carteira.
 
 <figure><img src="../../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/6 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/6.png" alt=""><figcaption></figcaption></figure>
 
 ### 8. Parabéns, carteira criada com sucesso!
 
@@ -102,7 +102,7 @@ O formato desse endereço muda de acordo com as diferentes blockchains. A Metama
 
 O seu endereço aparece parcialmente abaixo do nome da conta (Account 1).
 
-<figure><img src="../../.gitbook/assets/8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/8 (1).png" alt=""><figcaption></figcaption></figure>
 
 No meu caso o meu endereço aparece assim **0xE8F...Aa44**
 
