@@ -18,5 +18,5 @@ Escolha se você está no celular ou no computador.
 | ---------------------------------------------- | ---------------------------------------------------- |
 
 {% hint style="success" %}
-Se você tiver qualquer dúvida, pergunte no [canal geral do Experimento MELK no discord da web3dev](https://discord.gg/w8smrfEpN4).
+Se você tiver alguma dúvida, pergunte no canal geral do MELK no servidor onde você iniciou a trilha.
 {% endhint %}
