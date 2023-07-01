@@ -169,5 +169,5 @@ Se você comprou ou recebeu os MATICs de outra forma, mande no Discord o seu sal
 Qualquer dúvida, fique a vontade para enviar mensagem no canal de bate-papo e tirar suas dúvidas.
 
 {% hint style="info" %}
-Parabéns! Você agora tem uma moeda que tem valor real em sua carteira, já é um bom avanço para quem está começando. A partir de agora, a atenção precisa aumentar, porque caso você perca as suas palavras sementes ou realize uma operação indesejada, você vai poder perder o dinheiro real.
+Parabéns! Você agora tem uma moeda que tem valor real em sua carteira, já é um bom avanço para quem está começando. A partir de agora, a atenção precisa aumentar, porque caso você perca as suas palavras da Frase de Recuperação Secreta ou realize uma operação indesejada, você vai poder perder o dinheiro real.
 {% endhint %}

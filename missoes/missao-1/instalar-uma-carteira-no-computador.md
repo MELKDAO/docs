@@ -102,7 +102,7 @@ O formato desse endereço muda de acordo com as diferentes blockchains. A Metama
 
 O seu endereço aparece parcialmente abaixo do nome da conta (Account 1).
 
-<figure><img src="../../.gitbook/assets/8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/8 (1).png" alt=""><figcaption></figcaption></figure>
 
 No meu caso o meu endereço aparece assim **0xE8F...Aa44**
 
