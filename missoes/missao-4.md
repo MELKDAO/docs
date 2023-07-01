@@ -196,7 +196,7 @@ São os dados binários que representam as informações que foram passadas para
 
 ### 4. Manda lá no discord o valor total da recompensa da primeira missão para receber a recompensa!
 
-Vá até o canal da Missão 4 do Experimento MELK no discord e mande uma mensagem com o valor total que você recebeu de recompensa na missão 1, mencionado da seção Tokens Transferred. Escreva o valor cheio, com todos os pontos decimais e usando ponto como delimitador. No meu caso, a mensagem a ser enviada seria essa:
+Vá até o canal da Missão 4 do MELK no servidor do Discord onde você iniciou a trilha e mande uma mensagem com o valor total que você recebeu de recompensa na missão 1, mencionado da seção Tokens Transferred. Escreva o valor cheio, com todos os pontos decimais e usando ponto como delimitador. No meu caso, a mensagem a ser enviada seria essa:
 
 > 1.0007855
 
