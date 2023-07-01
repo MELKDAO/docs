@@ -38,13 +38,11 @@ O meu computador está configurado para o idioma Inglês como padrão, então po
 
 Ao clicar no ícone de extensões e no pin da MetaMask, o ícone da MetaMask vai aparecer na barra de ferramentas. Clique no ícone da metamask para abri a janela de configuração.
 
-### 3. Como é sua primeira vez, clique em Criar uma nova carteira
+### 3. Como é sua primeira vez, leia e aceite os termos de uso e clique em Criar uma nova carteira.
 
-![](../../.gitbook/assets/MetaMask.png)
+<figure><img src="../../.gitbook/assets/Instalacao Metamask (1300 × 1470 px).png" alt=""><figcaption></figcaption></figure>
 
-![](../../.gitbook/assets/MetaMask-2.png)
-
-### 4. No próximo passo clique em Não Obrigado![](../../.gitbook/assets/MetaMask-3.png)
+### 4. No próximo passo clique em Não, agradeço![](../../.gitbook/assets/MetaMask-3.png)
 
 Você estaria permitindo que dados do seu uso sejam enviados para o time do aplicativo. Nenhum dado de carteira ou transação é compartilhado, nem qualquer dado que te identifique e eles prometem não compartilhar com ninguém. Não existe risco em permitir, mas eu particularmente prefiro não permitir.
 
@@ -56,7 +54,7 @@ Neste passo você precisa escolher uma senha para acessar a sua carteira. Qualqu
 **Atenção!** Escolha uma senha com pelo menos uma minúscula, uma maiúscula, um número e um caracter especial. Não anote essa senha em um papel e muito menos em um arquivo no seu celular ou computador. Recomendo o uso do [1Password](https://1password.com/pt/) para anotar suas senhas.
 {% endhint %}
 
-![](../../.gitbook/assets/MetaMask-6.png)
+<figure><img src="../../.gitbook/assets/senha.png" alt=""><figcaption></figcaption></figure>
 
 ### **6. Configuração da carteira**
 
@@ -68,31 +66,31 @@ A sua carteira é acessada por um código, chamado chave privada. Essa chave pri
 
 Se alguém tiver acesso a essas 12 palavras, poderá obter todos os seus fundos.
 
-<figure><img src="../../.gitbook/assets/MetaMask-5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
 
-### **7. Guarde as palavras sementes**
+### **7. Guarde a** Frase de Recuperação Secreta&#x20;
 
-É muito importante você fazer a segurança de forma correta das suas palavras sementes.
+É muito importante você fazer a segurança de forma correta das sua Frase de Recuperação Secreta.
 
 {% hint style="warning" %}
 **Atenção!** Você não pode de maneira nenhuma anotar essas palavras no seu celular ou no seu computador, muito menos tirar uma foto da tela. Porque dessa maneira a informação vai ficar em risco caso o seu celular ou computador seja invadido.
 {% endhint %}
 
-A forma segura de guardar as palavras sementes é anotar em um papel com caneta esferográfica e guardar em um lugar seguro em sua casa, de preferência um cofre. Tem pessoas que envolvem o papel onde anotou as palavras em papel alumínio para preservar em caso de acidente.
+A forma segura de guardar as palavras que formam a Frase de Recuperação Secreta é anotar em um papel com caneta esferográfica e guardar em um lugar seguro em sua casa, de preferência um cofre. Tem pessoas que envolvem o papel onde anotou as palavras em papel alumínio para preservar em caso de acidente.
 
-Primeiro clique em Revelar Palavras Secretas e depois anote as palavras na ordem que elas aparecem. Na tela seguinte você precisará escolher as palavras na ordem para conferir se você anotou certo.
+Primeiro clique em Revelar Frase de Recuperação Secreta e depois anote as palavras na ordem que elas aparecem. Na tela seguinte você precisará escolher as palavras na ordem para conferir se você anotou certo.
 
 {% hint style="info" %}
 A ordem das palavras é relevante para você conseguir recuperar a sua carteira.
 {% endhint %}
 
-![](../../.gitbook/assets/MetaMask-7.png)
+<figure><img src="../../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
 
-![](../../.gitbook/assets/MetaMask-8.png)
+<figure><img src="../../.gitbook/assets/6 (1).png" alt=""><figcaption></figcaption></figure>
 
-### 8. Parabéns, você cadastrou a sua carteira!
+### 8. Parabéns, carteira criada com sucesso!
 
-![](../../.gitbook/assets/MetaMask-9.png)
+<figure><img src="../../.gitbook/assets/7.png" alt=""><figcaption></figcaption></figure>
 
 ### 9. Copiando o Endereço Público
 
@@ -104,20 +102,20 @@ O formato desse endereço muda de acordo com as diferentes blockchains. A Metama
 
 O seu endereço aparece parcialmente abaixo do nome da conta (Account 1).
 
-![](../../.gitbook/assets/MetaMask-10.png)
+<figure><img src="../../.gitbook/assets/8.png" alt=""><figcaption></figcaption></figure>
 
-No meu caso o meu endereço aparece assim **0xa04...5878**
+No meu caso o meu endereço aparece assim **0xE8F...Aa44**
 
 Na verdade o meu endereço não é exatamente esse, porque ele está encurtado com três pontinhos no meio.
 
 Para copiar o seu endereço público, clique nessa área com o código encurtado.
 
-![](<../../.gitbook/assets/Screen Shot 2022-01-16 at 18.57.51.png>)
+<figure><img src="../../.gitbook/assets/9.png" alt=""><figcaption></figcaption></figure>
 
 ### 10. Pronto! Agora manda lá no Discord seu endereço público
 
-Vá até o [canal da Missão 1 do Experimento MELK no discord](https://discord.gg/2SjfbXw6pd) e mande a sua carteira para ganhar 1 MELK.
+Vá até o canal da Missão 1 no servidor do Discord onde você iniciou a trilha e envie a sua carteira para ganhar 1 MELK.
 
 {% hint style="info" %}
-Lembrando! A suas palavras sementes são a segurança de todos os seus tokens. Não salve no celular nem no computador, anote apenas com caneta em um papel e nunca compartilhe com ninguém. Alguns sites de fraude irão te pedir essas palavras para recuperar a sua carteira, mas nunca informe as suas palavras sementes.
+Lembrando! A suas palavras da Frase de Recuperação Secreta são a segurança de todos os seus tokens. Não salve no celular nem no computador, anote apenas com caneta em um papel e nunca compartilhe com ninguém. Alguns sites de fraude irão te pedir essas palavras para recuperar a sua carteira, mas nunca informe as suas palavras sementes.
 {% endhint %}

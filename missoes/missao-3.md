@@ -30,7 +30,7 @@ Abra o seu navegador e acesse o endereço [https://polygonscan.com/](https://pol
 
 Você verá uma página conforme a imagem abaixo.
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
 ### 2. Copie e cole o seu endereço no campo de busca.
 

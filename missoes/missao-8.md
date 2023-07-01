@@ -74,7 +74,7 @@ Depois de inserir a quantia, clique em Next (próximo).
 
 Aqui podemos ler mais detalhes sobre a transação. Depois de ler e confirmar os valores, clique em Confirmar.
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (4).png>)
 
 A transação pode demorar um pouco pra ser minerada dependendo do congestionamento da rede, mas depois de criada ela aparecerá assim na sua carteira.
 
