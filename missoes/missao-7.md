@@ -29,7 +29,7 @@ Para saber mais sobre o ecossistema, entre [nesse link](https://uniswap.org/).
 
 Neste caso o swap precisa ser de PELO MENOS 1.5 MATIC.
 
-Nas telas mostradas, o valor de 1.5 MATIC era convertido para 1 USDC, mas isso pode variar com o valor do MATIC no momento que você estiver realizando o experimento. Portanto confira a quantidade resultante de MATIC antes de fazer o swap.
+Nas telas mostradas, o valor de 1.5 MATIC era convertido para 1 USDC, mas isso pode variar com o valor do MATIC no momento que você estiver realizando a missão. Portanto confira a quantidade resultante de MATIC antes de fazer o swap.
 {% endhint %}
 
 Para a missão de hoje, vamos fazer Swap de uma parte do MATIC que sobrou em nossa wallet após as missões anteriores. O swap, assim como outras operações, também custa _gas_, já que interage com um smart contract para trocar de um token para outro. Vamos lá!
@@ -62,7 +62,7 @@ A tela do site ficará assim e a extensão da Metamask abrirá na sua tela. A te
 
 ![](<../.gitbook/assets/image (81).png>)
 
-Escolha a conta que está sendo usada para o experimento e clique em `Seguinte`:
+Escolha a conta que está sendo usada para o missão e clique em `Seguinte`:
 
 ![](<../.gitbook/assets/image (46).png>)
 
