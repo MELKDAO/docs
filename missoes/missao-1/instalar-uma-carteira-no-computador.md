@@ -86,7 +86,7 @@ A ordem das palavras é relevante para você conseguir recuperar a sua carteira.
 
 <figure><img src="../../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/6 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 8. Parabéns, carteira criada com sucesso!
 
