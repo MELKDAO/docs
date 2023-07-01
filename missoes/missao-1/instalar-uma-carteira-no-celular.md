@@ -110,7 +110,7 @@ Para copiar o seu endereço público, selecione essa área com o código encurta
 
 ### 10. Pronto! Agora manda lá no Discord seu endereço público
 
-Vá até o canal da Missão 1 do MELK no Discord, onde você iniciou a trilha, e envie sua carteira para receber 1 MELK.
+Vá até o canal da Missão 1 no servidor do Discord onde você iniciou a trilha e envie sua carteira para receber 1 MELK.
 
 {% hint style="info" %}
 Lembrando! A suas palavras da Frase de Recuperação Secreta são a segurança de todos os seus tokens. Não salve no celular nem no computador, anote apenas com caneta em um papel e nunca compartilhe com ninguém. Alguns sites de fraude irão te pedir essas palavras para recuperar a sua carteira, mas nunca informe as palavras da sua Frase de Recuperação Secreta.
