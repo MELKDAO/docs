@@ -80,9 +80,9 @@ Para copiá-lo por completo, clique em cima dele. Isso te levará até outra pá
 
 ![](<../.gitbook/assets/image (33).png>)
 
-A partir daí, só copie no botão sinalizado acima e mande no [Discord!](https://discord.com/invite/uDyHmwBw6E)
+A partir daí, só copie no botão sinalizado acima e mande no Discord!
 
-Qualquer dúvida, sinta-se livre para mandar mensagens no canal de [bate papo no Discord](https://discord.com/channels/898706705779687435/932249635496525834).
+Qualquer dúvida, sinta-se livre para mandar mensagens no canal de bate papo no Discord.
 
 {% hint style="info" %}
 Nesta missão tivemos 2 aprendizados: Aprendemos como as transações funcionam e aprendemos a visualizar as nossas transações utilizando o site de Scan da rede Polygon.
