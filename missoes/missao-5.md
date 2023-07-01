@@ -94,7 +94,7 @@ Normalmente o hash da assinatura não aparece na tela e não precisa ser manipul
 
 ### 5. Pronto! Agora manda lá no Discord o hash da assinatura
 
-Vá até o canal da missão 5 do Experimento MELK no discord e mande o hash da assinatura para ganhar 10 MELK.
+Vá até o canal da missão 5 no servidor do Discord onde você iniciou a trilha e mande o hash da assinatura para ganhar 10 MELK.
 
 {% hint style="info" %}
 Lembrando! Essa missão não nos dá acesso a nenhum dado sensível da sua carteira, apenas o endereço público, o saldo e permissões básicas de leitura para que o hash da assinatura possa ser gerado e utilizado para verificar sua identidade.
