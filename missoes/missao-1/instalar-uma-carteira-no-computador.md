@@ -86,7 +86,7 @@ A ordem das palavras é relevante para você conseguir recuperar a sua carteira.
 
 <figure><img src="../../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/6 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/6.png" alt=""><figcaption></figcaption></figure>
 
 ### 8. Parabéns, carteira criada com sucesso!
 
@@ -102,7 +102,7 @@ O formato desse endereço muda de acordo com as diferentes blockchains. A Metama
 
 O seu endereço aparece parcialmente abaixo do nome da conta (Account 1).
 
-<figure><img src="../../.gitbook/assets/8 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/8.png" alt=""><figcaption></figcaption></figure>
 
 No meu caso o meu endereço aparece assim **0xE8F...Aa44**
 
@@ -114,7 +114,7 @@ Para copiar o seu endereço público, clique nessa área com o código encurtado
 
 ### 10. Pronto! Agora manda lá no Discord seu endereço público
 
-Vá até o canal da Missão 1 no servidor do Discord onde você iniciou a trilha e envie a sua carteira para ganhar 1 MELK.
+Vá até o canal da Missão 1 no servidor do Discord onde você iniciou a trilha e envie sua carteira para receber 1 MELK.
 
 {% hint style="info" %}
 Lembrando! A suas palavras da Frase de Recuperação Secreta são a segurança de todos os seus tokens. Não salve no celular nem no computador, anote apenas com caneta em um papel e nunca compartilhe com ninguém. Alguns sites de fraude irão te pedir essas palavras para recuperar a sua carteira, mas nunca informe as suas palavras da Frase de Recuperação Secreta .
