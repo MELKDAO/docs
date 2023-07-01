@@ -84,7 +84,7 @@ Para copiar o hash da assinatura, clique em cima dela:
 
 ![](<../.gitbook/assets/image (5) (1).png>)
 
-Parabéns! você realizou sua primiera assinatura com sua carteira. Nenhuma informação foi registrada na Blockchain e por isso não houve necessidade de pagamento de taxas e gas.
+Parabéns! você realizou sua primeira assinatura com sua carteira. Nenhuma informação foi registrada na Blockchain e por isso não houve necessidade de pagamento de taxas e gas.
 
 O site agora possui o _hash_ da assinatura que você realizou, e tendo conhecimento da mensagem que foi assinada, ele consegue validar que você é detentor da chave privada relativa a o endereço da carteira pública.
 
