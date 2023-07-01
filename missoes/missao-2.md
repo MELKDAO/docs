@@ -108,7 +108,7 @@ Perceba também que na listagem de tokens só aparece o token MATIC com o saldo 
 
 ![](<../.gitbook/assets/Screenshot\_29\_01\_22\_16\_49 (1).png>)
 
-Como a rede Polygon foi derivada da rede Ethereum o mesmo endereço público da sua carteira e a mesma chave privada, com as mesmas palavras da Frase de Recuperação Secreta  funcionam para ambas as redes.
+Como a rede Polygon foi derivada da rede Ethereum o mesmo endereço público da sua carteira e a mesma chave privada, com as mesmas palavras da Frase de Recuperação Secreta funcionam para ambas as redes.
 
 Se você olhar o endereço logo abaixo do nome da sua conta, perceberá que permanece o mesmo endereço público que estava presente na rede Ethereum.
 
@@ -162,7 +162,7 @@ Mas espera aí. A recompensa da missão 1 não era de 1 token? Sim, é verdade! 
 
 ### 3. Manda lá no discord o seu saldo em MELK para receber a recompensa dessa missão
 
-Vá até o canal da Missão 2 do Experimento MELK no discord e mande uma mensagem com o valor exato que você recebeu de recompensa pela missão anterior. Escreva exatamente como aparece na Metamask, ou seja, o valor com 3 casas decimais e usando ponto como delimitador. No meu caso a mensagem que eu teria que enviar seria essa:
+Vá até o canal da Missão 2 do MELK no servidor do Discord onde você iniciou a trilha e mande uma mensagem com o valor exato que você recebeu de recompensa pela missão anterior. Escreva exatamente como aparece na Metamask, ou seja, o valor com[^1] 3 casas decimais e usando ponto como delimitador. No meu caso a mensagem que eu teria que enviar seria essa:
 
 > 1.003
 
@@ -174,3 +174,5 @@ Nesta missão tivemos 2 aprendizados:
 1. O primeiro foi sobre as diferentes redes e como configurar uma rede nova na Metamask e;
 2. O segundo foi sobre como configurar um novo token na Metamask.
 {% endhint %}
+
+[^1]: 
