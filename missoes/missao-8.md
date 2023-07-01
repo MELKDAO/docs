@@ -31,7 +31,7 @@ Esse dinheiro que iremos receber de você nesta missão será usado para pagar a
 Achamos essa maneira de conseguir dar a oportunidade para que cada um possa retribuir um pouco e participar ativamente no sucesso da nossa missão que é de trazer milhares de pessoas para o novo mundo web3.
 
 {% hint style="info" %}
-Ao finalizar essa missão específica, você estará não somente aprendendo, mas efetivamente ajudando outras pessoas nessa corrente do bem que foi estruturada usando a blockchain e os smart contracts.
+Ao finalizar essa missão específica, você estará não somente aprendendo, mas efetivamente ajudando outras pessoas a aprenderem mais sobre os conceito básicos da Web3.
 {% endhint %}
 
 ## 3. Enviando o USDC
