@@ -158,7 +158,7 @@ Parabéns!!! Agora os tokens deverão aparecer na sua carteira na Metamask! Voc�
 
 Nessa missão aprendemos diversas coisas, como o que são corretoras centralizadas, algumas análises gerais do token MATIC e como realizar a compra da moeda básica da rede Polygon!
 
-Para provar a missão de hoje, mande o seu saldo de MATIC no canal do discord do Experimento MELK para ganhar 10 tokens MELK! O seu saldo pode ser encontrado abrindo a extensão da Metamask.
+Para provar a missão de hoje, mande o seu saldo de MATIC no canal da Missão 6 no servidor do Discord onde você iniciou a trilha para ganhar 10 tokens MELK! O seu saldo pode ser encontrado abrindo a extensão da Metamask.
 
 Para receber a recompensa, mande **SOMENTE O NÚMERO INTEIRO** do seu saldo.
 
