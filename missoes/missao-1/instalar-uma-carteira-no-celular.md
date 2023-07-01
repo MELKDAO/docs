@@ -70,15 +70,15 @@ Em ambas as telas clique em Start (Começar)
 
 ![](../../.gitbook/assets/IMG\_0647.PNG)![](../../.gitbook/assets/IMG\_0648.PNG)\*\*\*\*
 
-### **7. Guarde as palavras sementes**
+### **7. Guarde as palavras da** Frase de Recuperação Secreta
 
-É muito importante você fazer a segurança de forma correta das suas palavras sementes.
+É muito importante você fazer a segurança de forma correta das sua Frase de Recuperação Secreta.
 
 {% hint style="warning" %}
 **Atenção!** Você não pode de maneira nenhuma anotar essas palavras no seu celular ou no seu computador, muito menos tirar uma foto da tela. Porque dessa maneira a informação vai ficar em risco caso o seu celular ou computador seja invadido.
 {% endhint %}
 
-A forma segura de guardar as palavras sementes é anotar em um papel com caneta esferográfica e guardar em um lugar seguro em sua casa, de preferência um cofre. Tem pessoas que envolvem o papel onde anotou as palavras em papel alumínio para preservar em caso de acidente.
+A forma segura de guardar a Frase de Recuperação Secreta é anotar em um papel com caneta esferográfica e guardar em um lugar seguro em sua casa, de preferência um cofre. Tem pessoas que envolvem o papel onde anotou as palavras em papel alumínio para preservar em caso de acidente.
 
 Na primeira tela clique em View (Visualizar) e depois anote as palavras na ordem que elas aparecem. Na tela seguinte você precisará escolher as palavras na ordem para conferir se você anotou certo.
 
@@ -113,5 +113,5 @@ Para copiar o seu endereço público, selecione essa área com o código encurta
 Vá até o [canal da Missão 1 do Experimento MELK no discord](https://discord.gg/2SjfbXw6pd) e mande a sua carteira para ganhar 1 MELK.
 
 {% hint style="info" %}
-Lembrando! A suas palavras sementes são a segurança de todos os seus tokens. Não salve no celular nem no computador, anote apenas com caneta em um papel e nunca compartilhe com ninguém. Alguns sites de fraude irão te pedir essas palavras para recuperar a sua carteira, mas nunca informe as suas palavras sementes.
+Lembrando! A suas palavras da Frase de Recuperação Secreta são a segurança de todos os seus tokens. Não salve no celular nem no computador, anote apenas com caneta em um papel e nunca compartilhe com ninguém. Alguns sites de fraude irão te pedir essas palavras para recuperar a sua carteira, mas nunca informe as palavras da sua Frase de Recuperação Secreta.
 {% endhint %}
