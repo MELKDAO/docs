@@ -72,7 +72,7 @@ Aqui está um resumo do processo:
 
 ### 5. Manda no Discord o Txn Hash da primeira transação para receber a recompensa dessa missão
 
-Parabéns por chegar até aqui! Vá até o [canal da missão 3 do experimento Melk no Discord](https://discord.com/invite/uDyHmwBw6E) e mande uma mensagem com o hash da transação com o valor de 1 MELK token que vimos no site do Polygon Scan. No meu caso, mandaria esse valor:
+Parabéns por chegar até aqui! Vá até o canal da missão 3 no servidor do Discord onde você iniciou a trilha e mande uma mensagem com o hash da transação com o valor de 1 MELK token que vimos no site do Polygon Scan. No meu caso, mandaria esse valor:
 
 ![](<../.gitbook/assets/image (44).png>)
 
