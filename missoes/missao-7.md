@@ -108,7 +108,7 @@ Como estamos aqui apenas aprendendo e não estamos preocupados com a valorizaç�
 Em outros casos você precisa estar bem seguro(a) do que está fazendo.
 {% endhint %}
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 Aqui temos os valores de taxa de serviço e da rede e alguns detalhes de conversão da moeda. É possível perceber que podemos ter uma pequena perda do token (pela mudança de preço enquanto a operação acontece + taxas). Mas a perda é mínima, de no máximo centavos nesse caso. Clique em confirmar a conversão:
 
