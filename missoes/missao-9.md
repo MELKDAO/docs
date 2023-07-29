@@ -86,7 +86,7 @@ Note que agora, no canto direito superior, o seu endereço está aparecendo, o q
 
 Agora, para encontrarmos o espaço da nossa DAO, do projeto MELK, vamos digitar melk na barra de pesquisa:
 
-![](<../.gitbook/assets/image (108).png>)
+![](<../.gitbook/assets/Screenshot 2023-07-29 1.png>)
 
 Ao digitar melk, sua tela deve parecer com a tela acima, mostrando a nossa MELK DAO como resultado. Legal, encontramos a DAO do projeto!
 
@@ -94,7 +94,7 @@ Agora, vamos fazer parte dessa DAO. Dessa maneira, será possível acompanhar as
 
 Clique no botão Join, logo abaixo do nome da DAO:
 
-![](<../.gitbook/assets/image (48).png>)
+![](<../.gitbook/assets/snapshot missao 9.png>)
 
 Ao clicar no botão, um Pop-up da Metamask deve aparecer na sua tela, como esse:
 
@@ -104,13 +104,13 @@ Clique em Assinar para concordar com a sua entrada no espaço da MELK DAO!
 
 Ao clicar em assinar, sua tela deve se parecer assim:
 
-![](<../.gitbook/assets/image (63).png>)
+![](<../.gitbook/assets/missao 9 joined.png>)
 
-Note que agora, ao invés de Join, aparece Joined, o que significa que você conseguiu com sucesso entrar no espaço da DAO. Além disso, na parte esquerda do site é possível ver o ícone do projeto melk e um sinal de notificação.
+Note que agora, ao invés de Join, aparece Joined, o que significa que você conseguiu com sucesso entrar no espaço da DAO. Além disso, na parte esquerda do site é possível ver o ícone da MELK DAO.
 
 Para visualizar o espaço, clique no ícone na parte esquerda da tela, sinalizado na imagem acima:
 
-![](<../.gitbook/assets/image (26).png>)
+![](<../.gitbook/assets/Screenshot 2023-07-29 1546312.png>)
 
 Aqui é a página inicial do espaço da nossa DAO no snapshot. Podemos visualizar propostas ativas, criar novas propostas, encontrar o Github e o site do projeto Melk e visualizar quantos membros fazem parte do nosso espaço.
 
@@ -120,11 +120,11 @@ Por exemplo, vamos visualizar uma das propostas que algum usuário fez para essa
 Pode ser que essa votação não esteja mais ativa no momento que você estiver realizando essa missão.
 {% endhint %}
 
-![](<../.gitbook/assets/image (25).png>)
-
-![](<../.gitbook/assets/image (10).png>)
+![](broken-reference)
 
 Aqui podemos ver várias informações do projeto, como a proposta em si, informações sobre o tipo de votação, os resultados, e por fim, a opção de votar.
+
+![](../.gitbook/assets/vote.png)
 
 Entretanto, você pode perceber, se tentar você mesmo, que se você for novo no projeto (ou seja, conseguiu os melks depois da proposta ser criada) não será possível votar, visto que o snapshot dos saldos de melk de cada usuário é feito no dia de criação da proposta, e esse saldo corresponde ao poder de voto.
 
@@ -148,17 +148,17 @@ Sua tela deve se parecer com essa:
 
 Note que a interface é a mesma do Snapshot original. Conecte sua carteira da mesma maneira que fizemos antes e procure Melk, também da mesma forma feita anteriormente. Depois desses passos, sua tela deve se parecer com isso:
 
-![](<../.gitbook/assets/image (113).png>)
+![](../.gitbook/assets/proposal.png)
 
 Agora, clique no botão New Proposal, sinalizado acima.
 
-![](<../.gitbook/assets/image (89).png>)
+![](<../.gitbook/assets/proposal creation.png>)
 
 Agora, adicione o título e a descrição, como sinalizado acima. A ideia dessa proposta é que você possa dar um feedback sobre o projeto em geral, sobre a sua experiência, o funcionamento das missões, o mecanismo de recompensas, o suporte para erros, enfim, características que você acha interessante destacar e ou fazer críticas construtivas. Além disso, também pode-se fazer uma proposta de sugestões de melhorias e outras coisas que você achar relevante.
 
 Quando estiver pronto, clique em Continue, também sinalizado acima.
 
-![](<../.gitbook/assets/image (73).png>)
+![](../.gitbook/assets/choice.png)
 
 Agora, digite duas opções de escolha quaisquer e clique em publicar. Não altere o sistema de votação. Um pop-up da Metamask vai aparecer na sua tela:
 
@@ -166,17 +166,17 @@ Agora, digite duas opções de escolha quaisquer e clique em publicar. Não alte
 
 Role ate o final e clique em assinar.
 
-![](<../.gitbook/assets/image (110).png>)
+![](<../.gitbook/assets/Screenshot 2023-07-29 160937.png>)
 
 Perceba que agora a sua proposta está pendente, e apenas em 24h ela será publicada e permitirá que outras pessoas votem. Mas, para a verificação da missão, não tem problema estar em período de publicação. Portanto, vamos copiar o link da proposta.
 
 Clique em Share, ou Compartilhar:
 
-![](<../.gitbook/assets/image (102).png>)
+![](../.gitbook/assets/share.png)
 
 E depois em copiar link ou copy link:
 
-![](<../.gitbook/assets/image (86).png>)
+![](<../.gitbook/assets/copy link.png>)
 
 ## 8. Pronto! Manda no Discord o link da sua proposta!
 
