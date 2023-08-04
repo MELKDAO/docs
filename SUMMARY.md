@@ -23,4 +23,4 @@
 * [Missão 7](missoes/missao-7.md)
 * [Missão 8](missoes/missao-8.md)
 * [Missão 9](missoes/missao-9.md)
-* [Copy of Missão 10](missoes/copy-of-missao-10.md)
+* [Missão 10](missoes/missao-10.md)
