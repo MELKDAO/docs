@@ -2,7 +2,7 @@
 description: Aprendendo sobre NFT
 ---
 
-# Missão 10
+# Copy of Missão 10
 
 Parabéns! Você chegou até a última missão do nosso primeiro módulo! Aprendemos muitas coisas, desde instalar Metamask e criar nossa wallet até fazer transações mais complexas de swap e criação de propostas no snapshost. Incrível! Foi uma jornada e tanto.
 
