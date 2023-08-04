@@ -1,5 +1,16 @@
 ---
 description: Aprendendo a assinar uma votação no snapshot.
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
 # Missão 9
